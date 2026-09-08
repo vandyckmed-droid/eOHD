@@ -50,3 +50,4 @@ For the last trading day of each month from 2007-01: Common Stock, close >= $5, 
 ## Studies
 
 - `momentum.py` — Study 1: 12-1 month momentum within the point-in-time S&P 500, top/bottom 50 equal weight, monthly rebalance, 1996-2026. Includes an adjusted-vs-raw return cross-check that drops inconsistent stock-months. Result: winners beat losers by ~5%/yr, but the top 50 only matched equal-weight S&P 500 after 0.2% costs; large 2009 momentum crash.
+- `momentum_deciles.py` — Study 2: ten momentum buckets (12/6/3-month lookbacks) in the point-in-time S&P 500, 1996-2026. Result: the information is mostly in the losers (worst 20% by trailing 12-month return lag by 3-4%/yr in both halves of the sample); winners add 1-2%; 3-month lookback carries nothing. `mlib.py` holds the shared loaders and consistency check.
