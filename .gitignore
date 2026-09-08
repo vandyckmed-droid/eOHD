@@ -6,3 +6,4 @@ state.json
 errors.log
 __pycache__/
 pull.log
+data/*_from2005*
