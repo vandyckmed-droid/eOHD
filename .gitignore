@@ -1,4 +1,4 @@
-data/
+data/*.tmp
 universe/
 qa/
 qa_report.md
