@@ -1,0 +1,3998 @@
+[
+{
+"dateAdded": "July 7, 2026",
+"addedSecurity": "Space Exploration Technologies Corp.",
+"removedTicker": null,
+"removedSecurity": null,
+"date": "2026-07-06",
+"symbol": "SPCX",
+"reason": "SpaceX was added to the index on an accelerated basis, due to updated rules aimed at incorporating newly public megacap companies at a faster pace."
+},
+{
+"dateAdded": "June 22, 2026",
+"addedSecurity": "Rocket Lab USA, Inc.",
+"removedTicker": "VRSK",
+"removedSecurity": "Verisk Analytics",
+"date": "2026-06-22",
+"symbol": "RKLB",
+"reason": "Quarterly rebalance"
+},
+{
+"dateAdded": "June 22, 2026",
+"addedSecurity": "Nebius Group N.V.",
+"removedTicker": "CTSH",
+"removedSecurity": "Cognizant",
+"date": "2026-06-22",
+"symbol": "NBIS",
+"reason": "Quarterly rebalance"
+},
+{
+"dateAdded": "June 22, 2026",
+"addedSecurity": "Astera Labs, Inc. Common Stock",
+"removedTicker": "INSM",
+"removedSecurity": "Insmed",
+"date": "2026-06-22",
+"symbol": "ALAB",
+"reason": "Quarterly rebalance"
+},
+{
+"dateAdded": "June 22, 2026",
+"addedSecurity": "Teradyne, Inc.",
+"removedTicker": "ZS",
+"removedSecurity": "Zscaler",
+"date": "2026-06-22",
+"symbol": "TER",
+"reason": "Quarterly rebalance"
+},
+{
+"dateAdded": "June 22, 2026",
+"addedSecurity": "CoreWeave, Inc. Class A Common Stock",
+"removedTicker": "CHTR",
+"removedSecurity": "Charter Communications",
+"date": "2026-06-22",
+"symbol": "CRWV",
+"reason": "Quarterly rebalance"
+},
+{
+"dateAdded": "May 18, 2026",
+"addedSecurity": "Lumentum Holdings Inc.",
+"removedTicker": "CSGP",
+"removedSecurity": "CoStar Group",
+"date": "2026-05-17",
+"symbol": "LITE",
+"reason": "CoStar did not meet the minimum monthly weight requirements."
+},
+{
+"dateAdded": "April 20, 2026",
+"addedSecurity": "Sandisk Corporation",
+"removedTicker": "TEAM",
+"removedSecurity": "Atlassian Corporation",
+"date": "2026-04-19",
+"symbol": "SNDK",
+"reason": "Atlassian did not meet the minimum monthly weight requirements."
+},
+{
+"dateAdded": "January 20, 2026",
+"addedSecurity": "Walmart",
+"removedTicker": "AZN",
+"removedSecurity": "AstraZeneca",
+"date": "2026-01-19",
+"symbol": "WMT",
+"reason": "Walmart transferred its listing from NYSE to NASDAQ and replaced AstraZeneca in the index"
+},
+{
+"dateAdded": "January 5, 2026",
+"addedSecurity": "Versant",
+"removedTicker": null,
+"removedSecurity": null,
+"date": "2026-01-04",
+"symbol": "VSNT",
+"reason": "Versant was spun off from Comcast"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Western Digital",
+"removedTicker": "TTD",
+"removedSecurity": "Trade Desk",
+"date": "2025-12-21",
+"symbol": "WDC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Ferrovial SE",
+"removedTicker": "CDW",
+"removedSecurity": "CDW Corporation",
+"date": "2025-12-21",
+"symbol": "FER",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Insmed Incorporated",
+"removedTicker": "GFS",
+"removedSecurity": "GlobalFoundries",
+"date": "2025-12-21",
+"symbol": "INSM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Monolithic Power Systems",
+"removedTicker": "LULU",
+"removedSecurity": "Lululemon Athletica",
+"date": "2025-12-21",
+"symbol": "MPWR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Seagate Technology Holdings",
+"removedTicker": "ON",
+"removedSecurity": "ON Semiconductor",
+"date": "2025-12-21",
+"symbol": "STX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2025",
+"addedSecurity": "Alnylam Pharmaceuticals",
+"removedTicker": "BIIB",
+"removedSecurity": "Biogen",
+"date": "2025-12-21",
+"symbol": "ALNY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 6, 2025",
+"addedSecurity": "Solstice Advanced Materials",
+"removedTicker": "SOLS",
+"removedSecurity": "Solstice Advanced Materials",
+"date": "2025-11-05",
+"symbol": "SOLS",
+"reason": "Solstice Advanced Materials did not meet the minimum monthly weight requirements"
+},
+{
+"dateAdded": "October 30, 2025",
+"addedSecurity": "Solstice Advanced Materials",
+"removedTicker": null,
+"removedSecurity": null,
+"date": "2025-10-29",
+"symbol": "SOLS",
+"reason": "Solstice Advanced Materials was spun off from Honeywell"
+},
+{
+"dateAdded": "July 28, 2025",
+"addedSecurity": "Thomson Reuters Corporation",
+"removedTicker": "ANSS",
+"removedSecurity": "ANSYS Inc",
+"date": "2025-07-28",
+"symbol": "TRI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 19, 2025",
+"addedSecurity": "Shopify",
+"removedTicker": "MDB",
+"removedSecurity": "MongoDB",
+"date": "2025-05-18",
+"symbol": "SHOP",
+"reason": "MongoDB did not meet the minimum monthly weight requirements."
+},
+{
+"dateAdded": "January 9, 2026",
+"addedSecurity": null,
+"removedTicker": "VSNT",
+"removedSecurity": "Versant",
+"date": "2025-01-08",
+"symbol": "VSNT",
+"reason": "Versant did not meet the minimum monthly weight requirements"
+},
+{
+"dateAdded": "December 23, 2024",
+"addedSecurity": "Palantir Technologies",
+"removedTicker": "ILMN",
+"removedSecurity": "Illumina Inc.",
+"date": "2024-12-22",
+"symbol": "PLTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2024",
+"addedSecurity": "Axon Enterprise Inc.",
+"removedTicker": "SMCI",
+"removedSecurity": "Super Micro Computer Inc",
+"date": "2024-12-22",
+"symbol": "AXON",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2024",
+"addedSecurity": "MicroStrategy Inc.",
+"removedTicker": "MRNA",
+"removedSecurity": "Moderna Inc.",
+"date": "2024-12-22",
+"symbol": "MSTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 18, 2024",
+"addedSecurity": "Applovin Corp",
+"removedTicker": "DLTR",
+"removedSecurity": "Dollar Tree Inc",
+"date": "2024-11-17",
+"symbol": "APP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 22, 2024",
+"addedSecurity": "Super Micro Computer Inc",
+"removedTicker": "WBA",
+"removedSecurity": "Walgreens Boots Alliance Inc",
+"date": "2024-07-21",
+"symbol": "SMCI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 24, 2024",
+"addedSecurity": "Arm Holdings",
+"removedTicker": "SIRI",
+"removedSecurity": "Sirius XM",
+"date": "2024-06-24",
+"symbol": "ARM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 18, 2024",
+"addedSecurity": "Linde plc",
+"removedTicker": "SPLK",
+"removedSecurity": "Splunk Inc",
+"date": "2024-03-18",
+"symbol": "LIN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "DoorDash Inc",
+"removedTicker": "ENPH",
+"removedSecurity": "Enphase Energy Inc",
+"date": "2023-12-18",
+"symbol": "DASH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "",
+"removedTicker": "SGEN",
+"removedSecurity": "Seagen Inc",
+"date": "2023-12-18",
+"symbol": "TTWO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "CDW Corporation",
+"removedTicker": "ALGN",
+"removedSecurity": "Align Technology Inc",
+"date": "2023-12-18",
+"symbol": "CDW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "",
+"removedTicker": "EBAY",
+"removedSecurity": "eBay Inc",
+"date": "2023-12-18",
+"symbol": "CCEP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "MongoDB Inc",
+"removedTicker": "JD",
+"removedSecurity": "JD.com Inc",
+"date": "2023-12-18",
+"symbol": "MDB",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "Roper Technologies Inc",
+"removedTicker": "LCID",
+"removedSecurity": "Lucid Group Inc",
+"date": "2023-12-18",
+"symbol": "ROP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2023",
+"addedSecurity": "Splunk Inc",
+"removedTicker": "ZM",
+"removedSecurity": "Zoom Video Communications Inc",
+"date": "2023-12-18",
+"symbol": "SPLK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 17, 2023",
+"addedSecurity": "Trade Desk Inc",
+"removedTicker": "ATVI",
+"removedSecurity": "Activision Blizzard Inc",
+"date": "2023-07-17",
+"symbol": "TTD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 20, 2023",
+"addedSecurity": "ON Semiconductor Corp",
+"removedTicker": "RIVN",
+"removedSecurity": "Rivian Automotive Inc",
+"date": "2023-06-20",
+"symbol": "ON",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 7, 2023",
+"addedSecurity": "GE HealthCare Technologies Inc",
+"removedTicker": "FISV",
+"removedSecurity": "Fiserv Inc",
+"date": "2023-06-07",
+"symbol": "GEHC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "",
+"removedTicker": "NTES",
+"removedSecurity": "NetEase Inc",
+"date": "2022-12-19",
+"symbol": "NTES",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "Warner Bros Discovery Inc",
+"removedTicker": "SPLK",
+"removedSecurity": "Splunk Inc",
+"date": "2022-12-19",
+"symbol": "WBD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "GlobalFoundries Inc",
+"removedTicker": "BIDU",
+"removedSecurity": "Baidu Inc",
+"date": "2022-12-19",
+"symbol": "GFS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "Baker Hughes Co",
+"removedTicker": "MTCH",
+"removedSecurity": "Match Group Inc",
+"date": "2022-12-19",
+"symbol": "BKR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "Diamondback Energy Inc",
+"removedTicker": "DOCU",
+"removedSecurity": "DocuSign Inc",
+"date": "2022-12-19",
+"symbol": "FANG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "CoStar Group Inc",
+"removedTicker": "VRSN",
+"removedSecurity": "VeriSign Inc",
+"date": "2022-12-19",
+"symbol": "CSGP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2022",
+"addedSecurity": "Rivian Automotive Inc",
+"removedTicker": "SWKS",
+"removedSecurity": "Skyworks Solutions Inc",
+"date": "2022-12-19",
+"symbol": "RIVN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 21, 2022",
+"addedSecurity": "Enphase Energy Inc",
+"removedTicker": "OKTA",
+"removedSecurity": "Okta Inc",
+"date": "2022-11-21",
+"symbol": "ENPH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 22, 2022",
+"addedSecurity": "AstraZeneca plc (ADR)",
+"removedTicker": "XLNX",
+"removedSecurity": "Xilinx Inc",
+"date": "2022-02-22",
+"symbol": "AZN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 2, 2022",
+"addedSecurity": "Constellation Energy Corp",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2022-02-02",
+"symbol": "CEG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 24, 2022",
+"addedSecurity": "Old Dominion Freight Line Inc",
+"removedTicker": "PTON",
+"removedSecurity": "Peloton Interactive Inc",
+"date": "2022-01-24",
+"symbol": "ODFL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Palo Alto Networks Inc",
+"removedTicker": "CHKP",
+"removedSecurity": "Check Point Software Technologies Ltd",
+"date": "2021-12-20",
+"symbol": "PANW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Airbnb Inc",
+"removedTicker": "CDW",
+"removedSecurity": "CDW Corp",
+"date": "2021-12-20",
+"symbol": "ABNB",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Fortinet Inc",
+"removedTicker": "CERN",
+"removedSecurity": "Cerner Corp",
+"date": "2021-12-20",
+"symbol": "FTNT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Lucid Group Inc",
+"removedTicker": "TCOM",
+"removedSecurity": "Trip.com Group Ltd",
+"date": "2021-12-20",
+"symbol": "LCID",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Zscaler Inc",
+"removedTicker": "INCY",
+"removedSecurity": "Incyte Corp",
+"date": "2021-12-20",
+"symbol": "ZS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "Datadog Inc",
+"removedTicker": "FOX",
+"removedSecurity": "Fox Corp",
+"date": "2021-12-20",
+"symbol": "DDOG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2021",
+"addedSecurity": "",
+"removedTicker": "FOXA",
+"removedSecurity": "Fox Corp Class B",
+"date": "2021-12-20",
+"symbol": "FOXA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 26, 2021",
+"addedSecurity": "CrowdStrike Holdings Inc",
+"removedTicker": "MXIM",
+"removedSecurity": "Maxim Integrated Products Inc",
+"date": "2021-08-26",
+"symbol": "CRWD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 21, 2021",
+"addedSecurity": "Honeywell International Inc",
+"removedTicker": "ALXN",
+"removedSecurity": "Alexion Pharmaceuticals Inc",
+"date": "2021-07-21",
+"symbol": "HON",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "Atlassian Corporation PLC",
+"removedTicker": "LBTYA",
+"removedSecurity": "Liberty Global Plc Class A",
+"date": "2020-12-21",
+"symbol": "TEAM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "American Electric Power Company Inc",
+"removedTicker": "BMRN",
+"removedSecurity": "Biomarin Pharmaceutical Inc",
+"date": "2020-12-21",
+"symbol": "AEP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "Marvell Technology Group Ltd",
+"removedTicker": "CTXS",
+"removedSecurity": "Citrix Systems Inc",
+"date": "2020-12-21",
+"symbol": "MRVL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "Match Group, Inc",
+"removedTicker": "EXPE",
+"removedSecurity": "Expedia Inc",
+"date": "2020-12-21",
+"symbol": "MTCH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "Okta Inc",
+"removedTicker": "TTWO",
+"removedSecurity": "",
+"date": "2020-12-21",
+"symbol": "OKTA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "",
+"removedTicker": "LBTYK",
+"removedSecurity": "Liberty Global Plc Class C",
+"date": "2020-12-21",
+"symbol": "LBTYK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2020",
+"addedSecurity": "Peloton Interactive, Inc",
+"removedTicker": "ULTA",
+"removedSecurity": "Ulta Salon Cosmetics and Fragrance Inc",
+"date": "2020-12-21",
+"symbol": "PTON",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 19, 2020",
+"addedSecurity": "Keurig Dr Pepper Inc",
+"removedTicker": "WDC",
+"removedSecurity": "Western Digital Corp",
+"date": "2020-10-19",
+"symbol": "KDP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 24, 2020",
+"addedSecurity": "Pinduoduo Inc.",
+"removedTicker": "NTAP",
+"removedSecurity": "NetApp Inc",
+"date": "2020-08-24",
+"symbol": "PDD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 20, 2020",
+"addedSecurity": "Moderna Inc",
+"removedTicker": "CSGP",
+"removedSecurity": "CoStar Group",
+"date": "2020-07-20",
+"symbol": "MRNA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 22, 2020",
+"addedSecurity": "DocuSign Inc",
+"removedTicker": "UAL",
+"removedSecurity": "United Continental Holdings Inc",
+"date": "2020-06-22",
+"symbol": "DOCU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 30, 2020",
+"addedSecurity": "Zoom Video Communications Inc",
+"removedTicker": "WLTW",
+"removedSecurity": "Willis Towers Watson",
+"date": "2020-04-30",
+"symbol": "ZM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 20, 2020",
+"addedSecurity": "DexCom Inc",
+"removedTicker": "AAL",
+"removedSecurity": "American Airlines Group Inc",
+"date": "2020-04-20",
+"symbol": "DXCM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "CoStar Group",
+"removedTicker": "HSIC",
+"removedSecurity": "Henry Schein Inc",
+"date": "2019-12-23",
+"symbol": "CSGP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "Splunk Inc",
+"removedTicker": "HAS",
+"removedSecurity": "Hasbro Inc",
+"date": "2019-12-23",
+"symbol": "SPLK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "ANSYS Inc",
+"removedTicker": "JBHT",
+"removedSecurity": "J. B. Hunt Transport Services Inc",
+"date": "2019-12-23",
+"symbol": "ANSS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "Copart Inc",
+"removedTicker": "VTRS",
+"removedSecurity": "Viatris Inc",
+"date": "2019-12-23",
+"symbol": "CPRT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "CDW Corp",
+"removedTicker": "NLOK",
+"removedSecurity": "NortonLifeLock Inc",
+"date": "2019-12-23",
+"symbol": "CDW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2019",
+"addedSecurity": "Seagen Inc",
+"removedTicker": "WYNN",
+"removedSecurity": "Wynn Resorts Ltd",
+"date": "2019-12-23",
+"symbol": "SGEN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 21, 2019",
+"addedSecurity": "Exelon Corp",
+"removedTicker": "CELG",
+"removedSecurity": "Celgene Corp",
+"date": "2019-11-21",
+"symbol": "EXC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "Advanced Micro Devices Inc",
+"removedTicker": "ESRX",
+"removedSecurity": "Express Scripts Holding Co",
+"date": "2018-12-24",
+"symbol": "AMD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "Willis Towers Watson",
+"removedTicker": "VOD",
+"removedSecurity": "Vodafone Group plc",
+"date": "2018-12-24",
+"symbol": "WLTW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "Lululemon Athletica Inc",
+"removedTicker": "HOLX",
+"removedSecurity": "Hologic Inc",
+"date": "2018-12-24",
+"symbol": "LULU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "NetApp Inc",
+"removedTicker": "QRTEA",
+"removedSecurity": "Liberty Interactive Corp Series A",
+"date": "2018-12-24",
+"symbol": "NTAP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "United Continental Holdings Inc",
+"removedTicker": "SHPG",
+"removedSecurity": "Shire PLC",
+"date": "2018-12-24",
+"symbol": "UAL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2018",
+"addedSecurity": "Verisign Inc",
+"removedTicker": "STX",
+"removedSecurity": "Seagate Technology plc",
+"date": "2018-12-24",
+"symbol": "VRSN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 19, 2018",
+"addedSecurity": "Xcel Energy Inc",
+"removedTicker": "XRAY",
+"removedSecurity": "Dentsply Sirona Inc",
+"date": "2018-11-19",
+"symbol": "XEL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 5, 2018",
+"addedSecurity": "NXP Semiconductors NV",
+"removedTicker": "CA",
+"removedSecurity": "CA Inc",
+"date": "2018-11-05",
+"symbol": "NXPI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 23, 2018",
+"addedSecurity": "PepsiCo Inc",
+"removedTicker": "DISH",
+"removedSecurity": "DISH Network Corp",
+"date": "2018-07-23",
+"symbol": "PEP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 8, 2018",
+"addedSecurity": "",
+"removedTicker": "LVNTA",
+"removedSecurity": "Liberty Ventures",
+"date": "2018-03-08",
+"symbol": "LVNTA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "",
+"removedTicker": "TSCO",
+"removedSecurity": "Tractor Supply Co",
+"date": "2017-12-08",
+"symbol": "TTWO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "Cadence Design Systems Inc",
+"removedTicker": "AKAM",
+"removedSecurity": "Akamai Technologies Inc",
+"date": "2017-12-08",
+"symbol": "CDNS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "ASML Holding NV",
+"removedTicker": "DISCA",
+"removedSecurity": "Discovery Communications Inc Series A",
+"date": "2017-12-08",
+"symbol": "ASML",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "",
+"removedTicker": "DISCK",
+"removedSecurity": "Discovery Communications Inc Series C",
+"date": "2017-12-08",
+"symbol": "DISCK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "Synopsys Inc",
+"removedTicker": "NCLH",
+"removedSecurity": "Norwegian Cruise Line Holdings Ltd",
+"date": "2017-12-08",
+"symbol": "SNPS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 8, 2017",
+"addedSecurity": "Workday Inc Class A",
+"removedTicker": "VIAB",
+"removedSecurity": "Viacom Inc Class A",
+"date": "2017-12-08",
+"symbol": "WDAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 23, 2017",
+"addedSecurity": "Align Technology Inc",
+"removedTicker": "MAT",
+"removedSecurity": "Mattel Inc",
+"date": "2017-10-23",
+"symbol": "ALGN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 19, 2017",
+"addedSecurity": "MercadoLibre Inc",
+"removedTicker": "YHOO",
+"removedSecurity": "Yahoo! Inc",
+"date": "2017-06-19",
+"symbol": "MELI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 24, 2017",
+"addedSecurity": "Wynn Resorts Ltd",
+"removedTicker": "TRIP",
+"removedSecurity": "TripAdvisor Inc",
+"date": "2017-04-24",
+"symbol": "WYNN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 20, 2017",
+"addedSecurity": "IDEXX Laboratories Inc",
+"removedTicker": "SBAC",
+"removedSecurity": "SBA Comm's Corp",
+"date": "2017-03-20",
+"symbol": "IDXX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 7, 2017",
+"addedSecurity": "J. B. Hunt Transport Services Inc",
+"removedTicker": "NXPI",
+"removedSecurity": "NXP Semiconductors NV",
+"date": "2017-02-07",
+"symbol": "JBHT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 9, 2016",
+"addedSecurity": "",
+"removedTicker": "BBBY",
+"removedSecurity": "Bed Bath & Beyond Inc",
+"date": "2016-12-09",
+"symbol": "KLAC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 9, 2016",
+"addedSecurity": "Cintas Corp",
+"removedTicker": "WFM",
+"removedSecurity": "Whole Foods Market Inc",
+"date": "2016-12-09",
+"symbol": "CTAS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 9, 2016",
+"addedSecurity": "Hasbro Inc",
+"removedTicker": "SRCL",
+"removedSecurity": "Stericycle Inc",
+"date": "2016-12-09",
+"symbol": "HAS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 9, 2016",
+"addedSecurity": "Hologic Inc",
+"removedTicker": "NTAP",
+"removedSecurity": "NetApp Inc",
+"date": "2016-12-09",
+"symbol": "HOLX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 19, 2016",
+"addedSecurity": "Shire PLC",
+"removedTicker": "LLTC",
+"removedSecurity": "Linear Technology Corp",
+"date": "2016-10-19",
+"symbol": "SHPG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 18, 2016",
+"addedSecurity": "Microchip Technology Inc",
+"removedTicker": "ENDP",
+"removedSecurity": "Endo Int'l plc",
+"date": "2016-07-18",
+"symbol": "MCHP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 20, 2016",
+"addedSecurity": "",
+"removedTicker": "LMCK",
+"removedSecurity": "Liberty Media Class C",
+"date": "2016-06-20",
+"symbol": "LMCK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 20, 2016",
+"addedSecurity": "Dentsply Sirona Inc",
+"removedTicker": "BATRA",
+"removedSecurity": "Liberty Braves Group Series A",
+"date": "2016-06-20",
+"symbol": "XRAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 20, 2016",
+"addedSecurity": "",
+"removedTicker": "BATRK",
+"removedSecurity": "Liberty Braves Group Series C",
+"date": "2016-06-20",
+"symbol": "BATRK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 20, 2016",
+"addedSecurity": "",
+"removedTicker": "LMCA",
+"removedSecurity": "Liberty Media Class A",
+"date": "2016-06-20",
+"symbol": "LMCA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 18, 2016",
+"addedSecurity": "Liberty Braves Group Series A",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2016-04-18",
+"symbol": "BATRA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 18, 2016",
+"addedSecurity": "Liberty Braves Group Series C",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2016-04-18",
+"symbol": "BATRK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 16, 2016",
+"addedSecurity": "NetEase Inc",
+"removedTicker": "SNDK",
+"removedSecurity": "SanDisk Corp",
+"date": "2016-03-16",
+"symbol": "NTES",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 22, 2016",
+"addedSecurity": "CSX Corp",
+"removedTicker": "KLAC",
+"removedSecurity": "",
+"date": "2016-02-22",
+"symbol": "CSX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Endo Int'l plc",
+"removedTicker": "EXPD",
+"removedSecurity": "Expeditors Int'l of Washington Inc",
+"date": "2015-12-21",
+"symbol": "ENDP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "",
+"removedTicker": "LILAK",
+"removedSecurity": "Liberty Global plc LiLAC Class C",
+"date": "2015-12-21",
+"symbol": "LILAK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "",
+"removedTicker": "LILA",
+"removedSecurity": "Liberty Global plc LiLAC Class A",
+"date": "2015-12-21",
+"symbol": "LILA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Ulta Salon Cosmetics and Fragrance Inc",
+"removedTicker": "WYNN",
+"removedSecurity": "Wynn Resorts Ltd",
+"date": "2015-12-21",
+"symbol": "ULTA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "",
+"removedTicker": "VEON",
+"removedSecurity": "VEON Ltd",
+"date": "2015-12-21",
+"symbol": "TMUS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Norwegian Cruise Line Holdings Ltd",
+"removedTicker": "SPLS",
+"removedSecurity": "Staples Inc",
+"date": "2015-12-21",
+"symbol": "NCLH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Maxim Integrated Products Inc",
+"removedTicker": "GMCR",
+"removedSecurity": "Keurig Green Mountain Inc",
+"date": "2015-12-21",
+"symbol": "MXIM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Trip.com Group",
+"removedTicker": "CHRW",
+"removedSecurity": "C.H. Robinson Worldwide Inc",
+"date": "2015-12-21",
+"symbol": "TCOM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2015",
+"addedSecurity": "Expedia Inc",
+"removedTicker": "GRMN",
+"removedSecurity": "Garmin Ltd",
+"date": "2015-12-21",
+"symbol": "EXPE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 15, 2015",
+"addedSecurity": "",
+"removedTicker": "CMCSK",
+"removedSecurity": "Comcast Corp Class A Special",
+"date": "2015-12-15",
+"symbol": "CMCSK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 11, 2015",
+"addedSecurity": "PayPal Holdings Inc",
+"removedTicker": "BRCM",
+"removedSecurity": "Broadcom Corp",
+"date": "2015-11-11",
+"symbol": "PYPL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 7, 2015",
+"addedSecurity": "Incyte Corp",
+"removedTicker": "ALTR",
+"removedSecurity": "Altera Corp.",
+"date": "2015-10-07",
+"symbol": "INCY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 3, 2015",
+"addedSecurity": "Skyworks Solutions Inc",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2015-08-03",
+"symbol": "SWKS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 31, 2015",
+"addedSecurity": "",
+"removedTicker": "SIAL",
+"removedSecurity": "",
+"date": "2015-07-31",
+"symbol": "SIAL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 29, 2015",
+"addedSecurity": "JD.com",
+"removedTicker": "CTRX",
+"removedSecurity": "Catamaran Corp.",
+"date": "2015-07-29",
+"symbol": "JD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 27, 2015",
+"addedSecurity": "Biomarin Pharmaceutical Inc",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2015-07-27",
+"symbol": "BMRN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 24, 2015",
+"addedSecurity": "",
+"removedTicker": "DTV",
+"removedSecurity": "DIRECTV",
+"date": "2015-07-24",
+"symbol": "DTV",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 1, 2015",
+"addedSecurity": "Liberty Global plc LiLAC Class C",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2015-07-01",
+"symbol": "LILAK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 1, 2015",
+"addedSecurity": "Liberty Global plc LiLAC Class A",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2015-07-01",
+"symbol": "LILA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 23, 2015",
+"addedSecurity": "Walgreens Boots Alliance Inc",
+"removedTicker": "EQIX",
+"removedSecurity": "Equinix Inc",
+"date": "2015-03-23",
+"symbol": "WBA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Electronic Arts Inc",
+"removedTicker": "FFIV",
+"removedSecurity": "F5 Networks Inc",
+"date": "2014-12-22",
+"symbol": "EA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Lam Research Corp",
+"removedTicker": "MXIM",
+"removedSecurity": "Maxim Integrated Products Inc",
+"date": "2014-12-22",
+"symbol": "LRCX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Comcast Corp. Class A Special",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-12-22",
+"symbol": "CMCSK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-12-22",
+"symbol": "FOX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Liberty Global plc Class C",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-12-22",
+"symbol": "LBTYK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Discovery Communications Series C",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-12-22",
+"symbol": "DISCK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "Liberty Media C",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-12-22",
+"symbol": "LMCK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2014",
+"addedSecurity": "American Airlines Group Inc",
+"removedTicker": "EXPE",
+"removedSecurity": "Expedia Inc",
+"date": "2014-12-22",
+"symbol": "AAL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 6, 2014",
+"addedSecurity": "Liberty Ventures",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-11-06",
+"symbol": "LVNTA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 3, 2014",
+"addedSecurity": "Alphabet Inc. C Class",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2014-04-03",
+"symbol": "GOOG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2013",
+"addedSecurity": "DISH Network Corp",
+"removedTicker": "FOSL",
+"removedSecurity": "Fossil Group",
+"date": "2013-12-23",
+"symbol": "DISH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2013",
+"addedSecurity": "Illumina Inc",
+"removedTicker": "MCHP",
+"removedSecurity": "Microchip Technology Inc",
+"date": "2013-12-23",
+"symbol": "ILMN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2013",
+"addedSecurity": "NXP Semiconductors NV",
+"removedTicker": "NUAN",
+"removedSecurity": "Nuance Comm's Inc",
+"date": "2013-12-23",
+"symbol": "NXPI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2013",
+"addedSecurity": "TripAdvisor Inc",
+"removedTicker": "SHLD",
+"removedSecurity": "Sears Holdings Corp",
+"date": "2013-12-23",
+"symbol": "TRIP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2013",
+"addedSecurity": "Tractor Supply Co",
+"removedTicker": "XRAY",
+"removedSecurity": "Dentsply Sirona Inc",
+"date": "2013-12-23",
+"symbol": "TSCO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 18, 2013",
+"addedSecurity": "Marriott International Inc",
+"removedTicker": "GOLD",
+"removedSecurity": "Randgold Resources",
+"date": "2013-11-18",
+"symbol": "MAR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 29, 2013",
+"addedSecurity": "VEON Ltd",
+"removedTicker": "DELL",
+"removedSecurity": "Dell, Inc.",
+"date": "2013-10-29",
+"symbol": "VEON",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 22, 2013",
+"addedSecurity": "Keurig Green Mountain Inc",
+"removedTicker": "LIFE",
+"removedSecurity": "Life Technologies",
+"date": "2013-08-22",
+"symbol": "GMCR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 25, 2013",
+"addedSecurity": "Charter Communications Inc",
+"removedTicker": "BMC",
+"removedSecurity": "BMC Software Inc",
+"date": "2013-07-25",
+"symbol": "CHTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 15, 2013",
+"addedSecurity": "Tesla Inc",
+"removedTicker": "ORCL",
+"removedSecurity": "Oracle Corp",
+"date": "2013-07-15",
+"symbol": "TSLA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 6, 2013",
+"addedSecurity": "Netflix Inc",
+"removedTicker": "PRGO",
+"removedSecurity": "Perrigo Company Plc",
+"date": "2013-06-06",
+"symbol": "NFLX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 5, 2013",
+"addedSecurity": "Liberty Media Class A",
+"removedTicker": "VMED",
+"removedSecurity": "Virgin Media Inc",
+"date": "2013-06-05",
+"symbol": "LMCA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 18, 2013",
+"addedSecurity": "Kraft Heinz Co",
+"removedTicker": "STRZA",
+"removedSecurity": "Starz Series",
+"date": "2013-03-18",
+"symbol": "KHC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 15, 2013",
+"addedSecurity": "Starz Series",
+"removedTicker": "LMCA",
+"removedSecurity": "Liberty Media Class A",
+"date": "2013-01-15",
+"symbol": "STRZA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Discovery Communications Inc Series A",
+"removedTicker": "FLEX",
+"removedSecurity": "Flex Ltd",
+"date": "2012-12-24",
+"symbol": "DISCA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Western Digital Corp",
+"removedTicker": "WCRX",
+"removedSecurity": "Warner Chilcott PLC",
+"date": "2012-12-24",
+"symbol": "WDC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Verisk Analytics Inc",
+"removedTicker": "VRSN",
+"removedSecurity": "Verisign Inc",
+"date": "2012-12-24",
+"symbol": "VRSK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "SBA Comm's Corp",
+"removedTicker": "BB",
+"removedSecurity": "BlackBerry Ltd",
+"date": "2012-12-24",
+"symbol": "SBAC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Regeneron Pharmaceuticals Inc",
+"removedTicker": "NFLX",
+"removedSecurity": "Netflix Inc",
+"date": "2012-12-24",
+"symbol": "REGN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Liberty Media Class A",
+"removedTicker": "MRVL",
+"removedSecurity": "Marvell Technology Group Ltd",
+"date": "2012-12-24",
+"symbol": "LMCA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Liberty Global PLC Class A",
+"removedTicker": "LRCX",
+"removedSecurity": "Lam Research Corp",
+"date": "2012-12-24",
+"symbol": "LBTYA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Analog Devices Inc",
+"removedTicker": "APOL",
+"removedSecurity": "Apollo Education Group",
+"date": "2012-12-24",
+"symbol": "ADI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Catamaran Corp.",
+"removedTicker": "EA",
+"removedSecurity": "Electronic Arts Inc",
+"date": "2012-12-24",
+"symbol": "CTRX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2012",
+"addedSecurity": "Equinix Inc",
+"removedTicker": "GMCR",
+"removedSecurity": "Keurig Green Mountain Inc",
+"date": "2012-12-24",
+"symbol": "EQIX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 12, 2012",
+"addedSecurity": "Meta Platforms Inc",
+"removedTicker": "INFY",
+"removedSecurity": "Infosys Ltd",
+"date": "2012-12-12",
+"symbol": "META",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 23, 2012",
+"addedSecurity": "Mondelez International Inc",
+"removedTicker": "TCOM",
+"removedSecurity": "Trip.com Group",
+"date": "2012-07-23",
+"symbol": "MDLZ",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 30, 2012",
+"addedSecurity": "Viacom Inc Class A",
+"removedTicker": "TEVA",
+"removedSecurity": "Teva Pharmaceutical Industries Ltd",
+"date": "2012-05-30",
+"symbol": "VIAB",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 23, 2012",
+"addedSecurity": "Texas Instruments Inc",
+"removedTicker": "FSLR",
+"removedSecurity": "First Solar Inc",
+"date": "2012-04-23",
+"symbol": "TXN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2011",
+"addedSecurity": "Randgold Resources",
+"removedTicker": "URBN",
+"removedSecurity": "Urban Outfitters Inc",
+"date": "2011-12-19",
+"symbol": "GOLD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2011",
+"addedSecurity": "Broadcom Ltd",
+"removedTicker": "FLIR",
+"removedSecurity": "FLIR Systems Inc",
+"date": "2011-12-19",
+"symbol": "AVGO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2011",
+"addedSecurity": "Fossil Group",
+"removedTicker": "ILMN",
+"removedSecurity": "Illumina Inc",
+"date": "2011-12-19",
+"symbol": "FOSL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2011",
+"addedSecurity": "Monster Beverage Corp",
+"removedTicker": "NIHD",
+"removedSecurity": "NII Holdings Inc",
+"date": "2011-12-19",
+"symbol": "MNST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2011",
+"addedSecurity": "Nuance Comm's Inc",
+"removedTicker": "QGEN",
+"removedSecurity": "Qiagen NV",
+"date": "2011-12-19",
+"symbol": "NUAN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 6, 2011",
+"addedSecurity": "Perrigo Company Plc",
+"removedTicker": "JOY",
+"removedSecurity": "Joy Global Inc",
+"date": "2011-12-06",
+"symbol": "PRGO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 15, 2011",
+"addedSecurity": "Sirius XM Holdings Inc",
+"removedTicker": "CEPH",
+"removedSecurity": "Cephalon Inc",
+"date": "2011-07-15",
+"symbol": "SIRI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 27, 2011",
+"addedSecurity": "Keurig Green Mountain Inc",
+"removedTicker": "MICC",
+"removedSecurity": "Millicom Int'l Cellular",
+"date": "2011-05-27",
+"symbol": "GMCR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 6, 2011",
+"addedSecurity": "Alexion Pharmaceuticals Inc",
+"removedTicker": "GENZ",
+"removedSecurity": "Genzyme Corp",
+"date": "2011-05-06",
+"symbol": "ALXN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 4, 2011",
+"addedSecurity": "F5 Networks Inc",
+"removedTicker": "CTAS",
+"removedSecurity": "Cintas Corp",
+"date": "2011-04-04",
+"symbol": "FFIV",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Akamai Technologies Inc",
+"removedTicker": "DISH",
+"removedSecurity": "DISH Network Corp",
+"date": "2010-12-20",
+"symbol": "AKAM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Dollar Tree Inc",
+"removedTicker": "PDCO",
+"removedSecurity": "Patterson Companies",
+"date": "2010-12-20",
+"symbol": "DLTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Netflix Inc",
+"removedTicker": "FWLT",
+"removedSecurity": "Foster Wheeler AG",
+"date": "2010-12-20",
+"symbol": "NFLX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Micron Technology Inc",
+"removedTicker": "HOLX",
+"removedSecurity": "Hologic Inc",
+"date": "2010-12-20",
+"symbol": "MU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Whole Foods Market Inc",
+"removedTicker": "JBHT",
+"removedSecurity": "J. B. Hunt Transport Services Inc",
+"date": "2010-12-20",
+"symbol": "WFM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2010",
+"addedSecurity": "Ctrip.com International",
+"removedTicker": "LOGI",
+"removedSecurity": "Logitech International SA",
+"date": "2010-12-20",
+"symbol": "TCOM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "SanDisk Corp",
+"removedTicker": "RYAAY",
+"removedSecurity": "Ryanair Holdings Plc",
+"date": "2009-12-21",
+"symbol": "SNDK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "Vodafone Group plc",
+"removedTicker": "AKAM",
+"removedSecurity": "Akamai Technologies Inc",
+"date": "2009-12-21",
+"symbol": "VOD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "Mattel Inc",
+"removedTicker": "MNST",
+"removedSecurity": "Monster Beverage Corp",
+"date": "2009-12-21",
+"symbol": "MAT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "BMC Software Inc",
+"removedTicker": "IAC",
+"removedSecurity": "IAC/InterActiveCorp",
+"date": "2009-12-21",
+"symbol": "BMC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "Viatris Inc",
+"removedTicker": "LBTYA",
+"removedSecurity": "Liberty Global PLC Class A",
+"date": "2009-12-21",
+"symbol": "VTRS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "Qiagen NV",
+"removedTicker": "PPDI",
+"removedSecurity": "Pharmaceutical Product Development",
+"date": "2009-12-21",
+"symbol": "QGEN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 2009",
+"addedSecurity": "Virgin Media Inc",
+"removedTicker": "STLD",
+"removedSecurity": "Steel Dynamics Inc",
+"date": "2009-12-21",
+"symbol": "VMED",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 29, 2009",
+"addedSecurity": "Booking Holdings Inc",
+"removedTicker": "JNPR",
+"removedSecurity": "Juniper Networks Inc",
+"date": "2009-10-29",
+"symbol": "BKNG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 17, 2009",
+"addedSecurity": "Cerner Corp",
+"removedTicker": "JAVA",
+"removedSecurity": "Sun Microsystems",
+"date": "2009-07-17",
+"symbol": "CERN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 9, 2009",
+"addedSecurity": "Cisco",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "2009-06-07",
+"symbol": "CSCO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 20, 2009",
+"addedSecurity": "21st Century Fox Class A",
+"removedTicker": "FMCN",
+"removedSecurity": "Focus Media Holding",
+"date": "2009-01-20",
+"symbol": "FOXA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Maxim Integrated Products Inc",
+"removedTicker": "LWIN",
+"removedSecurity": "Leap Wireless Int'l Inc",
+"date": "2008-12-22",
+"symbol": "MXIM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "O'Reilly Automotive Inc",
+"removedTicker": "SNDK",
+"removedSecurity": "SanDisk Corp",
+"date": "2008-12-22",
+"symbol": "ORLY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Urban Outfitters Inc",
+"removedTicker": "SIRI",
+"removedSecurity": "Sirius XM Holdings Inc",
+"date": "2008-12-22",
+"symbol": "URBN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "J. B. Hunt Transport Services Inc",
+"removedTicker": "VMED",
+"removedSecurity": "Virgin Media Inc",
+"date": "2008-12-22",
+"symbol": "JBHT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Warner Chilcott PLC",
+"removedTicker": "WFM",
+"removedSecurity": "Whole Foods Market Inc",
+"date": "2008-12-22",
+"symbol": "WCRX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Automatic Data Processing Inc",
+"removedTicker": "AMLN",
+"removedSecurity": "Amylin Pharmaceutical Corp",
+"date": "2008-12-22",
+"symbol": "ADP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Illumina Inc",
+"removedTicker": "LVLT",
+"removedSecurity": "Level 3 Comm's Inc",
+"date": "2008-12-22",
+"symbol": "ILMN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Pharmaceutical Product Development",
+"removedTicker": "PETM",
+"removedSecurity": "PetSmart Inc",
+"date": "2008-12-22",
+"symbol": "PPDI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Ross Stores Inc",
+"removedTicker": "LAMR",
+"removedSecurity": "Lamar Advertising Co",
+"date": "2008-12-22",
+"symbol": "ROST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "Life Technologies",
+"removedTicker": "DISCA",
+"removedSecurity": "Discovery Communications Inc Series A",
+"date": "2008-12-22",
+"symbol": "LIFE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2008",
+"addedSecurity": "First Solar Inc",
+"removedTicker": "CDNS",
+"removedSecurity": "Cadence Design Systems Inc",
+"date": "2008-12-22",
+"symbol": "FSLR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 10, 2008",
+"addedSecurity": "Seagate Technology plc",
+"removedTicker": "MWW",
+"removedSecurity": "Monster Worldwide Inc",
+"date": "2008-11-10",
+"symbol": "STX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 21, 2008",
+"addedSecurity": "FLIR Systems Inc",
+"removedTicker": "UAL",
+"removedSecurity": "UAL Corp.",
+"date": "2008-07-21",
+"symbol": "FLIR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 19, 2008",
+"addedSecurity": "CA Inc",
+"removedTicker": "TLAB",
+"removedSecurity": "Tellabs Inc",
+"date": "2008-05-19",
+"symbol": "CA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 30, 2008",
+"addedSecurity": "DIRECTV",
+"removedTicker": "BEAS",
+"removedSecurity": "BEA Systems Inc",
+"date": "2008-04-30",
+"symbol": "DTV",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2007",
+"addedSecurity": "Hologic Inc",
+"removedTicker": "ROST",
+"removedSecurity": "Ross Stores Inc",
+"date": "2007-12-24",
+"symbol": "HOLX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2007",
+"addedSecurity": "Steel Dynamics Inc",
+"removedTicker": "XMSR",
+"removedSecurity": "XM Satellite Radio Holdings",
+"date": "2007-12-24",
+"symbol": "STLD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2007",
+"addedSecurity": "Stericycle Inc",
+"removedTicker": "SEPR",
+"removedSecurity": "Sepracor Inc",
+"date": "2007-12-24",
+"symbol": "SRCL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2007",
+"addedSecurity": "Focus Media Holding",
+"removedTicker": "ERIC",
+"removedSecurity": "Ericsson Telephone Company",
+"date": "2007-12-24",
+"symbol": "FMCN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2007",
+"addedSecurity": "Monster Beverage Corp",
+"removedTicker": "PTEN",
+"removedSecurity": "",
+"date": "2007-12-24",
+"symbol": "MNST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 4, 2007",
+"addedSecurity": "Baidu.com, Inc.",
+"removedTicker": "CKFR",
+"removedSecurity": "Checkfree Corp",
+"date": "2007-12-04",
+"symbol": "BIDU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 8, 2007",
+"addedSecurity": "Leap Wireless Int'l Inc",
+"removedTicker": "CDWC",
+"removedSecurity": "CDW Corp.",
+"date": "2007-10-08",
+"symbol": "LWIN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 2, 2007",
+"addedSecurity": "Henry Schein Inc",
+"removedTicker": "MXIM",
+"removedSecurity": "Maxim Integrated Products Inc",
+"date": "2007-10-02",
+"symbol": "HSIC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 12, 2007",
+"addedSecurity": "Foster Wheeler AG",
+"removedTicker": "BMET",
+"removedSecurity": "Biomet Inc",
+"date": "2007-07-12",
+"symbol": "FWLT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 1, 2007",
+"addedSecurity": "Cephalon Inc",
+"removedTicker": "MEDI",
+"removedSecurity": "Medimmune Inc",
+"date": "2007-06-01",
+"symbol": "CEPH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 8, 2007",
+"addedSecurity": "UAL Corp.",
+"removedTicker": "AEO",
+"removedSecurity": "American Eagle Outfitters Inc",
+"date": "2007-03-08",
+"symbol": "UAL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 14, 2007",
+"addedSecurity": "Ryanair Holdings Plc",
+"removedTicker": "APCC",
+"removedSecurity": "American Power Conversion Corp",
+"date": "2007-02-14",
+"symbol": "RYAAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 1, 2007",
+"addedSecurity": "Logitech International SA",
+"removedTicker": "CMVT",
+"removedSecurity": "Comverse Technology Inc",
+"date": "2007-02-01",
+"symbol": "LOGI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2006",
+"addedSecurity": "Infosys Ltd",
+"removedTicker": "JDSU",
+"removedSecurity": "JDS Uniphase Corp.",
+"date": "2006-12-18",
+"symbol": "INFY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2006",
+"addedSecurity": "Level 3 Comm's Inc",
+"removedTicker": "LNCR",
+"removedSecurity": "Lincare Holdings Inc",
+"date": "2006-12-18",
+"symbol": "LVLT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2006",
+"addedSecurity": "Vertex Pharmaceuticals Inc",
+"removedTicker": "URBN",
+"removedSecurity": "Urban Outfitters Inc",
+"date": "2006-12-18",
+"symbol": "VRTX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 12, 2006",
+"addedSecurity": "American Eagle Outfitters Inc",
+"removedTicker": "RHT",
+"removedSecurity": "Red Hat Inc",
+"date": "2006-12-12",
+"symbol": "AEO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 24, 2006",
+"addedSecurity": "Qurate Retail, Inc",
+"removedTicker": "ATYT",
+"removedSecurity": "ATI Technologies Inc.",
+"date": "2006-10-24",
+"symbol": "QRTEA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 8, 2006",
+"addedSecurity": "Millicom Int'l Cellular",
+"removedTicker": "PIXR",
+"removedSecurity": "Pixar Inc",
+"date": "2006-05-08",
+"symbol": "MICC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "April 20, 2006",
+"addedSecurity": "Akamai Technologies Inc",
+"removedTicker": "CHIR",
+"removedSecurity": "Chiron Corp",
+"date": "2006-04-20",
+"symbol": "AKAM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 1, 2006",
+"addedSecurity": "Intuitive Surgical Inc",
+"removedTicker": "SEBL",
+"removedSecurity": "Siebel Systems Inc",
+"date": "2006-02-01",
+"symbol": "ISRG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 9, 2006",
+"addedSecurity": "Amylin Pharmaceutical Corp",
+"removedTicker": "MCIP",
+"removedSecurity": "MCI, Inc.",
+"date": "2006-01-09",
+"symbol": "AMLN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 4, 2006",
+"addedSecurity": "Joy Global Inc",
+"removedTicker": "MERQ",
+"removedSecurity": "Mercury Interactive Corp",
+"date": "2006-01-04",
+"symbol": "JOY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Expedia Inc",
+"removedTicker": "LVLT",
+"removedSecurity": "Level 3 Comm's Inc",
+"date": "2005-12-19",
+"symbol": "EXPE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Urban Outfitters Inc",
+"removedTicker": "SSCCQ",
+"removedSecurity": "Smurfit Stone Corp",
+"date": "2005-12-19",
+"symbol": "URBN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Red Hat Inc",
+"removedTicker": "SNPS",
+"removedSecurity": "Synopsys Inc",
+"date": "2005-12-19",
+"symbol": "RHT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "",
+"removedTicker": "SANM",
+"removedSecurity": "Sanmina Corp",
+"date": "2005-12-19",
+"symbol": "PTEN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "NVIDIA Corp",
+"removedTicker": "QLGC",
+"removedSecurity": "QLogic Corp",
+"date": "2005-12-19",
+"symbol": "NVDA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "NII Holdings Inc",
+"removedTicker": "NVLS",
+"removedSecurity": "Novellus Systems Inc.",
+"date": "2005-12-19",
+"symbol": "NIHD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Monster Worldwide Inc",
+"removedTicker": "MOLX",
+"removedSecurity": "Molex Inc",
+"date": "2005-12-19",
+"symbol": "MWW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Checkfree Corp",
+"removedTicker": "ISIL",
+"removedSecurity": "Intersil Corp",
+"date": "2005-12-19",
+"symbol": "CKFR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Discovery Communications Inc Series A",
+"removedTicker": "LIFE",
+"removedSecurity": "Life Technologies",
+"date": "2005-12-19",
+"symbol": "DISCA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Alphabet Inc. Class A",
+"removedTicker": "MLNM",
+"removedSecurity": "Millennium Pharmaceuticals Inc",
+"date": "2005-12-19",
+"symbol": "GOOGL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Activision Blizzard Inc",
+"removedTicker": "PRDO",
+"removedSecurity": "Perdoceo Education Corp",
+"date": "2005-12-19",
+"symbol": "ATVI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 19, 2005",
+"addedSecurity": "Cadence Design Systems Inc",
+"removedTicker": "DLTR",
+"removedSecurity": "Dollar Tree Inc",
+"date": "2005-12-19",
+"symbol": "CDNS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 15, 2005",
+"addedSecurity": "Sepracor Inc",
+"removedTicker": "NXTL",
+"removedSecurity": "Nextel Communications Inc",
+"date": "2005-08-15",
+"symbol": "SEPR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 1, 2005",
+"addedSecurity": "Celgene Corp",
+"removedTicker": "VRTS",
+"removedSecurity": "VERITAS Software Corp.",
+"date": "2005-07-01",
+"symbol": "CELG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 29, 2004",
+"addedSecurity": "Cognizant Technology Solutions Corp",
+"removedTicker": "PSFT",
+"removedSecurity": "People Soft Inc",
+"date": "2004-12-29",
+"symbol": "CTSH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Autodesk Inc",
+"removedTicker": "CEPH",
+"removedSecurity": "Cephalon Inc",
+"date": "2004-12-20",
+"symbol": "ADSK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Ericsson Telephone Company",
+"removedTicker": "CPWR",
+"removedSecurity": "Compuware Corp",
+"date": "2004-12-20",
+"symbol": "ERIC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Liberty Global PLC Class A",
+"removedTicker": "FHCC",
+"removedSecurity": "First Health Group Corp",
+"date": "2004-12-20",
+"symbol": "LBTYA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "MCI, Inc.",
+"removedTicker": "GNTX",
+"removedSecurity": "Gentex Corp",
+"date": "2004-12-20",
+"symbol": "MCIP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Virgin Media Inc",
+"removedTicker": "HSIC",
+"removedSecurity": "Henry Schein Inc",
+"date": "2004-12-20",
+"symbol": "VMED",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Sirius XM Holdings Inc",
+"removedTicker": "NVDA",
+"removedSecurity": "NVIDIA Corp",
+"date": "2004-12-20",
+"symbol": "SIRI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "Wynn Resorts Ltd",
+"removedTicker": "PTEN",
+"removedSecurity": "",
+"date": "2004-12-20",
+"symbol": "WYNN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 2004",
+"addedSecurity": "XM Satellite Radio Holdings",
+"removedTicker": "RYAAY",
+"removedSecurity": "Ryanair Holdings Plc",
+"date": "2004-12-20",
+"symbol": "XMSR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 19, 2004",
+"addedSecurity": "Sears Holdings Corp",
+"removedTicker": "SPOT",
+"removedSecurity": "Panamsat Inc",
+"date": "2004-08-19",
+"symbol": "SHLD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Perdoceo Education Corp",
+"removedTicker": "BRCD",
+"removedSecurity": "Brocade Comm's Systems Inc",
+"date": "2003-12-22",
+"symbol": "PRDO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Garmin Ltd",
+"removedTicker": "CIEN",
+"removedSecurity": "Ciena Corp",
+"date": "2003-12-22",
+"symbol": "GRMN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Intersil Corp",
+"removedTicker": "ERIC",
+"removedSecurity": "Ericsson Telephone Company",
+"date": "2003-12-22",
+"symbol": "ISIL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "ATI Technologies Inc.",
+"removedTicker": "ADCT",
+"removedSecurity": "ADC Telecommunications Inc",
+"date": "2003-12-22",
+"symbol": "ATYT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "BlackBerry Ltd",
+"removedTicker": "RFMD",
+"removedSecurity": "RF Micro Devices, Inc.",
+"date": "2003-12-22",
+"symbol": "BB",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Marvell Technology Group Ltd",
+"removedTicker": "MWW",
+"removedSecurity": "Monster Worldwide Inc",
+"date": "2003-12-22",
+"symbol": "MRVL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Level 3 Comm's Inc",
+"removedTicker": "ICOS",
+"removedSecurity": "Icos Corp",
+"date": "2003-12-22",
+"symbol": "LVLT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 22, 2003",
+"addedSecurity": "Lam Research Corp",
+"removedTicker": "HGSI",
+"removedSecurity": "Human Genome Sciences",
+"date": "2003-12-22",
+"symbol": "LRCX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 13, 2003",
+"addedSecurity": "SanDisk Corp",
+"removedTicker": "BGEN",
+"removedSecurity": "Biogen NV",
+"date": "2003-11-13",
+"symbol": "SNDK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "First Health Group Corp",
+"removedTicker": "CHTR",
+"removedSecurity": "Charter Communications Inc",
+"date": "2002-12-23",
+"symbol": "FHCC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Expeditors Int'l of Washington Inc",
+"removedTicker": "AMCC",
+"removedSecurity": "Applied Micro Circuits Corp",
+"date": "2002-12-23",
+"symbol": "EXPD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "C.H. Robinson Worldwide Inc",
+"removedTicker": "ADRX",
+"removedSecurity": "Andrx Corp",
+"date": "2002-12-23",
+"symbol": "CHRW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "American Power Conversion Corp",
+"removedTicker": "ABGX",
+"removedSecurity": "Abgenix Inc",
+"date": "2002-12-23",
+"symbol": "APCC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Ross Stores Inc",
+"removedTicker": "PMCS",
+"removedSecurity": "",
+"date": "2002-12-23",
+"symbol": "ROST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Ryanair Holdings Plc",
+"removedTicker": "RATL",
+"removedSecurity": "Rational Software Corp",
+"date": "2002-12-23",
+"symbol": "RYAAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Whole Foods Market Inc",
+"removedTicker": "SEPR",
+"removedSecurity": "Sepracor Inc",
+"date": "2002-12-23",
+"symbol": "WFM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Dentsply Sirona Inc",
+"removedTicker": "VTSS",
+"removedSecurity": "Vitesse Semiconductor Corp",
+"date": "2002-12-23",
+"symbol": "XRAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Gentex Corp",
+"removedTicker": "CNXT",
+"removedSecurity": "Conexant Systems",
+"date": "2002-12-23",
+"symbol": "GNTX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Fastenal Co",
+"removedTicker": "ATML",
+"removedSecurity": "Atmel Corp",
+"date": "2002-12-23",
+"symbol": "FAST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Henry Schein Inc",
+"removedTicker": "CYTC",
+"removedSecurity": "Cytyc Corp",
+"date": "2002-12-23",
+"symbol": "HSIC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Lamar Advertising Co",
+"removedTicker": "IDTI",
+"removedSecurity": "Integrated Device Technology Inc",
+"date": "2002-12-23",
+"symbol": "LAMR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "PetSmart Inc",
+"removedTicker": "IMCL",
+"removedSecurity": "Imclone Systems Inc",
+"date": "2002-12-23",
+"symbol": "PETM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "Pixar Inc",
+"removedTicker": "ITWO",
+"removedSecurity": "I2 Technology",
+"date": "2002-12-23",
+"symbol": "PIXR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 2002",
+"addedSecurity": "",
+"removedTicker": "PDLI",
+"removedSecurity": "PDL BioPharma Inc",
+"date": "2002-12-23",
+"symbol": "PTEN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 16, 2002",
+"addedSecurity": "Patterson Companies",
+"removedTicker": "GMST",
+"removedSecurity": "",
+"date": "2002-12-16",
+"symbol": "PDCO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 19, 2002",
+"addedSecurity": "Comcast Corp Class A",
+"removedTicker": "CMCSK",
+"removedSecurity": "Comcast Corp",
+"date": "2002-11-19",
+"symbol": "CMCSA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 7, 2002",
+"addedSecurity": "Teva Pharmaceutical Industries Ltd",
+"removedTicker": "CE",
+"removedSecurity": "Concord EFS, Inc.",
+"date": "2002-11-07",
+"symbol": "TEVA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 24, 2002",
+"addedSecurity": "Lincare Holdings Inc",
+"removedTicker": "WCOM",
+"removedSecurity": "WorldCom Inc",
+"date": "2002-07-24",
+"symbol": "LNCR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 15, 2002",
+"addedSecurity": "",
+"removedTicker": "IMNX",
+"removedSecurity": "Immunex Corp",
+"date": "2002-07-15",
+"symbol": "SIAL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 3, 2002",
+"addedSecurity": "Dollar Tree Inc",
+"removedTicker": "ADLAC",
+"removedSecurity": "Adelphia Comm's Corp",
+"date": "2002-06-03",
+"symbol": "DLTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Charter Communications Inc",
+"removedTicker": "STCN",
+"removedSecurity": "Steel Connect Inc",
+"date": "2001-12-24",
+"symbol": "CHTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Cytyc Corp",
+"removedTicker": "CNET",
+"removedSecurity": "CNet Networks Inc",
+"date": "2001-12-24",
+"symbol": "CYTC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Life Technologies",
+"removedTicker": "MFNX",
+"removedSecurity": "Metromedia Fiber Network Inc",
+"date": "2001-12-24",
+"symbol": "LIFE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "PDL BioPharma Inc",
+"removedTicker": "NOVL",
+"removedSecurity": "Novell Inc",
+"date": "2001-12-24",
+"symbol": "PDLI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Sepracor Inc",
+"removedTicker": "PALM",
+"removedSecurity": "Palm Inc",
+"date": "2001-12-24",
+"symbol": "SEPR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Synopsys Inc",
+"removedTicker": "PTC",
+"removedSecurity": "PTC Inc",
+"date": "2001-12-24",
+"symbol": "SNPS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "NortonLifeLock Inc",
+"removedTicker": "RNWK",
+"removedSecurity": "RealNetworks Inc",
+"date": "2001-12-24",
+"symbol": "NLOK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Icos Corp",
+"removedTicker": "INKT",
+"removedSecurity": "Inktomi Corp",
+"date": "2001-12-24",
+"symbol": "ICOS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Express Scripts Holding Co",
+"removedTicker": "COMS",
+"removedSecurity": "3Com Corp",
+"date": "2001-12-24",
+"symbol": "ESRX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Integrated Device Technology Inc",
+"removedTicker": "LVLT",
+"removedSecurity": "Level 3 Comm's Inc",
+"date": "2001-12-24",
+"symbol": "IDTI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Imclone Systems Inc",
+"removedTicker": "MCLD",
+"removedSecurity": "McLeodUSA Inc",
+"date": "2001-12-24",
+"symbol": "IMCL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "Cephalon Inc",
+"removedTicker": "BVSN",
+"removedSecurity": "BroadVision Inc",
+"date": "2001-12-24",
+"symbol": "CEPH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 24, 2001",
+"addedSecurity": "CDW Corp",
+"removedTicker": "ARBA",
+"removedSecurity": "Ariba Inc",
+"date": "2001-12-24",
+"symbol": "CDWC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 17, 2001",
+"addedSecurity": "Apollo Education Group",
+"removedTicker": "XOXO",
+"removedSecurity": "XO Communications, Inc.",
+"date": "2001-12-17",
+"symbol": "APOL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 5, 2001",
+"addedSecurity": "Gilead Sciences Inc",
+"removedTicker": "EXDS",
+"removedSecurity": "Exodus Comm's Inc",
+"date": "2001-10-05",
+"symbol": "GILD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 4, 2001",
+"addedSecurity": "Andrx Corp",
+"removedTicker": "ATHMA",
+"removedSecurity": "At Home Corp.",
+"date": "2001-10-04",
+"symbol": "ADRX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 31, 2001",
+"addedSecurity": "NVIDIA Corp",
+"removedTicker": "VSTR",
+"removedSecurity": "Voicestream Wireless Corp",
+"date": "2001-05-31",
+"symbol": "NVDA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 13, 2001",
+"addedSecurity": "Novellus Systems Inc.",
+"removedTicker": "BMC",
+"removedSecurity": "BMC Software Inc",
+"date": "2001-03-13",
+"symbol": "NVLS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 13, 2001",
+"addedSecurity": "Brocade Comm's Systems Inc",
+"removedTicker": "SDLI",
+"removedSecurity": "SDL Inc",
+"date": "2001-02-13",
+"symbol": "BRCD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Check Point Ltd.",
+"removedTicker": "APOL",
+"removedSecurity": "Apollo Education Group",
+"date": "2000-12-18",
+"symbol": "CHKP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Human Genome Sciences",
+"removedTicker": "MLKN",
+"removedSecurity": "MillerKnoll Inc",
+"date": "2000-12-18",
+"symbol": "HGSI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Biogen Idec Inc",
+"removedTicker": "MFE",
+"removedSecurity": "McAfee Inc",
+"date": "2000-12-18",
+"symbol": "BIIB",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Inktomi Corp",
+"removedTicker": "NWA",
+"removedSecurity": "Nortwest Airlines",
+"date": "2000-12-18",
+"symbol": "INKT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Mercury Interactive Corp",
+"removedTicker": "PHSYB",
+"removedSecurity": "Pacificare Health Systems Inc Share",
+"date": "2000-12-18",
+"symbol": "MERQ",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Millennium Pharmaceuticals Inc",
+"removedTicker": "QTRN",
+"removedSecurity": "Quintiles Transnational Corp",
+"date": "2000-12-18",
+"symbol": "MLNM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Rational Software Corp",
+"removedTicker": "SIAL",
+"removedSecurity": "",
+"date": "2000-12-18",
+"symbol": "RATL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Monster Worldwide Inc",
+"removedTicker": "SNPS",
+"removedSecurity": "Synopsys Inc",
+"date": "2000-12-18",
+"symbol": "MWW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Flex Ltd",
+"removedTicker": "LGTO",
+"removedSecurity": "Legato Systems",
+"date": "2000-12-18",
+"symbol": "FLEX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Exodus Comm's Inc",
+"removedTicker": "DLTR",
+"removedSecurity": "Dollar Tree Inc",
+"date": "2000-12-18",
+"symbol": "EXDS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "BEA Systems Inc",
+"removedTicker": "APCC",
+"removedSecurity": "American Power Conversion Corp",
+"date": "2000-12-18",
+"symbol": "BEAS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 2000",
+"addedSecurity": "Abgenix Inc",
+"removedTicker": "SXCL",
+"removedSecurity": "Steel Excel Inc",
+"date": "2000-12-18",
+"symbol": "ABGX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 6, 2000",
+"addedSecurity": "Palm Inc",
+"removedTicker": "GLBC",
+"removedSecurity": "Global Crossing Ltd.",
+"date": "2000-11-06",
+"symbol": "PALM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 30, 2000",
+"addedSecurity": "Broadcom Corp",
+"removedTicker": "LCOS",
+"removedSecurity": "Lycos Inc",
+"date": "2000-10-30",
+"symbol": "BRCM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 27, 2000",
+"addedSecurity": "Ariba Inc",
+"removedTicker": "NLI",
+"removedSecurity": "NTL Inc",
+"date": "2000-10-27",
+"symbol": "ARBA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 7, 2000",
+"addedSecurity": "Juniper Networks Inc",
+"removedTicker": "EYE",
+"removedSecurity": "VISX, Inc.",
+"date": "2000-09-07",
+"symbol": "JNPR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 9, 2000",
+"addedSecurity": "Verisign Inc",
+"removedTicker": "NSOL",
+"removedSecurity": "Network Solutions Inc",
+"date": "2000-06-09",
+"symbol": "VRSN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 30, 1999",
+"addedSecurity": "",
+"removedTicker": "Q",
+"removedSecurity": "Qwest Communications Int'l",
+"date": "1999-12-30",
+"symbol": "GMST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Legato Systems",
+"removedTicker": "ANDW",
+"removedSecurity": "Andrew Corp",
+"date": "1999-12-20",
+"symbol": "LGTO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Medimmune Inc",
+"removedTicker": "EFII",
+"removedSecurity": "Electronics for Imaging Inc",
+"date": "1999-12-20",
+"symbol": "MEDI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Metromedia Fiber Network Inc",
+"removedTicker": "TRI",
+"removedSecurity": "Thomson Reuters Corp",
+"date": "1999-12-20",
+"symbol": "MFNX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "NetApp Inc",
+"removedTicker": "ADSK",
+"removedSecurity": "Autodesk Inc",
+"date": "1999-12-20",
+"symbol": "NTAP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Adelphia Comm's Corp",
+"removedTicker": "WOR",
+"removedSecurity": "Worthington Industries Inc",
+"date": "1999-12-20",
+"symbol": "ADLAC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Applied Micro Circuits Corp",
+"removedTicker": "CBRL",
+"removedSecurity": "Cracker Barrel Old Country Store Inc",
+"date": "1999-12-20",
+"symbol": "AMCC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "BroadVision Inc",
+"removedTicker": "FHCC",
+"removedSecurity": "First Health Group Corp",
+"date": "1999-12-20",
+"symbol": "BVSN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "DISH Network Corp",
+"removedTicker": "ROST",
+"removedSecurity": "Ross Stores Inc",
+"date": "1999-12-20",
+"symbol": "DISH",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "I2 Technology",
+"removedTicker": "FAST",
+"removedSecurity": "Fastenal Co",
+"date": "1999-12-20",
+"symbol": "ITWO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "Network Solutions Inc",
+"removedTicker": "CATP",
+"removedSecurity": "Cambridge Technology Partners Inc",
+"date": "1999-12-20",
+"symbol": "NSOL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "RF Micro Devices, Inc.",
+"removedTicker": "RXSD",
+"removedSecurity": "Rexall Sundown Inc",
+"date": "1999-12-20",
+"symbol": "RFMD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "SDL Inc",
+"removedTicker": "TECD",
+"removedSecurity": "Tech Data Corp",
+"date": "1999-12-20",
+"symbol": "SDLI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "QLogic Corp",
+"removedTicker": "STEI",
+"removedSecurity": "Stewart Enterprises Inc",
+"date": "1999-12-20",
+"symbol": "QLGC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "",
+"removedTicker": "LNCR",
+"removedSecurity": "Lincare Holdings Inc",
+"date": "1999-12-20",
+"symbol": "PMCS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 20, 1999",
+"addedSecurity": "XO Communications, Inc.",
+"removedTicker": "MU",
+"removedSecurity": "Micron Technology Inc",
+"date": "1999-12-20",
+"symbol": "XOXO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 22, 1999",
+"addedSecurity": "RealNetworks Inc",
+"removedTicker": "COMR",
+"removedSecurity": "Comair Holdings Inc",
+"date": "1999-11-22",
+"symbol": "RNWK",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 27, 1999",
+"addedSecurity": "Voicestream Wireless Corp",
+"removedTicker": "CEXP",
+"removedSecurity": "Corporate Express Inc",
+"date": "1999-10-27",
+"symbol": "VSTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 6, 1999",
+"addedSecurity": "eBay Inc",
+"removedTicker": "CNTO",
+"removedSecurity": "Centocor Inc",
+"date": "1999-10-06",
+"symbol": "EBAY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 9, 1999",
+"addedSecurity": "Global Crossing Ltd.",
+"removedTicker": "DZB",
+"removedSecurity": "Delhaize America Inc",
+"date": "1999-09-09",
+"symbol": "GLBC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 4, 1999",
+"addedSecurity": "Ciena Corp",
+"removedTicker": "QMCO",
+"removedSecurity": "Quantum Corp",
+"date": "1999-08-04",
+"symbol": "CIEN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 14, 1999",
+"addedSecurity": "Conexant Systems",
+"removedTicker": "AMFM",
+"removedSecurity": "Chancellor Media Corp.",
+"date": "1999-07-14",
+"symbol": "CNXT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 25, 1999",
+"addedSecurity": "Siebel Systems Inc",
+"removedTicker": "ASND",
+"removedSecurity": "Ascend Comm's Inc",
+"date": "1999-06-25",
+"symbol": "SEBL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 10, 1999",
+"addedSecurity": "VISX, Inc.",
+"removedTicker": "JWN",
+"removedSecurity": "Nordstrom Inc",
+"date": "1999-06-10",
+"symbol": "EYE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 28, 1999",
+"addedSecurity": "Lycos Inc",
+"removedTicker": "FORE",
+"removedSecurity": "Fore Systems Inc",
+"date": "1999-05-28",
+"symbol": "LCOS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 25, 1999",
+"addedSecurity": "CNet Networks Inc",
+"removedTicker": "MKC",
+"removedSecurity": "McCormick & Company Inc",
+"date": "1999-05-25",
+"symbol": "CNET",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 5, 1999",
+"addedSecurity": "JDS Uniphase Corp.",
+"removedTicker": "JCOR",
+"removedSecurity": "Jacor Comm's Inc",
+"date": "1999-05-05",
+"symbol": "JDSU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 18, 1999",
+"addedSecurity": "Steel Connect Inc",
+"removedTicker": "NSCP",
+"removedSecurity": "Netscape Communications Corp",
+"date": "1999-03-18",
+"symbol": "STCN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 10, 1999",
+"addedSecurity": "At Home Corp.",
+"removedTicker": "TCOMA",
+"removedSecurity": "Tele Communications Inc",
+"date": "1999-03-10",
+"symbol": "ATHMA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 13, 1999",
+"addedSecurity": "Comverse Technology Inc",
+"removedTicker": "HBOC",
+"removedSecurity": "HBO & Co",
+"date": "1999-01-13",
+"symbol": "CMVT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 30, 1998",
+"addedSecurity": "Sanmina Corp",
+"removedTicker": "AW",
+"removedSecurity": "Allied Waste Industries Inc",
+"date": "1998-12-30",
+"symbol": "SANM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "VERITAS Software Corp.",
+"removedTicker": "WCLX",
+"removedSecurity": "Wisconsin Central Transportation Corp",
+"date": "1998-12-21",
+"symbol": "VRTS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Vitesse Semiconductor Corp",
+"removedTicker": "PAIR",
+"removedSecurity": "Pairgain Technologies Inc",
+"date": "1998-12-21",
+"symbol": "VTSS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "McLeodUSA Inc",
+"removedTicker": "DURA",
+"removedSecurity": "Dura Pharmaceuticals Inc",
+"date": "1998-12-21",
+"symbol": "MCLD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "NTL Inc",
+"removedTicker": "OHP",
+"removedSecurity": "Oxford Health Plans Inc",
+"date": "1998-12-21",
+"symbol": "NLI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Lincare Holdings Inc",
+"removedTicker": "PHYC",
+"removedSecurity": "Phycor Inc",
+"date": "1998-12-21",
+"symbol": "LNCR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Amazon.com Inc",
+"removedTicker": "GNCI",
+"removedSecurity": "General Nutrition Cos Inc",
+"date": "1998-12-21",
+"symbol": "AMZN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Comair Holdings Inc",
+"removedTicker": "OFIS",
+"removedSecurity": "US Office Products Co",
+"date": "1998-12-21",
+"symbol": "COMR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Dollar Tree Inc",
+"removedTicker": "SY",
+"removedSecurity": "Sybase Inc",
+"date": "1998-12-21",
+"symbol": "DLTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 21, 1998",
+"addedSecurity": "Intuit Inc",
+"removedTicker": "ADTN",
+"removedSecurity": "Adtran Inc",
+"date": "1998-12-21",
+"symbol": "INTU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 16, 1998",
+"addedSecurity": "Yahoo! Inc",
+"removedTicker": "MCIC",
+"removedSecurity": "MCI Communications Corp",
+"date": "1998-09-16",
+"symbol": "YHOO",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 15, 1998",
+"addedSecurity": "IAC/InterActiveCorp",
+"removedTicker": "IT",
+"removedSecurity": "Gartner Inc",
+"date": "1998-09-15",
+"symbol": "IAC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 28, 1998",
+"addedSecurity": "Qwest Communications Int'l",
+"removedTicker": "DIGI",
+"removedSecurity": "DSC Communications Corp",
+"date": "1998-08-28",
+"symbol": "Q",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 27, 1998",
+"addedSecurity": "Level 3 Comm's Inc",
+"removedTicker": "VKNG",
+"removedSecurity": "Viking Office Products Inc",
+"date": "1998-08-27",
+"symbol": "LVLT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 11, 1998",
+"addedSecurity": "Rexall Sundown Inc",
+"removedTicker": "AM",
+"removedSecurity": "American Greetings Corp",
+"date": "1998-02-11",
+"symbol": "RXSD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Apollo Education Group",
+"removedTicker": "ASCL",
+"removedSecurity": "Ascential Software",
+"date": "1998-01-07",
+"symbol": "APOL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Tech Data Corp",
+"removedTicker": "CRUS",
+"removedSecurity": "Cirrus Logic Inc",
+"date": "1998-01-07",
+"symbol": "TECD",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Allied Waste Industries Inc",
+"removedTicker": "PETM",
+"removedSecurity": "PetSmart Inc",
+"date": "1998-01-07",
+"symbol": "AW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Cambridge Technology Partners Inc",
+"removedTicker": "BOST",
+"removedSecurity": "Boston Chicken Inc",
+"date": "1998-01-07",
+"symbol": "CATP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Citrix Systems Inc",
+"removedTicker": "EDCI",
+"removedSecurity": "EDCI Holdings Inc",
+"date": "1998-01-07",
+"symbol": "CTXS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Dura Pharmaceuticals Inc",
+"removedTicker": "KMAG",
+"removedSecurity": "Komag Inc",
+"date": "1998-01-07",
+"symbol": "DURA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Ericsson Telephone Company",
+"removedTicker": "INTU",
+"removedSecurity": "Intuit Inc",
+"date": "1998-01-07",
+"symbol": "ERIC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Immunex Corp",
+"removedTicker": "PAGE",
+"removedSecurity": "Paging Network Inc",
+"date": "1998-01-07",
+"symbol": "IMNX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Jacor Comm's Inc",
+"removedTicker": "IDXX",
+"removedSecurity": "IDEXX Laboratories Inc",
+"date": "1998-01-07",
+"symbol": "JCOR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Thomson Reuters Corp",
+"removedTicker": "RPM",
+"removedSecurity": "RPM Int'l Inc",
+"date": "1998-01-07",
+"symbol": "TRI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 7, 1998",
+"addedSecurity": "Chancellor Media Corp.",
+"removedTicker": "OSI",
+"removedSecurity": "OSI Restaurant Partners",
+"date": "1998-01-07",
+"symbol": "AMFM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 15, 1997",
+"addedSecurity": "Panamsat Inc",
+"removedTicker": "TSN",
+"removedSecurity": "Tyson Foods Inc Class A",
+"date": "1997-10-15",
+"symbol": "SPOT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 13, 1997",
+"addedSecurity": "Stewart Enterprises Inc",
+"removedTicker": "FORT",
+"removedSecurity": "Fort Howard Corp",
+"date": "1997-08-13",
+"symbol": "STEI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 24, 1997",
+"addedSecurity": "Smurfit Stone Corp",
+"removedTicker": "SYK",
+"removedSecurity": "Stryker Corp",
+"date": "1997-07-24",
+"symbol": "SSCCQ",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 1, 1997",
+"addedSecurity": "US Office Products Co",
+"removedTicker": "CSCC",
+"removedSecurity": "Cascade Communications Corp",
+"date": "1997-07-01",
+"symbol": "OFIS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 12, 1997",
+"addedSecurity": "MillerKnoll Inc",
+"removedTicker": "USRX",
+"removedSecurity": "US Robotics Corp",
+"date": "1997-06-12",
+"symbol": "MLKN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 12, 1997",
+"addedSecurity": "Ross Stores Inc",
+"removedTicker": "RWIN",
+"removedSecurity": "Republic Industries, Inc.",
+"date": "1997-06-12",
+"symbol": "ROST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "June 4, 1997",
+"addedSecurity": "Microchip Technology Inc",
+"removedTicker": "SDS",
+"removedSecurity": "Sungard Data Systems Inc",
+"date": "1997-06-04",
+"symbol": "MCHP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "May 22, 1997",
+"addedSecurity": "Netscape Communications Corp",
+"removedTicker": "GTW",
+"removedSecurity": "Gateway Inc",
+"date": "1997-05-22",
+"symbol": "NSCP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 31, 1996",
+"addedSecurity": "Fastenal Co",
+"removedTicker": "MFST",
+"removedSecurity": "MFS Communications Inc",
+"date": "1996-12-31",
+"symbol": "FAST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Sungard Data Systems Inc",
+"removedTicker": "SVC",
+"removedSecurity": "Stewart & Stevenson Services, Inc.",
+"date": "1996-12-23",
+"symbol": "SDS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Adtran Inc",
+"removedTicker": "AKLM",
+"removedSecurity": "Acclaim Entertainment Inc",
+"date": "1996-12-23",
+"symbol": "ADTN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Bed Bath & Beyond Inc",
+"removedTicker": "ASAI",
+"removedSecurity": "Atlantic Southeast Airlines, Inc.",
+"date": "1996-12-23",
+"symbol": "BBBY",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Corporate Express Inc",
+"removedTicker": "BOBE",
+"removedSecurity": "Bob Evans Farms Inc",
+"date": "1996-12-23",
+"symbol": "CEXP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Concord EFS, Inc.",
+"removedTicker": "GIDL",
+"removedSecurity": "Giddings & Lewis Inc",
+"date": "1996-12-23",
+"symbol": "CE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Electronics for Imaging Inc",
+"removedTicker": "JBHT",
+"removedSecurity": "J. B. Hunt Transport Services Inc",
+"date": "1996-12-23",
+"symbol": "EFII",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Wisconsin Central Transportation Corp",
+"removedTicker": "WLL",
+"removedSecurity": "Willamette Industries, Inc.",
+"date": "1996-12-23",
+"symbol": "WCLX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Phycor Inc",
+"removedTicker": "RDRT",
+"removedSecurity": "Read Rite Corp",
+"date": "1996-12-23",
+"symbol": "PHYC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Quintiles Transnational Corp",
+"removedTicker": "SHLM",
+"removedSecurity": "A Schulman Inc",
+"date": "1996-12-23",
+"symbol": "QTRN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Synopsys Inc",
+"removedTicker": "VCELA",
+"removedSecurity": "Vanguard Cellular Systems Inc",
+"date": "1996-12-23",
+"symbol": "SNPS",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Fiserv Inc",
+"removedTicker": "KELYA",
+"removedSecurity": "Kelly Services Inc",
+"date": "1996-12-23",
+"symbol": "FISV",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Fort Howard Corp",
+"removedTicker": "LRCX",
+"removedSecurity": "Lam Research Corp",
+"date": "1996-12-23",
+"symbol": "FORT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Komag Inc",
+"removedTicker": "MLKN",
+"removedSecurity": "MillerKnoll Inc",
+"date": "1996-12-23",
+"symbol": "KMAG",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "McAfee Inc",
+"removedTicker": "SKYT",
+"removedSecurity": "Skytel Comm's Inc",
+"date": "1996-12-23",
+"symbol": "MFE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 23, 1996",
+"addedSecurity": "Pairgain Technologies Inc",
+"removedTicker": "PRGO",
+"removedSecurity": "Perrigo Company Plc",
+"date": "1996-12-23",
+"symbol": "PAIR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 25, 1996",
+"addedSecurity": "Starbucks Corp",
+"removedTicker": "STJ",
+"removedSecurity": "St. Jude Medical Inc",
+"date": "1996-11-25",
+"symbol": "SBUX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 30, 1996",
+"addedSecurity": "Fore Systems Inc",
+"removedTicker": "AES",
+"removedSecurity": "AES Corp",
+"date": "1996-09-30",
+"symbol": "FORE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 2, 1996",
+"addedSecurity": "Republic Industries, Inc.",
+"removedTicker": "TWX",
+"removedSecurity": "Time Warner Inc",
+"date": "1996-08-02",
+"symbol": "RWIN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 17, 1996",
+"addedSecurity": "Cascade Communications Corp",
+"removedTicker": "USHC",
+"removedSecurity": "United States Healthcare Inc",
+"date": "1996-07-17",
+"symbol": "CSCC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 10, 1996",
+"addedSecurity": "Ascend Comm's Inc",
+"removedTicker": "STRM",
+"removedSecurity": "StrataCom, Inc.",
+"date": "1996-07-10",
+"symbol": "ASND",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 29, 1996",
+"addedSecurity": "Oxford Health Plans Inc",
+"removedTicker": "BAY",
+"removedSecurity": "Bay Networks Inc",
+"date": "1996-02-29",
+"symbol": "OHP",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "Micron Technology Inc",
+"removedTicker": "HONI",
+"removedSecurity": "Hon Industries Inc.",
+"date": "1995-12-18",
+"symbol": "MU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "IDEXX Laboratories Inc",
+"removedTicker": "CHRS",
+"removedSecurity": "Charming Shoppes, Inc.",
+"date": "1995-12-18",
+"symbol": "IDXX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "General Nutrition Cos Inc",
+"removedTicker": "ASTA",
+"removedSecurity": "AST Research Inc",
+"date": "1995-12-18",
+"symbol": "GNCI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "Boston Chicken Inc",
+"removedTicker": "ACCOB",
+"removedSecurity": "Adolph Coors Company",
+"date": "1995-12-18",
+"symbol": "BOST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "Gartner Inc",
+"removedTicker": "ALEX",
+"removedSecurity": "Alexander & Baldwin Inc",
+"date": "1995-12-18",
+"symbol": "IT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "People Soft Inc",
+"removedTicker": "TECUA",
+"removedSecurity": "Tecumseh Products Co",
+"date": "1995-12-18",
+"symbol": "PSFT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "PetSmart Inc",
+"removedTicker": "NDSN",
+"removedSecurity": "Nordson Corp",
+"date": "1995-12-18",
+"symbol": "PETM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "Maxim Integrated Products Inc",
+"removedTicker": "INEL",
+"removedSecurity": "Intelligent Electronics Inc",
+"date": "1995-12-18",
+"symbol": "MXIM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "December 18, 1995",
+"addedSecurity": "Read Rite Corp",
+"removedTicker": "YRCW",
+"removedSecurity": "YRC Worldwide Inc",
+"date": "1995-12-18",
+"symbol": "RDRT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 27, 1995",
+"addedSecurity": "Intuit Inc",
+"removedTicker": "MMED",
+"removedSecurity": "MultiMedia Inc",
+"date": "1995-11-27",
+"symbol": "INTU",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 27, 1995",
+"addedSecurity": "Gateway Inc",
+"removedTicker": "ROAD",
+"removedSecurity": "Roadway Services, Inc.",
+"date": "1995-11-27",
+"symbol": "GTW",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "November 6, 1995",
+"addedSecurity": "Time Warner Inc",
+"removedTicker": "PHB",
+"removedSecurity": "Pioneer HI Bred International Inc",
+"date": "1995-11-06",
+"symbol": "TWX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "October 3, 1995",
+"addedSecurity": "EDCI Holdings Inc",
+"removedTicker": "LINB",
+"removedSecurity": "LIN Broadcasting Corp",
+"date": "1995-10-03",
+"symbol": "EDCI",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "September 27, 1995",
+"addedSecurity": "US Robotics Corp",
+"removedTicker": "PTCM",
+"removedSecurity": "Pacific Telecom Inc",
+"date": "1995-09-27",
+"symbol": "USRX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 18, 1995",
+"addedSecurity": "Nortwest Airlines",
+"removedTicker": "BRNO",
+"removedSecurity": "Brunos Inc",
+"date": "1995-08-18",
+"symbol": "NWA",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 19, 1995",
+"addedSecurity": "Altera Corp.",
+"removedTicker": "LGNT",
+"removedSecurity": "Legent Corp",
+"date": "1995-07-19",
+"symbol": "ALTR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 5, 1995",
+"addedSecurity": "MFS Communications Inc",
+"removedTicker": "LOTS",
+"removedSecurity": "Lotus Development Corp",
+"date": "1995-07-05",
+"symbol": "MFST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 6, 1995",
+"addedSecurity": "HBO & Co",
+"removedTicker": "SON",
+"removedSecurity": "Sonoco Products Co",
+"date": "1995-03-06",
+"symbol": "HBOC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 27, 1995",
+"addedSecurity": "",
+"removedTicker": "SMLS",
+"removedSecurity": "SciMed Life Systems, Inc",
+"date": "1995-02-27",
+"symbol": "KLAC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "February 13, 1995",
+"addedSecurity": "A Schulman Inc",
+"removedTicker": "QVCN",
+"removedSecurity": "QVC, Inc.",
+"date": "1995-02-13",
+"symbol": "SHLM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 27, 1995",
+"addedSecurity": "StrataCom, Inc.",
+"removedTicker": "MGMA",
+"removedSecurity": "Magma Power Company",
+"date": "1995-01-27",
+"symbol": "STRM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 27, 1995",
+"addedSecurity": "RPM Int'l Inc",
+"removedTicker": "DG",
+"removedSecurity": "Dollar General Corp",
+"date": "1995-01-27",
+"symbol": "RPM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 01, 1994",
+"addedSecurity": "Paychex",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1993-12-31",
+"symbol": "PAYX",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 31, 1989",
+"addedSecurity": "Amgen",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1989-01-30",
+"symbol": "AMGN",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 1, 1989",
+"addedSecurity": "Costco",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1988-12-31",
+"symbol": "COST",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "August 20, 1986",
+"addedSecurity": "Adobe Inc.",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1986-08-19",
+"symbol": "ADBE",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "March 13, 1986",
+"addedSecurity": "Microsoft",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1986-03-12",
+"symbol": "MSFT",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "July 01, 1985",
+"addedSecurity": "Qualcomm",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1985-06-30",
+"symbol": "QCOM",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 31, 1985",
+"addedSecurity": "Apple Inc.",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1985-01-30",
+"symbol": "AAPL",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 31, 1985",
+"addedSecurity": "Intel",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1985-01-30",
+"symbol": "INTC",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 31, 1985",
+"addedSecurity": "Paccar",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1985-01-30",
+"symbol": "PCAR",
+"reason": "Annual Re-ranking"
+},
+{
+"dateAdded": "January 31, 1985",
+"addedSecurity": "Applied Materials",
+"removedTicker": "",
+"removedSecurity": "",
+"date": "1985-01-30",
+"symbol": "AMAT",
+"reason": null
+}
+]

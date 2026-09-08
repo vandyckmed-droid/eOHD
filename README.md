@@ -36,3 +36,7 @@ For the last trading day of each month from 2007-01: Common Stock, close >= $5, 
 3. universe size at 2008-09, 2009-03, 2020-03, 2022-10
 4. high < low, close outside [low, high], zero volume, > 50% move with no split
 5. data ending > 30 days before delisting (needs the fundamentals endpoint; if the plan returns 403 this is reported as unavailable)
+
+## Index membership (from FMP, saved 2026-09-08)
+
+`indexes/` holds current members and the add/remove history for the S&P 500, Nasdaq 100, and Dow. Used to build point-in-time universes without survivorship bias. FMP is no longer required once these are saved.
