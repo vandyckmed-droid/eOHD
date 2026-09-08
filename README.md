@@ -46,3 +46,7 @@ For the last trading day of each month from 2007-01: Common Stock, close >= $5, 
 ## Trust list
 
 `trust.py` rebuilds month-end S&P 500 membership from the FMP change history (`indexes/sp500_monthly.csv`) and writes `indexes/trust.csv`: each ticker's price series cut at gaps (ticker reuse), dead tails trimmed, and each segment marked `clean`, `excluded` (bad data), or `unused` (never in an index while trading). Backtests should only use `clean` segments. About 99% of index-membership months are covered by clean data; the rest is old EODHD series that mix in unrelated securities.
+
+## Studies
+
+- `momentum.py` — Study 1: 12-1 month momentum within the point-in-time S&P 500, top/bottom 50 equal weight, monthly rebalance, 1996-2026. Includes an adjusted-vs-raw return cross-check that drops inconsistent stock-months. Result: winners beat losers by ~5%/yr, but the top 50 only matched equal-weight S&P 500 after 0.2% costs; large 2009 momentum crash.
