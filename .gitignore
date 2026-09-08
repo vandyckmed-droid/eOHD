@@ -1,0 +1,7 @@
+data/
+universe/
+qa/
+qa_report.md
+state.json
+errors.log
+__pycache__/
