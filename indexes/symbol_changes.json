@@ -1,0 +1,6002 @@
+[
+{
+"date": "2026-09-04",
+"companyName": "SANGRIX INC. Class A Ordinary Shares",
+"oldSymbol": "BTOG",
+"newSymbol": "SGRX"
+},
+{
+"date": "2026-09-02",
+"companyName": "Hornbeck Offshore Services, Inc. Common Stock",
+"oldSymbol": "HLX",
+"newSymbol": "HOS"
+},
+{
+"date": "2026-09-02",
+"companyName": "YYForce Inc. Class A Ordinary Shares",
+"oldSymbol": "YYGH",
+"newSymbol": "YFOR"
+},
+{
+"date": "2026-09-01",
+"companyName": "iShares 1-10 Year U.S. Aggregate Bond ETF",
+"oldSymbol": "GBF",
+"newSymbol": "AGGM"
+},
+{
+"date": "2026-08-31",
+"companyName": "Harbor AlphaEdge Large Cap Value ETF",
+"oldSymbol": "VLLU",
+"newSymbol": "AELV"
+},
+{
+"date": "2026-08-31",
+"companyName": "JAB Acquisition Corp I Warrants",
+"oldSymbol": "JABRW",
+"newSymbol": "ATLQW"
+},
+{
+"date": "2026-08-31",
+"companyName": "JAB Acquisition Corp I Rights",
+"oldSymbol": "JABRR",
+"newSymbol": "ATLQR"
+},
+{
+"date": "2026-08-31",
+"companyName": "Harbor Multi-Asset Explorer ETF",
+"oldSymbol": "MAPP",
+"newSymbol": "MATR"
+},
+{
+"date": "2026-08-31",
+"companyName": "JAB Acquisition Corp I Class A Ordinary Shares",
+"oldSymbol": "JAB",
+"newSymbol": "ATLQ"
+},
+{
+"date": "2026-08-31",
+"companyName": "JAB Acquisition Corp I Unit",
+"oldSymbol": "JABRU",
+"newSymbol": "ATLQU"
+},
+{
+"date": "2026-08-31",
+"companyName": "Paradium.AI, Inc. Common Stock",
+"oldSymbol": "AREN",
+"newSymbol": "PAAI"
+},
+{
+"date": "2026-08-28",
+"companyName": "NYLIM CBRE Real Estate & Infrastructure ETF",
+"oldSymbol": "IQRA",
+"newSymbol": "REIX"
+},
+{
+"date": "2026-08-28",
+"companyName": "BIRKS GROUP INC A",
+"oldSymbol": "BGI",
+"newSymbol": "BGIC"
+},
+{
+"date": "2026-08-27",
+"companyName": "Valor Energy Incorporated Common Stock",
+"oldSymbol": "AIHS",
+"newSymbol": "VAI"
+},
+{
+"date": "2026-08-27",
+"companyName": "Inflection Point Acquisition Corp. VII Unit",
+"oldSymbol": "CMIIU",
+"newSymbol": "IPXGU"
+},
+{
+"date": "2026-08-27",
+"companyName": "Inflection Point Acquisition Corp. VII Class A Ordinary Shares",
+"oldSymbol": "CMII",
+"newSymbol": "IPXG"
+},
+{
+"date": "2026-08-27",
+"companyName": "Inflection Point Acquisition Corp. VII Warrant",
+"oldSymbol": "CMIIW",
+"newSymbol": "IPXGW"
+},
+{
+"date": "2026-08-26",
+"companyName": "Tema MLCC & PowerSemi ETF",
+"oldSymbol": "SIC",
+"newSymbol": "PSOX"
+},
+{
+"date": "2026-08-24",
+"companyName": "Endovia Health Sciences, Inc. Common Stock",
+"oldSymbol": "SBEV",
+"newSymbol": "EDVA"
+},
+{
+"date": "2026-08-21",
+"companyName": "STF Tactical Growth & Income ETF",
+"oldSymbol": "TUGN",
+"newSymbol": "SEPQ"
+},
+{
+"date": "2026-08-21",
+"companyName": "Corgi U.S. Growth 2x Daily ETF",
+"oldSymbol": "XVUG",
+"newSymbol": "USGX"
+},
+{
+"date": "2026-08-21",
+"companyName": "Corgi U.S. Mid-Cap 2x Daily ETF",
+"oldSymbol": "XVO",
+"newSymbol": "USMX"
+},
+{
+"date": "2026-08-21",
+"companyName": "Corgi U.S. Large-Cap 2x Daily ETF",
+"oldSymbol": "VOOX",
+"newSymbol": "USLX"
+},
+{
+"date": "2026-08-21",
+"companyName": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+"oldSymbol": "MGKX",
+"newSymbol": "MEGX"
+},
+{
+"date": "2026-08-21",
+"companyName": "Corgi U.S. Small-Cap 2x Daily ETF",
+"oldSymbol": "VBX",
+"newSymbol": "USSX"
+},
+{
+"date": "2026-08-20",
+"companyName": "Corgi U.S. Growth 2x Daily ETF",
+"oldSymbol": "USGX",
+"newSymbol": "XVUG"
+},
+{
+"date": "2026-08-20",
+"companyName": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+"oldSymbol": "MEGX",
+"newSymbol": "MGKX"
+},
+{
+"date": "2026-08-20",
+"companyName": "Brightline Interactive, Inc. Common Stock",
+"oldSymbol": "GGRP",
+"newSymbol": "BTLN"
+},
+{
+"date": "2026-08-20",
+"companyName": "Corgi U.S. Mid-Cap 2x Daily ETF",
+"oldSymbol": "USMX",
+"newSymbol": "XVO"
+},
+{
+"date": "2026-08-20",
+"companyName": "Corgi U.S. Small-Cap 2x Daily ETF",
+"oldSymbol": "USSX",
+"newSymbol": "VBX"
+},
+{
+"date": "2026-08-20",
+"companyName": "Corgi U.S. Large-Cap 2x Daily ETF",
+"oldSymbol": "USLX",
+"newSymbol": "VOOX"
+},
+{
+"date": "2026-08-18",
+"companyName": "Vivmark Residential Common Shares of Beneficial Interest",
+"oldSymbol": "EQR",
+"newSymbol": "VMRK"
+},
+{
+"date": "2026-08-18",
+"companyName": "Innovative Solutions and Support, Inc. Common Stock",
+"oldSymbol": "ISSC",
+"newSymbol": "IA"
+},
+{
+"date": "2026-08-17",
+"companyName": "Neighborhood Intelligence, Inc. Common Stock",
+"oldSymbol": "BBBY",
+"newSymbol": "NXH"
+},
+{
+"date": "2026-08-17",
+"companyName": "Neighborhood Intelligence, Inc. Warrants",
+"oldSymbol": "BBBY.W",
+"newSymbol": "BBBYW"
+},
+{
+"date": "2026-08-14",
+"companyName": "BrenX Ltd. Ordinary Shares",
+"oldSymbol": "BNRG",
+"newSymbol": "BRNX"
+},
+{
+"date": "2026-08-10",
+"companyName": "First Phosphate Corp. American Depositary Shares",
+"oldSymbol": "FPHO",
+"newSymbol": "PHOS"
+},
+{
+"date": "2026-08-10",
+"companyName": "QVC Group, Inc. Common Stock",
+"oldSymbol": "QVC",
+"newSymbol": "QVCG"
+},
+{
+"date": "2026-08-07",
+"companyName": "Banzai International, Inc. Class A Common Stock",
+"oldSymbol": "BNZI",
+"newSymbol": "PARA"
+},
+{
+"date": "2026-08-07",
+"companyName": "Banzai International, Inc. Warrant",
+"oldSymbol": "BNZIW",
+"newSymbol": "PARAW"
+},
+{
+"date": "2026-08-04",
+"companyName": "ADI Global Distribution Inc. Common Stock",
+"oldSymbol": "ADIG.V",
+"newSymbol": "ADIG"
+},
+{
+"date": "2026-08-04",
+"companyName": "Quanome Technologies, Inc. Common Stock",
+"oldSymbol": "LSH",
+"newSymbol": "QNME"
+},
+{
+"date": "2026-08-04",
+"companyName": "Starling Oncology, Inc. Warrant",
+"oldSymbol": "TOIIW",
+"newSymbol": "STLNW"
+},
+{
+"date": "2026-08-04",
+"companyName": "Starling Oncology, Inc. Common Stock",
+"oldSymbol": "TOI",
+"newSymbol": "STLN"
+},
+{
+"date": "2026-08-03",
+"companyName": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series",
+"oldSymbol": "QAU",
+"newSymbol": "SCAU"
+},
+{
+"date": "2026-08-03",
+"companyName": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series",
+"oldSymbol": "HAUG",
+"newSymbol": "CTAU"
+},
+{
+"date": "2026-08-03",
+"companyName": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series",
+"oldSymbol": "CTAU",
+"newSymbol": "HAUG"
+},
+{
+"date": "2026-08-03",
+"companyName": "Corgi International Developed Equities 15% Structured Buffer ETF - August Series",
+"oldSymbol": "SCAU",
+"newSymbol": "IDAU"
+},
+{
+"date": "2026-08-03",
+"companyName": "Cerenome, Inc. Common Stock ",
+"oldSymbol": "PSTV",
+"newSymbol": "CNSY"
+},
+{
+"date": "2026-08-03",
+"companyName": "Corgi Growth & Technology 10% Structured Buffer ETF - August Series",
+"oldSymbol": "IDAU",
+"newSymbol": "QAU"
+},
+{
+"date": "2026-08-03",
+"companyName": "WisdomTree GeoAlpha Opportunities Fund",
+"oldSymbol": "GEOA",
+"newSymbol": "OPPG"
+},
+{
+"date": "2026-07-31",
+"companyName": "VISIONARY HOLDINGS INC",
+"oldSymbol": "GV",
+"newSymbol": "GVHG"
+},
+{
+"date": "2026-07-28",
+"companyName": "Yarrow Bioscience, Inc. Common Stock",
+"oldSymbol": "VYNE",
+"newSymbol": "YARW"
+},
+{
+"date": "2026-07-27",
+"companyName": "Trinity Capital Inc. 7.875% Notes Due 2029",
+"oldSymbol": "TRINI",
+"newSymbol": "TRNI"
+},
+{
+"date": "2026-07-27",
+"companyName": "Trinity Capital Inc. 7.875% Notes due 2029",
+"oldSymbol": "TRINZ",
+"newSymbol": "TRNZ"
+},
+{
+"date": "2026-07-27",
+"companyName": "Graf Global Corp. Class A ordinary shares",
+"oldSymbol": "GRAF",
+"newSymbol": "TONT"
+},
+{
+"date": "2026-07-27",
+"companyName": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+"oldSymbol": "GRAF.U",
+"newSymbol": "TONT.U"
+},
+{
+"date": "2026-07-24",
+"companyName": "Vulcan Infrastructure and Power Inc. Class A Common Stock",
+"oldSymbol": "GREE",
+"newSymbol": "VIP"
+},
+{
+"date": "2026-07-23",
+"companyName": "Velos Acquisition I Corp. Warrant",
+"oldSymbol": "MBAVW",
+"newSymbol": "VLOSW"
+},
+{
+"date": "2026-07-23",
+"companyName": "Velos Acquisition I Corp. Class A Ordinary shares",
+"oldSymbol": "MBAV",
+"newSymbol": "VLOS"
+},
+{
+"date": "2026-07-23",
+"companyName": "Grandstand Limited Ordinary Shares",
+"oldSymbol": "GAMB",
+"newSymbol": "GRSD"
+},
+{
+"date": "2026-07-23",
+"companyName": "Velos Acquisition I Corp. Units",
+"oldSymbol": "MBAVU",
+"newSymbol": "VLOSU"
+},
+{
+"date": "2026-07-22",
+"companyName": "PowerCompute, Inc. Common Stock",
+"oldSymbol": "LMFA",
+"newSymbol": "PWCM"
+},
+{
+"date": "2026-07-22",
+"companyName": "DataMeds AI, Inc. Common Stock",
+"oldSymbol": "WGRX",
+"newSymbol": "MEDS"
+},
+{
+"date": "2026-07-22",
+"companyName": "Global X Morningstar Capital Allocation Leaders ETF",
+"oldSymbol": "KRMA",
+"newSymbol": "CPTL"
+},
+{
+"date": "2026-07-22",
+"companyName": "Change Agents Corporation Common Stock",
+"oldSymbol": "ALBT",
+"newSymbol": "CHGA"
+},
+{
+"date": "2026-07-21",
+"companyName": "Concorde International Group Ltd Class A Ordinary Shares",
+"oldSymbol": "YOOV",
+"newSymbol": "CIGL"
+},
+{
+"date": "2026-07-21",
+"companyName": "AI ENERGY INC",
+"oldSymbol": "AING",
+"newSymbol": "ENAI"
+},
+{
+"date": "2026-07-20",
+"companyName": "Niki BioSolutions, Inc. Common Stock",
+"oldSymbol": "APM",
+"newSymbol": "NIKI"
+},
+{
+"date": "2026-07-20",
+"companyName": "MindForge Inc. Class A Ordinary Shares",
+"oldSymbol": "UBXG",
+"newSymbol": "MF"
+},
+{
+"date": "2026-07-20",
+"companyName": "Osisko Gold Group Inc. Warrant expiring 5/27/2027",
+"oldSymbol": "ODVWZ",
+"newSymbol": "OGGWZ"
+},
+{
+"date": "2026-07-20",
+"companyName": "BOXABL, Inc. Common stock",
+"oldSymbol": "FGMC",
+"newSymbol": "BXBL"
+},
+{
+"date": "2026-07-20",
+"companyName": "Osisko Gold Group Inc. Common Shares",
+"oldSymbol": "ODV",
+"newSymbol": "OGG"
+},
+{
+"date": "2026-07-16",
+"companyName": "SDR DRONE INC",
+"oldSymbol": "HLLK",
+"newSymbol": "SDCO"
+},
+{
+"date": "2026-07-16",
+"companyName": "Top KingWin Ltd Class A Ordinary Shares",
+"oldSymbol": "WAI",
+"newSymbol": "DPU"
+},
+{
+"date": "2026-07-13",
+"companyName": "General Fusion Group Ltd. Common Shares",
+"oldSymbol": "SVAC",
+"newSymbol": "GFUZ"
+},
+{
+"date": "2026-07-13",
+"companyName": "SK hynix Inc. American Depositary Shares",
+"oldSymbol": "SKHYV",
+"newSymbol": "SKHY"
+},
+{
+"date": "2026-07-13",
+"companyName": "Azio AI Holdings, Inc. Common Stock",
+"oldSymbol": "EVTV",
+"newSymbol": "AZIO"
+},
+{
+"date": "2026-07-13",
+"companyName": "General Fusion Group Ltd. Warrant",
+"oldSymbol": "SVACW",
+"newSymbol": "GFUZW"
+},
+{
+"date": "2026-07-09",
+"companyName": "Ming Shing Group Holdings Limited Ordinary Shares",
+"oldSymbol": "MSW",
+"newSymbol": "PMA"
+},
+{
+"date": "2026-07-09",
+"companyName": "RiverNorth Market Neutral ETF",
+"oldSymbol": "SPCZ",
+"newSymbol": "RNMN"
+},
+{
+"date": "2026-07-09",
+"companyName": "TrueShares Eagle Global Renewable Energy Income ETF",
+"oldSymbol": "RNWZ",
+"newSymbol": "PWRZ"
+},
+{
+"date": "2026-07-07",
+"companyName": "BILI SOCIAL INTERNATIONAL",
+"oldSymbol": "AGGI",
+"newSymbol": "BSCL"
+},
+{
+"date": "2026-07-07",
+"companyName": "Midera Food Processing, Inc. Common Stock",
+"oldSymbol": "MFPVV",
+"newSymbol": "MFP"
+},
+{
+"date": "2026-07-06",
+"companyName": "Nomad Power Solutions, Inc. Common Stock",
+"oldSymbol": "LIXT",
+"newSymbol": "NMAD"
+},
+{
+"date": "2026-07-06",
+"companyName": "RAPIDE GROUP",
+"oldSymbol": "S700",
+"newSymbol": "RAPI"
+},
+{
+"date": "2026-07-06",
+"companyName": "Tema Alternative Asset Managers ETF",
+"oldSymbol": "AAUM",
+"newSymbol": "PRVT"
+},
+{
+"date": "2026-07-02",
+"companyName": "UTime Limited Class A Ordinary Shares",
+"oldSymbol": "WTO",
+"newSymbol": "FXHO"
+},
+{
+"date": "2026-07-02",
+"companyName": "Circle8 Group, Inc. Common Stock",
+"oldSymbol": "ATLN",
+"newSymbol": "CIRC"
+},
+{
+"date": "2026-07-01",
+"companyName": "House of Doge Inc. Common Stock",
+"oldSymbol": "TBH",
+"newSymbol": "HODO"
+},
+{
+"date": "2026-07-01",
+"companyName": "Neostellar Capital Corp. 6.00% Notes due 2026",
+"oldSymbol": "SSSSL",
+"newSymbol": "NSLRL"
+},
+{
+"date": "2026-07-01",
+"companyName": "Mobility Global Inc. Common Stock",
+"oldSymbol": "MBGL.V",
+"newSymbol": "MBGL"
+},
+{
+"date": "2026-07-01",
+"companyName": "Leverage Shares 2X Long ECHO Daily ETF",
+"oldSymbol": "SATG",
+"newSymbol": "ECHX"
+},
+{
+"date": "2026-07-01",
+"companyName": "Neostellar Capital Corp. Common Stock",
+"oldSymbol": "SSSS",
+"newSymbol": "NSLR"
+},
+{
+"date": "2026-06-30",
+"companyName": "PEAKCART GROUP CORP",
+"oldSymbol": "PYBX",
+"newSymbol": "PCGC"
+},
+{
+"date": "2026-06-30",
+"companyName": "Defiance Gold Enhanced Options Income ETF",
+"oldSymbol": "GLDY",
+"newSymbol": "GOLI"
+},
+{
+"date": "2026-06-29",
+"companyName": "Honeywell Aerospace Inc. Common Stock ",
+"oldSymbol": "HONAV",
+"newSymbol": "HONA"
+},
+{
+"date": "2026-06-29",
+"companyName": "Del Monte Corporation Ordinary Shares",
+"oldSymbol": "FDP",
+"newSymbol": "DMC"
+},
+{
+"date": "2026-06-24",
+"companyName": "EchoStar  Corporation Common Stock",
+"oldSymbol": "SATS",
+"newSymbol": "ECHO"
+},
+{
+"date": "2026-06-24",
+"companyName": "First Trust Equity Market Neutral ETF",
+"oldSymbol": "MARB",
+"newSymbol": "NTRL"
+},
+{
+"date": "2026-06-23",
+"companyName": "Teamshares Inc. Warrants",
+"oldSymbol": "LOKVW",
+"newSymbol": "TMSWW"
+},
+{
+"date": "2026-06-23",
+"companyName": "Teamshares Inc. Common Stock",
+"oldSymbol": "LOKV",
+"newSymbol": "TMS"
+},
+{
+"date": "2026-06-22",
+"companyName": "Tema U.S. Manufacturing & Reshoring ETF",
+"oldSymbol": "RSHO",
+"newSymbol": "WELD"
+},
+{
+"date": "2026-06-22",
+"companyName": "Happen, Inc. Common Stock",
+"oldSymbol": "LC",
+"newSymbol": "HAPN"
+},
+{
+"date": "2026-06-22",
+"companyName": "Firy Inc. Class A Common Stock",
+"oldSymbol": "SKLZ",
+"newSymbol": "FIRY"
+},
+{
+"date": "2026-06-17",
+"companyName": "Liberty Latin America Ltd. 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+"oldSymbol": "LILPV",
+"newSymbol": "LILAP"
+},
+{
+"date": "2026-06-17",
+"companyName": "Liberty Latin America Ltd. 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+"oldSymbol": "LILP",
+"newSymbol": "LILA"
+},
+{
+"date": "2026-06-17",
+"companyName": "Skyline Builders Group Holding Limited Class A Ordinary Shares",
+"oldSymbol": "SKBL",
+"newSymbol": "KAZR"
+},
+{
+"date": "2026-06-16",
+"companyName": "Flash Sports & Media Holdings, Inc. Common Stock",
+"oldSymbol": "UGRO",
+"newSymbol": "FLZH"
+},
+{
+"date": "2026-06-16",
+"companyName": "Faeth Therapeutics, Inc. Common Stock",
+"oldSymbol": "SNSE",
+"newSymbol": "FTH"
+},
+{
+"date": "2026-06-12",
+"companyName": "Shoe Station Group, Inc. Common Stock",
+"oldSymbol": "SCVL",
+"newSymbol": "SHOE"
+},
+{
+"date": "2026-06-09",
+"companyName": "Bitzero Holdings Inc. Common Shares",
+"oldSymbol": "BTZR",
+"newSymbol": "AIBZ"
+},
+{
+"date": "2026-06-08",
+"companyName": "Strive 500 ETF",
+"oldSymbol": "STRV",
+"newSymbol": "STXF"
+},
+{
+"date": "2026-06-08",
+"companyName": "Factorial Energy Inc. Warrant",
+"oldSymbol": "CGCTW",
+"newSymbol": "FACWW"
+},
+{
+"date": "2026-06-08",
+"companyName": "Factorial Energy Inc. Class A Common Stock",
+"oldSymbol": "CGCT",
+"newSymbol": "FAC"
+},
+{
+"date": "2026-06-08",
+"companyName": "Wisdom Short Duration Income ETF",
+"oldSymbol": "WISD",
+"newSymbol": "SLWS"
+},
+{
+"date": "2026-06-08",
+"companyName": "Big Sky Industrial Inc. Common Stock",
+"oldSymbol": "USEG",
+"newSymbol": "BSIN"
+},
+{
+"date": "2026-06-08",
+"companyName": "First Trust Multi-Manager Large Growth ETF",
+"oldSymbol": "MMLG",
+"newSymbol": "AFGR"
+},
+{
+"date": "2026-06-05",
+"companyName": "Defiance Daily Target 2X Long INFQ ETF",
+"oldSymbol": "INFX",
+"newSymbol": "INFH"
+},
+{
+"date": "2026-06-04",
+"companyName": "People Incorporated Common Stock",
+"oldSymbol": "IAC",
+"newSymbol": "PPLI"
+},
+{
+"date": "2026-06-03",
+"companyName": "PowerBank Corporation Common Stock",
+"oldSymbol": "SUUN",
+"newSymbol": "PBK"
+},
+{
+"date": "2026-06-03",
+"companyName": "Monarch Blue Chips Elite Index ETF",
+"oldSymbol": "MBCC",
+"newSymbol": "MBCE"
+},
+{
+"date": "2026-06-02",
+"companyName": "Enviri Corporation Common Stock",
+"oldSymbol": "NVRI.V",
+"newSymbol": "NVRI"
+},
+{
+"date": "2026-06-02",
+"companyName": "Victorias Secret & Co. Common Stock ",
+"oldSymbol": "VSCO",
+"newSymbol": "VSXY"
+},
+{
+"date": "2026-06-01",
+"companyName": "EDAP TMS S.A. American Depositary Shares",
+"oldSymbol": "EDAP",
+"newSymbol": "FOCL"
+},
+{
+"date": "2026-06-01",
+"companyName": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
+"oldSymbol": "AZLU",
+"newSymbol": "AZUL"
+},
+{
+"date": "2026-06-01",
+"companyName": "FedEx Freight Holding Company, Inc. Common Stock",
+"oldSymbol": "FDXF.V",
+"newSymbol": "FDXF"
+},
+{
+"date": "2026-05-29",
+"companyName": "iShares Strategic Metals ETF",
+"oldSymbol": "TMET",
+"newSymbol": "ISTM"
+},
+{
+"date": "2026-05-29",
+"companyName": "NextBoat Inc. Common Stcok",
+"oldSymbol": "OTH",
+"newSymbol": "NXB"
+},
+{
+"date": "2026-05-29",
+"companyName": "Quhuo Limited American Depository Shares",
+"oldSymbol": "QHUO",
+"newSymbol": "QH"
+},
+{
+"date": "2026-05-28",
+"companyName": "Octave Intelligence plc Class B Ordinary Shares",
+"oldSymbol": "OCTVV",
+"newSymbol": "OCTV"
+},
+{
+"date": "2026-05-28",
+"companyName": "SkyAI, Inc. Warrant",
+"oldSymbol": "STSSW",
+"newSymbol": "SKYAW"
+},
+{
+"date": "2026-05-28",
+"companyName": "Rocket One Inc. Common Stock",
+"oldSymbol": "HOTH",
+"newSymbol": "RKTO"
+},
+{
+"date": "2026-05-28",
+"companyName": "SkyAI, Inc. Common Stock",
+"oldSymbol": "STSS",
+"newSymbol": "SKYA"
+},
+{
+"date": "2026-05-27",
+"companyName": "Collective Acquisition Corp. Class A Ordinary Shares",
+"oldSymbol": "IPOD",
+"newSymbol": "CCAQ"
+},
+{
+"date": "2026-05-27",
+"companyName": "Collective Acquisition Corp. Warrants",
+"oldSymbol": "IPODW",
+"newSymbol": "CCAQW"
+},
+{
+"date": "2026-05-27",
+"companyName": "Collective Acquisition Corp. Units",
+"oldSymbol": "IPODU",
+"newSymbol": "CCAQU"
+},
+{
+"date": "2026-05-27",
+"companyName": "All In FutureTech Alliance, Inc. Common Stock",
+"oldSymbol": "AGAE",
+"newSymbol": "AIFA"
+},
+{
+"date": "2026-05-26",
+"companyName": "Hadron Energy, Inc. Warrant",
+"oldSymbol": "GIGGW",
+"newSymbol": "HDRNW"
+},
+{
+"date": "2026-05-26",
+"companyName": "Hadron Energy, Inc. Common Stock  ",
+"oldSymbol": "GIG",
+"newSymbol": "HDRN"
+},
+{
+"date": "2026-05-22",
+"companyName": "Innovative Digital Investors Acquisition Corp. Unit",
+"oldSymbol": "FGXCU",
+"newSymbol": "IDIAU"
+},
+{
+"date": "2026-05-21",
+"companyName": "DELEX HEALTHCARE GRP INC",
+"oldSymbol": "S358",
+"newSymbol": "DELX"
+},
+{
+"date": "2026-05-21",
+"companyName": "The Bank of New York Mellon Corporation Common Stock",
+"oldSymbol": "BK",
+"newSymbol": "BNY"
+},
+{
+"date": "2026-05-20",
+"companyName": "QTREX Quantum Ltd. Warrant",
+"oldSymbol": "IINNW",
+"newSymbol": "QTEXW"
+},
+{
+"date": "2026-05-20",
+"companyName": "QTREX Quantum Ltd. Ordinary Shares",
+"oldSymbol": "IINN",
+"newSymbol": "QTEX"
+},
+{
+"date": "2026-05-19",
+"companyName": "Kingsway Corporation Common Stock",
+"oldSymbol": "KFS",
+"newSymbol": "KWY"
+},
+{
+"date": "2026-05-18",
+"companyName": "Aureus Greenway Holdings Inc. Common Stock",
+"oldSymbol": "AGH",
+"newSymbol": "PUSA"
+},
+{
+"date": "2026-05-18",
+"companyName": "XMAX, Inc. Common Stock",
+"oldSymbol": "XWIN",
+"newSymbol": "XMAX"
+},
+{
+"date": "2026-05-18",
+"companyName": "ATIF Holdings Limited Ordinary Shares",
+"oldSymbol": "ZBAI",
+"newSymbol": "AUC"
+},
+{
+"date": "2026-05-18",
+"companyName": "Linkage Global Inc. Class A Ordinary Shares",
+"oldSymbol": "LGCB",
+"newSymbol": "UZX"
+},
+{
+"date": "2026-05-14",
+"companyName": "ALCHEMY INVSTM ACQ 1 UTS",
+"oldSymbol": "ALCY",
+"newSymbol": "ALCU"
+},
+{
+"date": "2026-05-13",
+"companyName": "RTB Digital, Inc. Common Stock",
+"oldSymbol": "RVYL",
+"newSymbol": "RTB"
+},
+{
+"date": "2026-05-12",
+"companyName": "Pelagos Insurance Capital Limited Common Shares",
+"oldSymbol": "FIHL",
+"newSymbol": "PLGO"
+},
+{
+"date": "2026-05-08",
+"companyName": "Enhanced Group Inc. Class A Common Stock",
+"oldSymbol": "APAD",
+"newSymbol": "ENHA"
+},
+{
+"date": "2026-05-08",
+"companyName": "AGNT, Inc. Common Stock",
+"oldSymbol": "EXPI",
+"newSymbol": "AGNT"
+},
+{
+"date": "2026-05-08",
+"companyName": "Lakefront Biotherapeutics American Depositary Shares",
+"oldSymbol": "GLPG",
+"newSymbol": "LKFT"
+},
+{
+"date": "2026-05-05",
+"companyName": "ChronoScale Holdings Corporation Common Stock",
+"oldSymbol": "EKSO",
+"newSymbol": "CHRN"
+},
+{
+"date": "2026-05-04",
+"companyName": "Sprott Physical Copper Trust",
+"oldSymbol": "SPHC",
+"newSymbol": "SCOP"
+},
+{
+"date": "2026-05-04",
+"companyName": "Onterris, Inc. Common Stock",
+"oldSymbol": "MEG",
+"newSymbol": "ONT"
+},
+{
+"date": "2026-05-01",
+"companyName": "Dynamix Corporation Warrant",
+"oldSymbol": "ETHMW",
+"newSymbol": "DYNCW"
+},
+{
+"date": "2026-05-01",
+"companyName": "Dynamix Corporation Unit",
+"oldSymbol": "ETHMU",
+"newSymbol": "DYNCU"
+},
+{
+"date": "2026-05-01",
+"companyName": "Dynamix Corporation Class A Ordinary Shares",
+"oldSymbol": "ETHM",
+"newSymbol": "DYNC"
+},
+{
+"date": "2026-04-30",
+"companyName": "Hartford Alpha Capture Value ETF",
+"oldSymbol": "QUVU",
+"newSymbol": "ACVU"
+},
+{
+"date": "2026-04-30",
+"companyName": "Quantum X Labs Inc. Common Stock",
+"oldSymbol": "VBIX",
+"newSymbol": "QXL"
+},
+{
+"date": "2026-04-30",
+"companyName": "Defiance Space and Connective Tech ETF",
+"oldSymbol": "SIXG",
+"newSymbol": "UFOX"
+},
+{
+"date": "2026-04-30",
+"companyName": "Big Digital Energy, Inc. Common Stock",
+"oldSymbol": "MIGI",
+"newSymbol": "BGDE"
+},
+{
+"date": "2026-04-29",
+"companyName": "Fabric.AI, Inc. Common Stock",
+"oldSymbol": "SBLX",
+"newSymbol": "FABC"
+},
+{
+"date": "2026-04-29",
+"companyName": "AI Financial Corporation Common Stock",
+"oldSymbol": "ALTS",
+"newSymbol": "AIFC"
+},
+{
+"date": "2026-04-28",
+"companyName": "Valion Bio, Inc. Common Stock",
+"oldSymbol": "TIVC",
+"newSymbol": "VBIO"
+},
+{
+"date": "2026-04-27",
+"companyName": "Defiance Daily Target 2x Long KEEL ETF",
+"oldSymbol": "BTFL",
+"newSymbol": "KEEX"
+},
+{
+"date": "2026-04-27",
+"companyName": "Bluemonte Global Equity ETF",
+"oldSymbol": "KMCP",
+"newSymbol": "BINT"
+},
+{
+"date": "2026-04-27",
+"companyName": "Z Squared Inc. Common Stock",
+"oldSymbol": "COEP",
+"newSymbol": "ZSQR"
+},
+{
+"date": "2026-04-24",
+"companyName": "Everforth, Inc. Common Stock",
+"oldSymbol": "ASGN",
+"newSymbol": "EFOR"
+},
+{
+"date": "2026-04-24",
+"companyName": "QVC GROUP INC A NEW",
+"oldSymbol": "QVCG",
+"newSymbol": "QVCA"
+},
+{
+"date": "2026-04-21",
+"companyName": "Alpha Compute Corp Common Stock",
+"oldSymbol": "ATON",
+"newSymbol": "ALP"
+},
+{
+"date": "2026-04-20",
+"companyName": "TRANSOCEANIC INVESTMENTS",
+"oldSymbol": "MGPH",
+"newSymbol": "OCEE"
+},
+{
+"date": "2026-04-20",
+"companyName": "EVOLVE ROYALTIES LTD",
+"oldSymbol": "CPEF",
+"newSymbol": "EVRY"
+},
+{
+"date": "2026-04-20",
+"companyName": "First Tracks Biotherapeutics, Inc. Ordinary Shares ",
+"oldSymbol": "TRAXV",
+"newSymbol": "TRAX"
+},
+{
+"date": "2026-04-17",
+"companyName": "Everpure, Inc. Class A common stock",
+"oldSymbol": "PSTG",
+"newSymbol": "P"
+},
+{
+"date": "2026-04-17",
+"companyName": "Defiance Pure Space Daily 2X Strategy ETF",
+"oldSymbol": "XAIL",
+"newSymbol": "SPCL"
+},
+{
+"date": "2026-04-14",
+"companyName": "Zenta Group Company Limited Class A Ordinary Shares",
+"oldSymbol": "ZGM",
+"newSymbol": "ZTG"
+},
+{
+"date": "2026-04-13",
+"companyName": "Concorde International Group Ltd Class A Ordinary Shares",
+"oldSymbol": "CIGL",
+"newSymbol": "YOOV"
+},
+{
+"date": "2026-04-09",
+"companyName": "VanEck Digital Native Economy ETF",
+"oldSymbol": "BJK",
+"newSymbol": "GENZ"
+},
+{
+"date": "2026-04-07",
+"companyName": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",
+"oldSymbol": "DCOMG",
+"newSymbol": "DCBG"
+},
+{
+"date": "2026-04-07",
+"companyName": "SPAC and New Issue ETF",
+"oldSymbol": "SPCX",
+"newSymbol": "SPCK"
+},
+{
+"date": "2026-04-06",
+"companyName": "Keel Infrastructure Corp. Common Stock",
+"oldSymbol": "BITF",
+"newSymbol": "KEEL"
+},
+{
+"date": "2026-04-06",
+"companyName": "Stablecoin Development Corporation Common Stock",
+"oldSymbol": "NBY",
+"newSymbol": "SDEV"
+},
+{
+"date": "2026-04-02",
+"companyName": "CAPITALWORKS EMERGING UTS",
+"oldSymbol": "CMCA",
+"newSymbol": "CMCU"
+},
+{
+"date": "2026-04-01",
+"companyName": "Versigent PLC Ordinary Shares",
+"oldSymbol": "VGNT.V",
+"newSymbol": "VGNT"
+},
+{
+"date": "2026-04-01",
+"companyName": "ALGO GRANDE COPPER CORP",
+"oldSymbol": "KNDY",
+"newSymbol": "ALGR"
+},
+{
+"date": "2026-03-31",
+"companyName": "Nexera Technologies Ltd Ordinary Shares",
+"oldSymbol": "JFBR",
+"newSymbol": "NEXR"
+},
+{
+"date": "2026-03-31",
+"companyName": "Tema International Defense ETF",
+"oldSymbol": "GDFN",
+"newSymbol": "ARMY"
+},
+{
+"date": "2026-03-31",
+"companyName": "Nexera Technologies Ltd Warrant",
+"oldSymbol": "JFBRW",
+"newSymbol": "NEXRW"
+},
+{
+"date": "2026-03-30",
+"companyName": "Exelixis, Inc. Common Stock",
+"oldSymbol": "EXL1V",
+"newSymbol": "EXEL"
+},
+{
+"date": "2026-03-27",
+"companyName": "Vox Populi ETF",
+"oldSymbol": "RVRB",
+"newSymbol": "VOXP"
+},
+{
+"date": "2026-03-24",
+"companyName": "BIG BEAR GOLD CORP",
+"oldSymbol": "WKGF",
+"newSymbol": "BBGC"
+},
+{
+"date": "2026-03-23",
+"companyName": "Roundhill Top WeeklyPay ETF",
+"oldSymbol": "WPAY",
+"newSymbol": "TOPW"
+},
+{
+"date": "2026-03-23",
+"companyName": "Guardian Metal Resources PLC ADS",
+"oldSymbol": "GMTL.V",
+"newSymbol": "GMTL"
+},
+{
+"date": "2026-03-19",
+"companyName": "AMERICAN FUSION INC",
+"oldSymbol": "S468",
+"newSymbol": "AMFN"
+},
+{
+"date": "2026-03-18",
+"companyName": "PHOSPHATE HOLDINGS INC",
+"oldSymbol": "S443",
+"newSymbol": "PHPS"
+},
+{
+"date": "2026-03-17",
+"companyName": "Merlin, Inc. Common Stock",
+"oldSymbol": "BACQ",
+"newSymbol": "MRLN"
+},
+{
+"date": "2026-03-16",
+"companyName": "Frontier Nuclear and Minerals Inc. Common Shares",
+"oldSymbol": "LITM",
+"newSymbol": "FNUC"
+},
+{
+"date": "2026-03-16",
+"companyName": "VivoPower PLC Class A Ordinary Shares",
+"oldSymbol": "VVPR",
+"newSymbol": "VIVO"
+},
+{
+"date": "2026-03-12",
+"companyName": "MDA Space Ltd.",
+"oldSymbol": "MDAL",
+"newSymbol": "MDA"
+},
+{
+"date": "2026-03-12",
+"companyName": "Greenland Mines Ltd. Common Stock",
+"oldSymbol": "KLTO",
+"newSymbol": "GRML"
+},
+{
+"date": "2026-03-12",
+"companyName": "Greenland Mines Ltd Warrant",
+"oldSymbol": "KLTOW",
+"newSymbol": "GRMLW"
+},
+{
+"date": "2026-03-12",
+"companyName": "GMEX ROBOTICS CORPORATION Class A Ordinary Shares",
+"oldSymbol": "FTEL",
+"newSymbol": "GMEX"
+},
+{
+"date": "2026-03-12",
+"companyName": "Quantum Cyber N.V. Ordinary Shares",
+"oldSymbol": "MYNZ",
+"newSymbol": "QUCY"
+},
+{
+"date": "2026-03-11",
+"companyName": "Filana Therapeutics, Inc. Common Stock",
+"oldSymbol": "SAVA",
+"newSymbol": "FLNA"
+},
+{
+"date": "2026-03-11",
+"companyName": "METTITECH GROUP HLDGS",
+"oldSymbol": "S489",
+"newSymbol": "MTGH"
+},
+{
+"date": "2026-03-10",
+"companyName": "Damora Therapeutics, Inc. Ordinary Shares",
+"oldSymbol": "GLTO",
+"newSymbol": "DMRA"
+},
+{
+"date": "2026-03-10",
+"companyName": "OIO Group Warrants",
+"oldSymbol": "ESGL",
+"newSymbol": "OIOW"
+},
+{
+"date": "2026-03-10",
+"companyName": "OIO Group Ordinary Shares",
+"oldSymbol": "ESGL",
+"newSymbol": "OIO"
+},
+{
+"date": "2026-03-10",
+"companyName": "OIO Group Warrants",
+"oldSymbol": "ESGLW",
+"newSymbol": "OIOWW"
+},
+{
+"date": "2026-03-04",
+"companyName": "OPGEN INC",
+"oldSymbol": "OPGN",
+"newSymbol": "CFOR"
+},
+{
+"date": "2026-03-03",
+"companyName": "Meridian Holdings Inc. Common Stock",
+"oldSymbol": "GMGI",
+"newSymbol": "MRDN"
+},
+{
+"date": "2026-03-03",
+"companyName": "TRINSEO PLC",
+"oldSymbol": "TSE",
+"newSymbol": "TSEO"
+},
+{
+"date": "2026-03-02",
+"companyName": "Global X Rare Earth & Critical Materials ETF",
+"oldSymbol": "DMAT",
+"newSymbol": "EART"
+},
+{
+"date": "2026-03-02",
+"companyName": "YieldMax JP Option Income Strategy ETF",
+"oldSymbol": "JPMO",
+"newSymbol": "JPO"
+},
+{
+"date": "2026-03-02",
+"companyName": "AH Realty Trust, Inc. Common Stock",
+"oldSymbol": "AHH",
+"newSymbol": "AHRT"
+},
+{
+"date": "2026-03-02",
+"companyName": "Forum Markets, Incorporated Common Stock",
+"oldSymbol": "ETHZ",
+"newSymbol": "FRMM"
+},
+{
+"date": "2026-02-26",
+"companyName": "Avidity Biosciences, Inc. Common Stock",
+"oldSymbol": "RNA",
+"newSymbol": "RNAM"
+},
+{
+"date": "2026-02-26",
+"companyName": "Nexentis Technologies Inc. Common Stock",
+"oldSymbol": "NITO",
+"newSymbol": "NXTS"
+},
+{
+"date": "2026-02-25",
+"companyName": "REalloys Inc. Common Stock",
+"oldSymbol": "BLBX",
+"newSymbol": "ALOY"
+},
+{
+"date": "2026-02-24",
+"companyName": "Ryerson Holding Corporation Common Stock",
+"oldSymbol": "RYI",
+"newSymbol": "RYZ"
+},
+{
+"date": "2026-02-24",
+"companyName": "Covista Inc. Common Shares",
+"oldSymbol": "ATGE",
+"newSymbol": "CVSA"
+},
+{
+"date": "2026-02-23",
+"companyName": "Chiron Real Estate Inc. Common Stock",
+"oldSymbol": "GMRE",
+"newSymbol": "XRN"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco Bloomberg Enhanced Fallen Angels ETF",
+"oldSymbol": "PHB",
+"newSymbol": "IFLN"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco S&P 500 Concentrated QVM ETF",
+"oldSymbol": "SPVU",
+"newSymbol": "QVMT"
+},
+{
+"date": "2026-02-23",
+"companyName": "XIAO AI TECHNOLOGY LTD",
+"oldSymbol": "S408",
+"newSymbol": "XAKJ"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco High Yield Systematic Bond ETF",
+"oldSymbol": "IHYF",
+"newSymbol": "GTOQ"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco Short Duration High Yield ETF",
+"oldSymbol": "HIYS",
+"newSymbol": "GTOH"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco India ETF",
+"oldSymbol": "PIN",
+"newSymbol": "IMVP"
+},
+{
+"date": "2026-02-23",
+"companyName": "Invesco Bloomberg Financial Data Providers ETF",
+"oldSymbol": "KBWR",
+"newSymbol": "FDIQ"
+},
+{
+"date": "2026-02-23",
+"companyName": "ABPRO HOLDINGS INC",
+"oldSymbol": "ABP",
+"newSymbol": "ABPO"
+},
+{
+"date": "2026-02-19",
+"companyName": "The Glimpse Group, Inc. Common Stock",
+"oldSymbol": "VRAR",
+"newSymbol": "GGRP"
+},
+{
+"date": "2026-02-19",
+"companyName": "Aris Mining Corporation Common Shares",
+"oldSymbol": "ARMN",
+"newSymbol": "ARIS"
+},
+{
+"date": "2026-02-18",
+"companyName": "Canton Strategic Holdings, Inc. Common Stock",
+"oldSymbol": "THAR",
+"newSymbol": "CNTN"
+},
+{
+"date": "2026-02-13",
+"companyName": "VanEck Copper and Electrification Metals ETF",
+"oldSymbol": "GMET",
+"newSymbol": "EMET"
+},
+{
+"date": "2026-02-12",
+"companyName": "AIOS Tech Inc. Class A Common Shares",
+"oldSymbol": "NISN",
+"newSymbol": "AIOS"
+},
+{
+"date": "2026-02-11",
+"companyName": "Ridgepost Capital, Inc. Class A Common Stock",
+"oldSymbol": "PX",
+"newSymbol": "RPC"
+},
+{
+"date": "2026-02-09",
+"companyName": "First Citizens BancShares, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",
+"oldSymbol": "FCZB",
+"newSymbol": "FCNC"
+},
+{
+"date": "2026-02-09",
+"companyName": "T3 Defense Inc. Common Stock",
+"oldSymbol": "NUKK",
+"newSymbol": "DFNS"
+},
+{
+"date": "2026-02-09",
+"companyName": "T3 Defense Inc. Warrants",
+"oldSymbol": "NUKKW",
+"newSymbol": "DFNSW"
+},
+{
+"date": "2026-02-05",
+"companyName": "Goldman Sachs ActiveBeta World Equity ETF",
+"oldSymbol": "GLOV",
+"newSymbol": "GSWO"
+},
+{
+"date": "2026-02-05",
+"companyName": "Dauch Corporation Common Stock",
+"oldSymbol": "AXL",
+"newSymbol": "DCH"
+},
+{
+"date": "2026-02-02",
+"companyName": "Bloomia Holdings, Inc. Common Stock",
+"oldSymbol": "LDWY",
+"newSymbol": "TULP"
+},
+{
+"date": "2026-02-02",
+"companyName": "Medical Properties Trust, Inc. common stock",
+"oldSymbol": "MPW",
+"newSymbol": "MPT"
+},
+{
+"date": "2026-01-29",
+"companyName": "ZeroStack Corp. Common Stock",
+"oldSymbol": "FLGC",
+"newSymbol": "ZSTK"
+},
+{
+"date": "2026-01-28",
+"companyName": "CrossingBridge Ultra-Short Duration ETF",
+"oldSymbol": "SPC",
+"newSymbol": "CUSD"
+},
+{
+"date": "2026-01-27",
+"companyName": "Mayfair Gold Corp.",
+"oldSymbol": "MFGC",
+"newSymbol": "MINE"
+},
+{
+"date": "2026-01-26",
+"companyName": "Reliance Global Group, Inc. Common Stock",
+"oldSymbol": "RELI",
+"newSymbol": "EZRA"
+},
+{
+"date": "2026-01-26",
+"companyName": "Reliance Global Group, Inc. Series A Warrants",
+"oldSymbol": "RELIW",
+"newSymbol": "EZRAW"
+},
+{
+"date": "2026-01-26",
+"companyName": "Blue Moon Metals Inc. Common Shares",
+"oldSymbol": "BMOO",
+"newSymbol": "BMM"
+},
+{
+"date": "2026-01-23",
+"companyName": "GPGI, Inc. Class A Common Stock",
+"oldSymbol": "CMPO",
+"newSymbol": "GPGI"
+},
+{
+"date": "2026-01-22",
+"companyName": "Olenox Industries Inc. Common Stock",
+"oldSymbol": "SGBX",
+"newSymbol": "OLOX"
+},
+{
+"date": "2026-01-21",
+"companyName": "Pulsenmore Ltd. Ordinary Shares",
+"oldSymbol": "PLSS",
+"newSymbol": "PLSM"
+},
+{
+"date": "2026-01-21",
+"companyName": "INSPIRE VETEINRY PTN A",
+"oldSymbol": "IVP",
+"newSymbol": "IVPR"
+},
+{
+"date": "2026-01-20",
+"companyName": "AI ERA CORP",
+"oldSymbol": "ABQQ",
+"newSymbol": "AERA"
+},
+{
+"date": "2026-01-20",
+"companyName": "TELEFONICA SA ADR",
+"oldSymbol": "TEF",
+"newSymbol": "TELF"
+},
+{
+"date": "2026-01-20",
+"companyName": "Perpetuals.com Ltd American Depositary Shares",
+"oldSymbol": "ELWS",
+"newSymbol": "PDC"
+},
+{
+"date": "2026-01-16",
+"companyName": "J and Friends Holdings Limited American Depositary Shares",
+"oldSymbol": "PT",
+"newSymbol": "JF"
+},
+{
+"date": "2026-01-16",
+"companyName": "iTonic Holdings Ltd Class A Ordinary Shares",
+"oldSymbol": "PTHL",
+"newSymbol": "ITOC"
+},
+{
+"date": "2026-01-16",
+"companyName": "Callaway Golf Company Common Stock",
+"oldSymbol": "MODG",
+"newSymbol": "CALY"
+},
+{
+"date": "2026-01-15",
+"companyName": "Definium Therapeutics, Inc. Common Shares",
+"oldSymbol": "MNMD",
+"newSymbol": "DFTX"
+},
+{
+"date": "2026-01-14",
+"companyName": "Marsh Common Stock",
+"oldSymbol": "MMC",
+"newSymbol": "MRSH"
+},
+{
+"date": "2026-01-14",
+"companyName": "Vistance Networks, Inc. Common Stock",
+"oldSymbol": "COMM",
+"newSymbol": "VISN"
+},
+{
+"date": "2026-01-12",
+"companyName": "NORTH AMERICA LITH & GOLD",
+"oldSymbol": "S680",
+"newSymbol": "NALG"
+},
+{
+"date": "2026-01-12",
+"companyName": "LeonaBio, Inc. Common Stock",
+"oldSymbol": "ATHA",
+"newSymbol": "LONA"
+},
+{
+"date": "2026-01-09",
+"companyName": "GOLDSKY RESOURCES CORP",
+"oldSymbol": "FNMC",
+"newSymbol": "GSKR"
+},
+{
+"date": "2026-01-08",
+"companyName": "Kustom Entertainment, Inc. Common Stock",
+"oldSymbol": "DGLY",
+"newSymbol": "KUST"
+},
+{
+"date": "2026-01-08",
+"companyName": "Decoy Therapeutics Inc. Common Stock",
+"oldSymbol": "SLRX",
+"newSymbol": "DCOY"
+},
+{
+"date": "2026-01-08",
+"companyName": "Kyntra Bio, Inc. Common Stock",
+"oldSymbol": "FGEN",
+"newSymbol": "KYNB"
+},
+{
+"date": "2026-01-05",
+"companyName": "Cybin Inc. Common Stock",
+"oldSymbol": "CYBN",
+"newSymbol": "HELP"
+},
+{
+"date": "2026-01-05",
+"companyName": "Versant Media Group, Inc. Class A Common Stock ",
+"oldSymbol": "VSNTV",
+"newSymbol": "VSNT"
+},
+{
+"date": "2026-01-02",
+"companyName": "Accendra Health, Inc. Common Stock",
+"oldSymbol": "OMI",
+"newSymbol": "ACH"
+},
+{
+"date": "2026-01-02",
+"companyName": "Orion Digital Corp. Common Shares",
+"oldSymbol": "MOGO",
+"newSymbol": "ORIO"
+},
+{
+"date": "2026-01-02",
+"companyName": "F/m Opportunistic Income ETF",
+"oldSymbol": "XFIX",
+"newSymbol": "ZHOG"
+},
+{
+"date": "2025-12-30",
+"companyName": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
+"oldSymbol": "ABLLL",
+"newSymbol": "ABXL"
+},
+{
+"date": "2025-12-30",
+"companyName": "Abacus Global Management, Inc. Class A Common Stock",
+"oldSymbol": "ABL",
+"newSymbol": "ABX"
+},
+{
+"date": "2025-12-26",
+"companyName": "OPENLANE, Inc. Common Stock",
+"oldSymbol": "KAR",
+"newSymbol": "OPLN"
+},
+{
+"date": "2025-12-24",
+"companyName": "BitVentures Limited Ordinary Shares",
+"oldSymbol": "STEC",
+"newSymbol": "BVC"
+},
+{
+"date": "2025-12-22",
+"companyName": "Rayliant Wilshire NxtGen US Large Cap Equity ETF",
+"oldSymbol": "RAYD",
+"newSymbol": "RWLC"
+},
+{
+"date": "2025-12-22",
+"companyName": "High Templar Tech Limited American depositary shares, each representing one Class A ordinary share",
+"oldSymbol": "QD",
+"newSymbol": "HTT"
+},
+{
+"date": "2025-12-22",
+"companyName": "Rayliant Wilshire NxtGen Emerging Markets Equity ETF",
+"oldSymbol": "RAYE",
+"newSymbol": "RWEM"
+},
+{
+"date": "2025-12-19",
+"companyName": "RenX Enterprises Corp. Common Stock",
+"oldSymbol": "SGD",
+"newSymbol": "RENX"
+},
+{
+"date": "2025-12-19",
+"companyName": "Xtrackers S&P 100 Ex Top 20 ETF",
+"oldSymbol": "SNPV",
+"newSymbol": "XOEX"
+},
+{
+"date": "2025-12-16",
+"companyName": "Datacentrex, Inc. Common Stock",
+"oldSymbol": "TZUP",
+"newSymbol": "DTCX"
+},
+{
+"date": "2025-12-15",
+"companyName": "Gabelli Global Technology Leaders ETF",
+"oldSymbol": "GAST",
+"newSymbol": "GGTL"
+},
+{
+"date": "2025-12-12",
+"companyName": "Axe Compute Inc. Common Stock",
+"oldSymbol": "POAI",
+"newSymbol": "AGPU"
+},
+{
+"date": "2025-12-12",
+"companyName": "ENvue Medical, Inc. Common Stock",
+"oldSymbol": "NAOV",
+"newSymbol": "FEED"
+},
+{
+"date": "2025-12-10",
+"companyName": "Digital Currency X Technology Inc. Class A Ordinary Shares",
+"oldSymbol": "CJET",
+"newSymbol": "DCX"
+},
+{
+"date": "2025-12-10",
+"companyName": "TJGC Group Limited Ordinary Shares",
+"oldSymbol": "MCTR",
+"newSymbol": "TJGC"
+},
+{
+"date": "2025-12-10",
+"companyName": "AMC Robotics Corporation Common Stock",
+"oldSymbol": "ATMV",
+"newSymbol": "AMCI"
+},
+{
+"date": "2025-12-10",
+"companyName": "TaoWeave, Inc. Common Stock",
+"oldSymbol": "OBLG",
+"newSymbol": "TWAV"
+},
+{
+"date": "2025-12-08",
+"companyName": "Abundia Global Impact Group Inc. Common stock",
+"oldSymbol": "HUSA",
+"newSymbol": "AGIG"
+},
+{
+"date": "2025-12-08",
+"companyName": "BRP Inc. Common Subordinate Voting Shares",
+"oldSymbol": "DOOO",
+"newSymbol": "DOO"
+},
+{
+"date": "2025-12-04",
+"companyName": "General Enterprise Ventures, Inc.",
+"oldSymbol": "GEVI",
+"newSymbol": "CITR"
+},
+{
+"date": "2025-12-02",
+"companyName": "Gold.com, Inc. Common Stock",
+"oldSymbol": "AMRK",
+"newSymbol": "GOLD"
+},
+{
+"date": "2025-12-01",
+"companyName": "GridAI Technologies Corp. Common Stock",
+"oldSymbol": "ENTO",
+"newSymbol": "GRDX"
+},
+{
+"date": "2025-11-28",
+"companyName": "Check-Cap Ltd. Ordinary Share",
+"oldSymbol": "CHEK",
+"newSymbol": "MBAI"
+},
+{
+"date": "2025-11-25",
+"companyName": "Inflection Point Acquisition Corp. V Units",
+"oldSymbol": "MAYAU",
+"newSymbol": "IPEXU"
+},
+{
+"date": "2025-11-25",
+"companyName": "Inflection Point Acquisition Corp. V Class A Ordinary Shares",
+"oldSymbol": "MAYA",
+"newSymbol": "IPEX"
+},
+{
+"date": "2025-11-25",
+"companyName": "Inflection Point Acquisition Corp. V Rights",
+"oldSymbol": "MAYAR",
+"newSymbol": "IPEXR"
+},
+{
+"date": "2025-11-25",
+"companyName": "Republic Airways Holdings Inc. Common Stock",
+"oldSymbol": "MESA",
+"newSymbol": "RJET"
+},
+{
+"date": "2025-11-21",
+"companyName": "Titan Mining Corporation",
+"oldSymbol": "TIMC",
+"newSymbol": "TII"
+},
+{
+"date": "2025-11-20",
+"companyName": "Octave Specialty Group, Inc. Common Stock",
+"oldSymbol": "AMBC",
+"newSymbol": "OSG"
+},
+{
+"date": "2025-11-19",
+"companyName": "Optimum Communications, Inc. Class A common stock",
+"oldSymbol": "ATUS",
+"newSymbol": "OPTU"
+},
+{
+"date": "2025-11-19",
+"companyName": "AIxCrypto Holdings, Inc. Common Stock",
+"oldSymbol": "QLGN",
+"newSymbol": "AIXC"
+},
+{
+"date": "2025-11-18",
+"companyName": "USA TODAY Co., Inc. Common Stock",
+"oldSymbol": "GCI",
+"newSymbol": "TDAY"
+},
+{
+"date": "2025-11-17",
+"companyName": "OceanPal Inc. Common Stock",
+"oldSymbol": "OP",
+"newSymbol": "SVRN"
+},
+{
+"date": "2025-11-17",
+"companyName": "Forward Industries, Inc. Common Stock",
+"oldSymbol": "FORD",
+"newSymbol": "FWDI"
+},
+{
+"date": "2025-11-13",
+"companyName": "Cypherpunk Technologies Inc. Common Stock",
+"oldSymbol": "LPTX",
+"newSymbol": "CYPH"
+},
+{
+"date": "2025-11-13",
+"companyName": "Chaince Digital Holdings Inc. Ordinary Shares",
+"oldSymbol": "MFH",
+"newSymbol": "CD"
+},
+{
+"date": "2025-11-13",
+"companyName": "Avax One Technology Ltd. Common Shares",
+"oldSymbol": "AGRI",
+"newSymbol": "AVX"
+},
+{
+"date": "2025-11-12",
+"companyName": "The Southern Company 2025 Series A Corporate Units",
+"oldSymbol": "STHN",
+"newSymbol": "SOMN"
+},
+{
+"date": "2025-11-11",
+"companyName": "Fiserv, Inc. Common Stock",
+"oldSymbol": "FI",
+"newSymbol": "FISV"
+},
+{
+"date": "2025-11-11",
+"companyName": "Here Group Limited American Depositary Shares",
+"oldSymbol": "QSG",
+"newSymbol": "HERE"
+},
+{
+"date": "2025-11-10",
+"companyName": "XMAX, Inc. Common Stock",
+"oldSymbol": "NVFY",
+"newSymbol": "XWIN"
+},
+{
+"date": "2025-11-10",
+"companyName": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
+"oldSymbol": "EBR",
+"newSymbol": "AXIA"
+},
+{
+"date": "2025-11-05",
+"companyName": "Defined Duration 10 ETF",
+"oldSymbol": "DSCF",
+"newSymbol": "DDX"
+},
+{
+"date": "2025-11-04",
+"companyName": "Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028",
+"oldSymbol": "CLCI",
+"newSymbol": "CCID"
+},
+{
+"date": "2025-11-03",
+"companyName": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+"oldSymbol": "EQV.U",
+"newSymbol": "FTW.U"
+},
+{
+"date": "2025-11-03",
+"companyName": "Embraer S.A. Common Stock",
+"oldSymbol": "ERJ",
+"newSymbol": "EMBJ"
+},
+{
+"date": "2025-11-03",
+"companyName": "iShares Euro High Yield Corporate Bond USD Hedged ETF",
+"oldSymbol": "HYXU",
+"newSymbol": "EUHY"
+},
+{
+"date": "2025-11-03",
+"companyName": "Qnity Electronics, Inc. Common Stock",
+"oldSymbol": "Q.V",
+"newSymbol": "Q"
+},
+{
+"date": "2025-11-03",
+"companyName": "Presidio Production Company Class A Common Stock",
+"oldSymbol": "EQV",
+"newSymbol": "FTW"
+},
+{
+"date": "2025-10-31",
+"companyName": "NewcelX Ltd. Ordinary Shares",
+"oldSymbol": "NLSP",
+"newSymbol": "NCEL"
+},
+{
+"date": "2025-10-31",
+"companyName": "State Street SPDR Portfolio S&P 500 ETF",
+"oldSymbol": "SPLG",
+"newSymbol": "SPYM"
+},
+{
+"date": "2025-10-31",
+"companyName": "CCC Intelligent Solutions Holdings Inc. Common Stock",
+"oldSymbol": "CCCS",
+"newSymbol": "CCC"
+},
+{
+"date": "2025-10-30",
+"companyName": "Armada Acquisition Corp. II Units",
+"oldSymbol": "AACIU",
+"newSymbol": "XRPNU"
+},
+{
+"date": "2025-10-30",
+"companyName": "Armada Acquisition Corp. II Warrant",
+"oldSymbol": "AACIW",
+"newSymbol": "XRPNW"
+},
+{
+"date": "2025-10-30",
+"companyName": "Armada Acquisition Corp. II Class A Ordinary Shares",
+"oldSymbol": "AACI",
+"newSymbol": "XRPN"
+},
+{
+"date": "2025-10-30",
+"companyName": "Solstice Advanced Materials Inc. Common Stock ",
+"oldSymbol": "SOLSV",
+"newSymbol": "SOLS"
+},
+{
+"date": "2025-10-30",
+"companyName": "NovaBridge Biosciences American Depositary Shares",
+"oldSymbol": "IMAB",
+"newSymbol": "NBP"
+},
+{
+"date": "2025-10-29",
+"companyName": "Sequoia Global Value ETF",
+"oldSymbol": "CCMG",
+"newSymbol": "SFGV"
+},
+{
+"date": "2025-10-29",
+"companyName": "Terrestrial Energy Inc. Common Stock  ",
+"oldSymbol": "HOND",
+"newSymbol": "IMSR"
+},
+{
+"date": "2025-10-29",
+"companyName": "iShares U.S. Power Infrastructure ETF",
+"oldSymbol": "FILL",
+"newSymbol": "POWR"
+},
+{
+"date": "2025-10-29",
+"companyName": "Terrestrial Energy Inc. Warrant",
+"oldSymbol": "HONDW",
+"newSymbol": "IMSRW"
+},
+{
+"date": "2025-10-29",
+"companyName": "Defiance Daily Target 2x Long PM ETF",
+"oldSymbol": "ZYN",
+"newSymbol": "XPM"
+},
+{
+"date": "2025-10-28",
+"companyName": "Park Ha Biological Technology Co., Ltd. Class A Ordinary Shares",
+"oldSymbol": "PHH",
+"newSymbol": "BYAH"
+},
+{
+"date": "2025-10-20",
+"companyName": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+"oldSymbol": "BTCM",
+"newSymbol": "SLAI"
+},
+{
+"date": "2025-10-13",
+"companyName": "Aurelion Inc. Class A Ordinary Shares",
+"oldSymbol": "PWM",
+"newSymbol": "AURE"
+},
+{
+"date": "2025-10-10",
+"companyName": "Solowin Holdings Class A Ordinary Share",
+"oldSymbol": "SWIN",
+"newSymbol": "AXG"
+},
+{
+"date": "2025-10-10",
+"companyName": "Bonk, Inc. Warrant",
+"oldSymbol": "SHOTW",
+"newSymbol": "BNKKW"
+},
+{
+"date": "2025-10-10",
+"companyName": "Bonk, Inc. Common Stock",
+"oldSymbol": "SHOT",
+"newSymbol": "BNKK"
+},
+{
+"date": "2025-10-07",
+"companyName": "Core AI Holdings, Inc. Common Shares",
+"oldSymbol": "SYTA",
+"newSymbol": "CHAI"
+},
+{
+"date": "2025-10-07",
+"companyName": "BNB Plus Corp. Common Stock",
+"oldSymbol": "APDN",
+"newSymbol": "BNBX"
+},
+{
+"date": "2025-10-06",
+"companyName": "RHINO BITCOIN INC.",
+"oldSymbol": "PXPC",
+"newSymbol": "RHNO"
+},
+{
+"date": "2025-10-03",
+"companyName": "Brera Holdings PLC Class B Ordinary Shares",
+"oldSymbol": "BREA",
+"newSymbol": "SLMT"
+},
+{
+"date": "2025-10-01",
+"companyName": "CN Healthy Food Tech Group Corp. Warrant",
+"oldSymbol": "IROHW",
+"newSymbol": "UCFIW"
+},
+{
+"date": "2025-10-01",
+"companyName": "Lunai Bioworks Inc. Common Stock",
+"oldSymbol": "RENB",
+"newSymbol": "LNAI"
+},
+{
+"date": "2025-10-01",
+"companyName": "CN Healthy Food Tech Group Corp. Common Stock",
+"oldSymbol": "IROH",
+"newSymbol": "UCFI"
+},
+{
+"date": "2025-10-01",
+"companyName": "Roundhill China Magnificent Seven ETF",
+"oldSymbol": "DRAG",
+"newSymbol": "MAGC"
+},
+{
+"date": "2025-10-01",
+"companyName": "Ping An Biomedical Co., Ltd. Ordinary Shares",
+"oldSymbol": "MJID",
+"newSymbol": "PASW"
+},
+{
+"date": "2025-10-01",
+"companyName": "ALPS O'Shares International Developed Quality Dividend ETF",
+"oldSymbol": "OEUR",
+"newSymbol": "OEFA"
+},
+{
+"date": "2025-09-30",
+"companyName": "Presurance Holdings, Inc. 9.75% Senior Unsecured Notes due 2028",
+"oldSymbol": "CNFRZ",
+"newSymbol": "PRHIZ"
+},
+{
+"date": "2025-09-30",
+"companyName": "Presurance Holdings, Inc. Common Stock",
+"oldSymbol": "CNFR",
+"newSymbol": "PRHI"
+},
+{
+"date": "2025-09-29",
+"companyName": "Intelligent Alpha Atlas ETF",
+"oldSymbol": "LIVR",
+"newSymbol": "GPT"
+},
+{
+"date": "2025-09-25",
+"companyName": "Kodiak AI, Inc. Common Stock ",
+"oldSymbol": "AACT",
+"newSymbol": "KDK"
+},
+{
+"date": "2025-09-25",
+"companyName": "Kodiak AI, Inc. Warrants",
+"oldSymbol": "AACT.W",
+"newSymbol": "KDKRW"
+},
+{
+"date": "2025-09-25",
+"companyName": "Q/C Technologies, Inc. Common Stock",
+"oldSymbol": "TNFA",
+"newSymbol": "QCLS"
+},
+{
+"date": "2025-09-24",
+"companyName": "TOTAL METALS CORP",
+"oldSymbol": "BGAD",
+"newSymbol": "TTTM"
+},
+{
+"date": "2025-09-23",
+"companyName": "MARFRIG GLBL FOODS S/ADR",
+"oldSymbol": "S596",
+"newSymbol": "MBRF"
+},
+{
+"date": "2025-09-22",
+"companyName": "IP Strategy Holdings, Inc. Common Stock",
+"oldSymbol": "CASK",
+"newSymbol": "IPST"
+},
+{
+"date": "2025-09-19",
+"companyName": "Yueda Digital Holding Class A Ordinary Share",
+"oldSymbol": "ANTE",
+"newSymbol": "YDKG"
+},
+{
+"date": "2025-09-12",
+"companyName": "Streamex Corp. Common Stock",
+"oldSymbol": "BSGM",
+"newSymbol": "STEX"
+},
+{
+"date": "2025-09-12",
+"companyName": "Bio Green Med Solution, Inc. Common Stock",
+"oldSymbol": "CYCC",
+"newSymbol": "BGMS"
+},
+{
+"date": "2025-09-12",
+"companyName": "Bio Green Med Solution, Inc. 6% Convertible Preferred Stock",
+"oldSymbol": "CYCCP",
+"newSymbol": "BGMSP"
+},
+{
+"date": "2025-09-11",
+"companyName": "Lite Strategy, Inc. Common Stock",
+"oldSymbol": "MEIP",
+"newSymbol": "LITS"
+},
+{
+"date": "2025-09-11",
+"companyName": "Eightco Holdings Inc. Common Stock",
+"oldSymbol": "OCTO",
+"newSymbol": "ORBS"
+},
+{
+"date": "2025-09-08",
+"companyName": "Yorkville Acquisition Corp. Class A Ordinary Share",
+"oldSymbol": "YORK",
+"newSymbol": "MCGA"
+},
+{
+"date": "2025-09-08",
+"companyName": "Yorkville Acquisition Corp. Warrant",
+"oldSymbol": "YORKW",
+"newSymbol": "MCGAW"
+},
+{
+"date": "2025-09-08",
+"companyName": "Yorkville Acquisition Corp. Unit",
+"oldSymbol": "YORKU",
+"newSymbol": "MCGAU"
+},
+{
+"date": "2025-09-05",
+"companyName": "Star Equity Holdings, Inc. Common Stock",
+"oldSymbol": "HSON",
+"newSymbol": "STRR"
+},
+{
+"date": "2025-09-05",
+"companyName": "Star Equity Holdings, Inc. 10% Series A Cumulative Perpetual Preferred Stock",
+"oldSymbol": "HSONP",
+"newSymbol": "STRRP"
+},
+{
+"date": "2025-09-04",
+"companyName": "AlphaTON Capital Corp. Common Stock",
+"oldSymbol": "PRTG",
+"newSymbol": "ATON"
+},
+{
+"date": "2025-09-04",
+"companyName": "MindWalk Holdings Corp. Common Stock",
+"oldSymbol": "IPA",
+"newSymbol": "HYFT"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+"oldSymbol": "NYMTN",
+"newSymbol": "ADAMN"
+},
+{
+"date": "2025-09-03",
+"companyName": "Vestand Inc. Class A Common Stock",
+"oldSymbol": "YOSH",
+"newSymbol": "VSTD"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+"oldSymbol": "NYMTM",
+"newSymbol": "ADAMM"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 9.125% Senior Notes Due 2030",
+"oldSymbol": "NYMTG",
+"newSymbol": "ADAMG"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 9.125% Senior Notes Due 2029",
+"oldSymbol": "NYMTI",
+"newSymbol": "ADAMI"
+},
+{
+"date": "2025-09-03",
+"companyName": "American Bitcoin Corp. Class A Common Stock",
+"oldSymbol": "GRYP",
+"newSymbol": "ABTC"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. Common Stock",
+"oldSymbol": "NYMT",
+"newSymbol": "ADAM"
+},
+{
+"date": "2025-09-03",
+"companyName": "First Trust EIP Power Solutions ETF",
+"oldSymbol": "ECLN",
+"newSymbol": "FPWR"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+"oldSymbol": "NYMTL",
+"newSymbol": "ADAML"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 9.875% Senior Notes Due 2030",
+"oldSymbol": "NYMTH",
+"newSymbol": "ADAMH"
+},
+{
+"date": "2025-09-03",
+"companyName": "Adamas Trust, Inc. 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+"oldSymbol": "NYMTZ",
+"newSymbol": "ADAMZ"
+},
+{
+"date": "2025-09-02",
+"companyName": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF",
+"oldSymbol": "ZZZ",
+"newSymbol": "BBB"
+},
+{
+"date": "2025-09-02",
+"companyName": "Lazard International Dynamic Equity ETF",
+"oldSymbol": "IEQ",
+"newSymbol": "IDEQ"
+},
+{
+"date": "2025-09-02",
+"companyName": "Eventide US Market ETF",
+"oldSymbol": "EUSM",
+"newSymbol": "ESUM"
+},
+{
+"date": "2025-09-02",
+"companyName": "TON Strategy Company Common Stock",
+"oldSymbol": "VERB",
+"newSymbol": "TONX"
+},
+{
+"date": "2025-09-02",
+"companyName": "RYTHM, Inc. Common Stock",
+"oldSymbol": "AGFY",
+"newSymbol": "RYM"
+},
+{
+"date": "2025-09-02",
+"companyName": "iShares Systematic Bond ETF",
+"oldSymbol": "FIBR",
+"newSymbol": "SYSB"
+},
+{
+"date": "2025-09-02",
+"companyName": "Beacon Financial Corporation Common stock",
+"oldSymbol": "BHLB",
+"newSymbol": "BBT"
+},
+{
+"date": "2025-09-02",
+"companyName": "Mechanics Bancorp Class A Common Stock",
+"oldSymbol": "HMST",
+"newSymbol": "MCHB"
+},
+{
+"date": "2025-08-29",
+"companyName": "Bed Bath & Beyond, Inc. Common Stock",
+"oldSymbol": "BYON",
+"newSymbol": "BBBY"
+},
+{
+"date": "2025-08-29",
+"companyName": "Strata Critical Medical, Inc. Class A Common Stock",
+"oldSymbol": "BLDE",
+"newSymbol": "SRTA"
+},
+{
+"date": "2025-08-29",
+"companyName": "Strata Critical Medical, Inc. Warrants",
+"oldSymbol": "BLDEW",
+"newSymbol": "SRTAW"
+},
+{
+"date": "2025-08-28",
+"companyName": "VISIONARY COPPR  GOLD MIN",
+"oldSymbol": "VCGM",
+"newSymbol": "CLLX"
+},
+{
+"date": "2025-08-28",
+"companyName": "21Shares Ethereum ETF",
+"oldSymbol": "CETH",
+"newSymbol": "TETH"
+},
+{
+"date": "2025-08-27",
+"companyName": "Dynamix Corporation Warrant",
+"oldSymbol": "DYNXW",
+"newSymbol": "ETHMW"
+},
+{
+"date": "2025-08-27",
+"companyName": "Dynamix Corporation Class A Ordinary Shares",
+"oldSymbol": "DYNX",
+"newSymbol": "ETHM"
+},
+{
+"date": "2025-08-27",
+"companyName": "Dynamix Corporation Unit",
+"oldSymbol": "DYNXU",
+"newSymbol": "ETHMU"
+},
+{
+"date": "2025-08-26",
+"companyName": "Robo.ai Inc. Warrant",
+"oldSymbol": "NWTNW",
+"newSymbol": "AIIOW"
+},
+{
+"date": "2025-08-26",
+"companyName": "Sui Group Holdings Limited Common Stock",
+"oldSymbol": "MCVT",
+"newSymbol": "SUIG"
+},
+{
+"date": "2025-08-26",
+"companyName": "Robo.ai Inc. Class B Ordinary Shares",
+"oldSymbol": "NWTN",
+"newSymbol": "AIIO"
+},
+{
+"date": "2025-08-25",
+"companyName": "StableX Technologies, Inc. Common Stock",
+"oldSymbol": "AYRO",
+"newSymbol": "SBLX"
+},
+{
+"date": "2025-08-25",
+"companyName": "BCP Investment Corporation Common Stock",
+"oldSymbol": "PTMN",
+"newSymbol": "BCIC"
+},
+{
+"date": "2025-08-22",
+"companyName": "Zeta Network Group Class A Ordinary Shares",
+"oldSymbol": "ADD",
+"newSymbol": "ZNB"
+},
+{
+"date": "2025-08-22",
+"companyName": "RELATED BLOCKS INC",
+"oldSymbol": "RBLK",
+"newSymbol": "CRSM"
+},
+{
+"date": "2025-08-21",
+"companyName": "ROCKET DOCTOR AI INC",
+"oldSymbol": "AIRD",
+"newSymbol": "TREI"
+},
+{
+"date": "2025-08-18",
+"companyName": "ETHZilla Corporation Common Stock",
+"oldSymbol": "ATNF",
+"newSymbol": "ETHZ"
+},
+{
+"date": "2025-08-18",
+"companyName": "ETHZilla Corporation Warrant",
+"oldSymbol": "ATNFW",
+"newSymbol": "ETHZW"
+},
+{
+"date": "2025-08-15",
+"companyName": "Vyome Holdings, Inc. Common Stock",
+"oldSymbol": "RSLS",
+"newSymbol": "HIND"
+},
+{
+"date": "2025-08-15",
+"companyName": "USBC, Inc. Common Stock",
+"oldSymbol": "KNW",
+"newSymbol": "USBC"
+},
+{
+"date": "2025-08-13",
+"companyName": "RideNow Group, Inc. Class B Common Stock",
+"oldSymbol": "RMBL",
+"newSymbol": "RDNW"
+},
+{
+"date": "2025-08-13",
+"companyName": "New Era Energy & Digital, Inc. Common Stock",
+"oldSymbol": "NEHC",
+"newSymbol": "NUAI"
+},
+{
+"date": "2025-08-13",
+"companyName": "New Era Energy & Digital, Inc. Warrants",
+"oldSymbol": "NEHCW",
+"newSymbol": "NUAIW"
+},
+{
+"date": "2025-08-12",
+"companyName": "BridgeBio Oncology Therapeutics, Inc. Common Stock  ",
+"oldSymbol": "HLXB",
+"newSymbol": "BBOT"
+},
+{
+"date": "2025-08-12",
+"companyName": "Array Digital Infrastructure, Inc. Common Shares",
+"oldSymbol": "USM",
+"newSymbol": "AD"
+},
+{
+"date": "2025-08-11",
+"companyName": "Myseum, Inc. Common Stock",
+"oldSymbol": "DATS",
+"newSymbol": "MYSE"
+},
+{
+"date": "2025-08-11",
+"companyName": "FG Nexus Inc. Common Stock ",
+"oldSymbol": "FGF",
+"newSymbol": "FGNX"
+},
+{
+"date": "2025-08-11",
+"companyName": "FG Nexus Inc. 8.00% Cumulative Preferred Stock",
+"oldSymbol": "FGFPP",
+"newSymbol": "FGNXP"
+},
+{
+"date": "2025-08-11",
+"companyName": "Myseum, Inc. Series A Warrant",
+"oldSymbol": "DATSW",
+"newSymbol": "MYSEW"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Right",
+"oldSymbol": "SPHAR",
+"newSymbol": "PGACR"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Class A Ordinary Shares",
+"oldSymbol": "SPHA",
+"newSymbol": "PGAC"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Unit",
+"oldSymbol": "SPHAU",
+"newSymbol": "PGACU"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Unit",
+"oldSymbol": "AIFEU",
+"newSymbol": "PGACU"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Class A Ordinary Shares",
+"oldSymbol": "AIFE",
+"newSymbol": "PGAC"
+},
+{
+"date": "2025-08-08",
+"companyName": "Pantages Capital Acquisition Corporation Right",
+"oldSymbol": "AIFER",
+"newSymbol": "PGACR"
+},
+{
+"date": "2025-08-06",
+"companyName": "CEA Industries Inc. Common Stock",
+"oldSymbol": "VAPE",
+"newSymbol": "BNC"
+},
+{
+"date": "2025-08-06",
+"companyName": "CEA Industries Inc. Warrant",
+"oldSymbol": "VAPEW",
+"newSymbol": "BNCWW"
+},
+{
+"date": "2025-08-06",
+"companyName": "CEA Industries Inc. Warrant",
+"oldSymbol": "CEADW",
+"newSymbol": "BNCWW"
+},
+{
+"date": "2025-08-06",
+"companyName": "CEA Industries Inc. Common Stock",
+"oldSymbol": "CEAD",
+"newSymbol": "BNC"
+},
+{
+"date": "2025-08-01",
+"companyName": "Commerce.com, Inc. Series 1 Common Stock",
+"oldSymbol": "BIGC",
+"newSymbol": "CMRC"
+},
+{
+"date": "2025-07-31",
+"companyName": "CCC Intelligent Solutions Holdings Inc. Common Stock",
+"oldSymbol": "CCCAB",
+"newSymbol": "CCC"
+},
+{
+"date": "2025-07-31",
+"companyName": "ProCap Financial, Inc. Warrant",
+"oldSymbol": "CCCMW",
+"newSymbol": "BRRWW"
+},
+{
+"date": "2025-07-31",
+"companyName": "Empery Digital Inc. Common stock",
+"oldSymbol": "VLCN",
+"newSymbol": "EMPD"
+},
+{
+"date": "2025-07-31",
+"companyName": "ProCap Financial, Inc. Common Stock",
+"oldSymbol": "CCCM",
+"newSymbol": "BRR"
+},
+{
+"date": "2025-07-31",
+"companyName": "Columbus Circle Capital Corp I Units",
+"oldSymbol": "CCCMU",
+"newSymbol": "BRRWU"
+},
+{
+"date": "2025-07-29",
+"companyName": "The Brand House Collective, Inc. Common Stock",
+"oldSymbol": "KIRK",
+"newSymbol": "TBHC"
+},
+{
+"date": "2025-07-29",
+"companyName": "BREAKTHROUGH CHEMISTRY",
+"oldSymbol": "BKTH",
+"newSymbol": "MGON"
+},
+{
+"date": "2025-07-28",
+"companyName": "ImageneBio, Inc. Common Stock",
+"oldSymbol": "IKNA",
+"newSymbol": "IMA"
+},
+{
+"date": "2025-07-28",
+"companyName": "Bollinger Innovations Inc.",
+"oldSymbol": "MULN",
+"newSymbol": "BINI"
+},
+{
+"date": "2025-07-24",
+"companyName": "Solo Brands, Inc. Class A Common Stock",
+"oldSymbol": "DTC",
+"newSymbol": "SBDS"
+},
+{
+"date": "2025-07-21",
+"companyName": "Nextdoor Holdings, Inc. Class A Common Stock",
+"oldSymbol": "KIND",
+"newSymbol": "NXDR"
+},
+{
+"date": "2025-07-18",
+"companyName": "Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",
+"oldSymbol": "SDPM",
+"newSymbol": "SPME"
+},
+{
+"date": "2025-07-17",
+"companyName": "Tron Inc. Common Stock",
+"oldSymbol": "SRM",
+"newSymbol": "TRON"
+},
+{
+"date": "2025-07-15",
+"companyName": "GCI Liberty, Inc. Series C GCI Group Common Stock",
+"oldSymbol": "GLBKV",
+"newSymbol": "GLIBK"
+},
+{
+"date": "2025-07-15",
+"companyName": "GCI Liberty, Inc. Series A GCI Group Common Stock",
+"oldSymbol": "GLBAV",
+"newSymbol": "GLIBA"
+},
+{
+"date": "2025-07-10",
+"companyName": "FiEE, Inc Common Stock",
+"oldSymbol": "MINM",
+"newSymbol": "FIEE"
+},
+{
+"date": "2025-07-09",
+"companyName": "Oyster Enterprises II Acquisition Corp Rights",
+"oldSymbol": "OYSEW",
+"newSymbol": "OYSER"
+},
+{
+"date": "2025-07-09",
+"companyName": "INTELLISTAKE TECH CORP",
+"oldSymbol": "ISTK",
+"newSymbol": "GFCO"
+},
+{
+"date": "2025-07-08",
+"companyName": "Lottery.com, Inc. Common Stock",
+"oldSymbol": "LTRY",
+"newSymbol": "SEGG"
+},
+{
+"date": "2025-07-07",
+"companyName": "Herzfeld Credit Income Fund, Inc. Common Stock",
+"oldSymbol": "CUBA",
+"newSymbol": "HERZ"
+},
+{
+"date": "2025-07-03",
+"companyName": "Hyperion DeFi, Inc. Common Stock",
+"oldSymbol": "EYEN",
+"newSymbol": "HYPD"
+},
+{
+"date": "2025-07-02",
+"companyName": "Pelthos Therapeutics Inc. Common Stock",
+"oldSymbol": "CHRO",
+"newSymbol": "PTHS"
+},
+{
+"date": "2025-07-02",
+"companyName": "Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",
+"oldSymbol": "IGT",
+"newSymbol": "BRSL"
+},
+{
+"date": "2025-07-02",
+"companyName": "Aebi Schmidt Holding AG Common Stock ",
+"oldSymbol": "AEBIV",
+"newSymbol": "AEBI"
+},
+{
+"date": "2025-07-01",
+"companyName": "Tao Synergies Inc. Common Stock",
+"oldSymbol": "SNPX",
+"newSymbol": "TAOX"
+},
+{
+"date": "2025-07-01",
+"companyName": "WisdomTree Japan Opportunities Fund",
+"oldSymbol": "DXJS",
+"newSymbol": "OPPJ"
+},
+{
+"date": "2025-07-01",
+"companyName": "The Marzetti Company Common Stock",
+"oldSymbol": "LANC",
+"newSymbol": "MZTI"
+},
+{
+"date": "2025-06-30",
+"companyName": "DEFSEC Technologies Inc. Warrant",
+"oldSymbol": "KWESW",
+"newSymbol": "DFSCW"
+},
+{
+"date": "2025-06-30",
+"companyName": "Aebi Schmidt Holding AG Common Stock When-Issued",
+"oldSymbol": "AEBI",
+"newSymbol": "AEBIV"
+},
+{
+"date": "2025-06-30",
+"companyName": "Ralliant Corporation Common Stock",
+"oldSymbol": "RAL.V",
+"newSymbol": "RAL"
+},
+{
+"date": "2025-06-30",
+"companyName": "DEFSEC Technologies Inc. Common Stock",
+"oldSymbol": "KWE",
+"newSymbol": "DFSC"
+},
+{
+"date": "2025-06-26",
+"companyName": "Landmark Bancorp Inc. Common Stock",
+"oldSymbol": "COMBI",
+"newSymbol": "LARK"
+},
+{
+"date": "2025-06-25",
+"companyName": "HUMANOID GLOBAL HLDGS CP",
+"oldSymbol": "RBOH",
+"newSymbol": "TRMN"
+},
+{
+"date": "2025-06-24",
+"companyName": "MicroSectors FANG+ 3X Leveraged ETNs",
+"oldSymbol": "FNGB",
+"newSymbol": "FNGU"
+},
+{
+"date": "2025-06-23",
+"companyName": "Global X MSCI Colombia ETF",
+"oldSymbol": "GXG",
+"newSymbol": "COLO"
+},
+{
+"date": "2025-06-20",
+"companyName": "HYLQ STRATEGY CORP",
+"oldSymbol": "HYLQ",
+"newSymbol": "BGRD"
+},
+{
+"date": "2025-06-18",
+"companyName": "Insight Molecular Diagnostics Inc. Common Stock",
+"oldSymbol": "OCX",
+"newSymbol": "IMDX"
+},
+{
+"date": "2025-06-17",
+"companyName": "AIM ImmunoTech Inc.",
+"oldSymbol": "AIMI",
+"newSymbol": "AIM"
+},
+{
+"date": "2025-06-17",
+"companyName": "DIGITAL ASSET TECH INC",
+"oldSymbol": "DGTE",
+"newSymbol": "EATB"
+},
+{
+"date": "2025-06-16",
+"companyName": "Crescent Biopharma, Inc. Common Stock",
+"oldSymbol": "GLYC",
+"newSymbol": "CBIO"
+},
+{
+"date": "2025-06-13",
+"companyName": "CEA Industries Inc. Common Stock",
+"oldSymbol": "CEAD",
+"newSymbol": "VAPE"
+},
+{
+"date": "2025-06-13",
+"companyName": "CEA Industries Inc. Warrant",
+"oldSymbol": "CEADW",
+"newSymbol": "VAPEW"
+},
+{
+"date": "2025-06-11",
+"companyName": "RESOURCETEC CORPORATION",
+"oldSymbol": "RREE",
+"newSymbol": "BRNE"
+},
+{
+"date": "2025-06-10",
+"companyName": "Teads Holding Co. Common Stock",
+"oldSymbol": "OB",
+"newSymbol": "TEAD"
+},
+{
+"date": "2025-06-09",
+"companyName": "CSW Industrials, Inc.",
+"oldSymbol": "CSWI",
+"newSymbol": "CSW"
+},
+{
+"date": "2025-06-06",
+"companyName": "Abacus Flexible Bond Leaders ETF",
+"oldSymbol": "ABHY",
+"newSymbol": "ABXB"
+},
+{
+"date": "2025-06-06",
+"companyName": "Abacus Flexible Bond Leaders ETF",
+"oldSymbol": "DFHY",
+"newSymbol": "ABXB"
+},
+{
+"date": "2025-06-03",
+"companyName": "Himalaya Shipping Ltd. Common Shares",
+"oldSymbol": "HSHIP",
+"newSymbol": "HSHP"
+},
+{
+"date": "2025-06-02",
+"companyName": "SuperX AI Technology Limited Ordinary Shares",
+"oldSymbol": "JUNE",
+"newSymbol": "SUPX"
+},
+{
+"date": "2025-06-02",
+"companyName": "Roundhill TSLA WeeklyPay ETF",
+"oldSymbol": "TSW",
+"newSymbol": "TSLW"
+},
+{
+"date": "2025-06-02",
+"companyName": "WisdomTree European Opportunities Fund",
+"oldSymbol": "EUSC",
+"newSymbol": "OPPE"
+},
+{
+"date": "2025-06-02",
+"companyName": "Roundhill NVDA WeeklyPay ETF",
+"oldSymbol": "NVW",
+"newSymbol": "NVDW"
+},
+{
+"date": "2025-05-28",
+"companyName": "ADAPTI INC",
+"oldSymbol": "ADTI",
+"newSymbol": "BRZL"
+},
+{
+"date": "2025-05-28",
+"companyName": "Kestrel Group, Ltd.",
+"oldSymbol": "MHLD",
+"newSymbol": "KG"
+},
+{
+"date": "2025-05-27",
+"companyName": "AsiaStrategy Ordinary Shares",
+"oldSymbol": "TOPW",
+"newSymbol": "SORA"
+},
+{
+"date": "2025-05-27",
+"companyName": "Cal Redwood Acquisition Corp. Units",
+"oldSymbol": "CRACU",
+"newSymbol": "CRAQU"
+},
+{
+"date": "2025-05-27",
+"companyName": "Invesco Global Dividend Class Series PT8 DSC",
+"oldSymbol": "AROC",
+"newSymbol": "IDLDX"
+},
+{
+"date": "2025-05-27",
+"companyName": "GENESIS HOLDINGS INC",
+"oldSymbol": "GNIS",
+"newSymbol": "PDPG"
+},
+{
+"date": "2025-05-23",
+"companyName": "Cal Redwood Acquisition Corp. Class A Ordinary Shares",
+"oldSymbol": "CRAC",
+"newSymbol": "CRAQ"
+},
+{
+"date": "2025-05-23",
+"companyName": "Kindly MD Inc. Warrants",
+"oldSymbol": "KDLYW",
+"newSymbol": "NAKAW"
+},
+{
+"date": "2025-05-23",
+"companyName": "Nakamoto Inc. Common Stock",
+"oldSymbol": "KDLY",
+"newSymbol": "NAKA"
+},
+{
+"date": "2025-05-22",
+"companyName": "AQUIVA GROUP INC",
+"oldSymbol": "AQIA",
+"newSymbol": "BHPA"
+},
+{
+"date": "2025-05-16",
+"companyName": "DirectBooking Technology Co., Ltd. Ordinary Shares",
+"oldSymbol": "PGHL",
+"newSymbol": "ZDAI"
+},
+{
+"date": "2025-05-16",
+"companyName": "GOLKOR INC",
+"oldSymbol": "GKOR",
+"newSymbol": "KATX"
+},
+{
+"date": "2025-05-13",
+"companyName": "ZoomInfo Technologies Inc Common Stock",
+"oldSymbol": "ZI",
+"newSymbol": "GTM"
+},
+{
+"date": "2025-05-09",
+"companyName": "Barrick Mining Corporation Common Shares",
+"oldSymbol": "GOLD",
+"newSymbol": "B"
+},
+{
+"date": "2025-05-07",
+"companyName": "GROOVY COMPANY INC",
+"oldSymbol": "GROO",
+"newSymbol": "SANP"
+},
+{
+"date": "2025-05-07",
+"companyName": "Costamare Bulkers Holdings Limited Common Stock",
+"oldSymbol": "CMDB.V",
+"newSymbol": "CMDB"
+},
+{
+"date": "2025-05-06",
+"companyName": "CYCCLONE INC",
+"oldSymbol": "CYCL",
+"newSymbol": "CDBT"
+},
+{
+"date": "2025-05-06",
+"companyName": "H2O America Common Stock",
+"oldSymbol": "SJW",
+"newSymbol": "HTO"
+},
+{
+"date": "2025-05-05",
+"companyName": "DeFi Development Corp. Common Stock",
+"oldSymbol": "JNVR",
+"newSymbol": "DFDV"
+},
+{
+"date": "2025-05-05",
+"companyName": "Maase Inc. Class A Ordinary Shares",
+"oldSymbol": "HPH",
+"newSymbol": "MAAS"
+},
+{
+"date": "2025-05-01",
+"companyName": "LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",
+"oldSymbol": "MYTE",
+"newSymbol": "LUXE"
+},
+{
+"date": "2025-04-30",
+"companyName": "SRX Health Solutions, Inc. Common Stock",
+"oldSymbol": "BTTR",
+"newSymbol": "SRXH"
+},
+{
+"date": "2025-04-29",
+"companyName": "Western Asset Intermediate Muni Fund Inc Common Stock",
+"oldSymbol": "RUSH",
+"newSymbol": "SBI"
+},
+{
+"date": "2025-04-29",
+"companyName": "Jade Biosciences, Inc. Common Stock",
+"oldSymbol": "AVTE",
+"newSymbol": "JBIO"
+},
+{
+"date": "2025-04-28",
+"companyName": "Vyre Network",
+"oldSymbol": "CAPV",
+"newSymbol": "VYRE"
+},
+{
+"date": "2025-04-28",
+"companyName": "SURFACE METALS INC",
+"oldSymbol": "SURM",
+"newSymbol": "ACLH"
+},
+{
+"date": "2025-04-28",
+"companyName": "INVO Fertility, Inc. Common Stock",
+"oldSymbol": "NAYA",
+"newSymbol": "IVF"
+},
+{
+"date": "2025-04-28",
+"companyName": "INNEOVA Holdings Limited Ordinary Shares",
+"oldSymbol": "SAG",
+"newSymbol": "INEO"
+},
+{
+"date": "2025-04-24",
+"companyName": "VivoSim Labs, Inc. Common Stock",
+"oldSymbol": "ONVO",
+"newSymbol": "VIVS"
+},
+{
+"date": "2025-04-22",
+"companyName": "SunPower Inc. Common Stock",
+"oldSymbol": "CSLR",
+"newSymbol": "SPWR"
+},
+{
+"date": "2025-04-22",
+"companyName": "TRIDENT RESOURCES CORP",
+"oldSymbol": "TRDT",
+"newSymbol": "EROS"
+},
+{
+"date": "2025-04-22",
+"companyName": "SunPower Inc. Warrants",
+"oldSymbol": "CSLRW",
+"newSymbol": "SPWRW"
+},
+{
+"date": "2025-04-21",
+"companyName": "GOLD FINDER RES LTD",
+"oldSymbol": "GLDF",
+"newSymbol": "NCMB"
+},
+{
+"date": "2025-04-17",
+"companyName": "MAGMA SILVER CORP",
+"oldSymbol": "MAGM",
+"newSymbol": "NDEN"
+},
+{
+"date": "2025-04-16",
+"companyName": "Tvardi Therapeutics, Inc. Common Stock",
+"oldSymbol": "CARA",
+"newSymbol": "TVRD"
+},
+{
+"date": "2025-04-15",
+"companyName": "Hartford AAA CLO ETF",
+"oldSymbol": "HSRT",
+"newSymbol": "TRPA"
+},
+{
+"date": "2025-04-15",
+"companyName": "Robin Energy Ltd. Common Stock",
+"oldSymbol": "RBNEV",
+"newSymbol": "RBNE"
+},
+{
+"date": "2025-04-15",
+"companyName": "Hartford Strategic Income ETF",
+"oldSymbol": "HSUN",
+"newSymbol": "HFSI"
+},
+{
+"date": "2025-04-07",
+"companyName": "Stance Sustainable Beta ETF",
+"oldSymbol": "STSB",
+"newSymbol": "CHGX"
+},
+{
+"date": "2025-04-07",
+"companyName": "VisionSys AI Inc American Depositary Shares",
+"oldSymbol": "TCTM",
+"newSymbol": "VSA"
+},
+{
+"date": "2025-04-04",
+"companyName": "WisdomTree Equity Premium Income Fund",
+"oldSymbol": "PUTW",
+"newSymbol": "WTPI"
+},
+{
+"date": "2025-04-02",
+"companyName": "DOMESTIC METALS CORP",
+"oldSymbol": "DMCU",
+"newSymbol": "NOCR"
+},
+{
+"date": "2025-04-01",
+"companyName": "YieldMax XYZ Option Income Strategy ETF",
+"oldSymbol": "SQY",
+"newSymbol": "XYZY"
+},
+{
+"date": "2025-04-01",
+"companyName": "Global X Dorsey Wright Thematic ETF",
+"oldSymbol": "GXTG",
+"newSymbol": "GXDW"
+},
+{
+"date": "2025-04-01",
+"companyName": "Global X HealthTech ETF",
+"oldSymbol": "EDOC",
+"newSymbol": "HEAL"
+},
+{
+"date": "2025-03-31",
+"companyName": "JOYY Inc. American Depositary Shares",
+"oldSymbol": "YY",
+"newSymbol": "JOYY"
+},
+{
+"date": "2025-03-24",
+"companyName": "Amaze Holdings, Inc. Common Stock",
+"oldSymbol": "VINE",
+"newSymbol": "AMZE"
+},
+{
+"date": "2025-03-24",
+"companyName": "DIGITAL COMMODITIES CAP",
+"oldSymbol": "DGCM",
+"newSymbol": "BCBC"
+},
+{
+"date": "2025-03-21",
+"companyName": "Unusual Whales Subversive Republican Trading ETF",
+"oldSymbol": "KRUZ",
+"newSymbol": "GOP"
+},
+{
+"date": "2025-03-19",
+"companyName": "Whitehawk Therapeutics, Inc. Common Stock",
+"oldSymbol": "AADI",
+"newSymbol": "WHWK"
+},
+{
+"date": "2025-03-19",
+"companyName": "Kalaris Therapeutics, Inc. Common Stock",
+"oldSymbol": "ALVR",
+"newSymbol": "KLRS"
+},
+{
+"date": "2025-03-19",
+"companyName": "Niagen Bioscience, Inc. Common Stock",
+"oldSymbol": "CDXC",
+"newSymbol": "NAGE"
+},
+{
+"date": "2025-03-18",
+"companyName": "Euroholdings Ltd. Common Stock ",
+"oldSymbol": "EHLDV",
+"newSymbol": "EHLD"
+},
+{
+"date": "2025-03-18",
+"companyName": "Digi Power X Inc. Subordinate Voting Shares",
+"oldSymbol": "DGHI",
+"newSymbol": "DGXX"
+},
+{
+"date": "2025-03-17",
+"companyName": "Newton Golf Company, Inc. Common Stock",
+"oldSymbol": "SPGC",
+"newSymbol": "NWTG"
+},
+{
+"date": "2025-03-14",
+"companyName": "USA Rare Earth, Inc. Warrant",
+"oldSymbol": "IPXXW",
+"newSymbol": "USARW"
+},
+{
+"date": "2025-03-14",
+"companyName": "USA Rare Earth, Inc. Class A Common Stock",
+"oldSymbol": "IPXX",
+"newSymbol": "USAR"
+},
+{
+"date": "2025-03-13",
+"companyName": "Amber International Holding Limited American Depositary Shares",
+"oldSymbol": "ICLK",
+"newSymbol": "AMBR"
+},
+{
+"date": "2025-03-12",
+"companyName": "Aifeex Nexus Acquisition Corporation Right",
+"oldSymbol": "SPHAR",
+"newSymbol": "AIFER"
+},
+{
+"date": "2025-03-12",
+"companyName": "Aifeex Nexus Acquisition Corporation Class A Ordinary Shares",
+"oldSymbol": "SPHA",
+"newSymbol": "AIFE"
+},
+{
+"date": "2025-03-12",
+"companyName": "Aifeex Nexus Acquisition Corporation Unit",
+"oldSymbol": "SPHAU",
+"newSymbol": "AIFEU"
+},
+{
+"date": "2025-03-10",
+"companyName": "Faraday Future Intelligent Electric Inc. Class A Common Stock",
+"oldSymbol": "FFIE",
+"newSymbol": "FFAI"
+},
+{
+"date": "2025-03-10",
+"companyName": "Faraday Future Intelligent Electric Inc. Warrant",
+"oldSymbol": "FFIEW",
+"newSymbol": "FFAIW"
+},
+{
+"date": "2025-03-10",
+"companyName": "Longevity Health Holdings, Inc. Warrant",
+"oldSymbol": "CTCXW",
+"newSymbol": "XAGEW"
+},
+{
+"date": "2025-03-10",
+"companyName": "Longevity Health Holdings, Inc. Common Stock",
+"oldSymbol": "CTCX",
+"newSymbol": "XAGE"
+},
+{
+"date": "2025-03-10",
+"companyName": "BLUSKY AI INC.",
+"oldSymbol": "BSAI",
+"newSymbol": "IMII"
+},
+{
+"date": "2025-03-04",
+"companyName": "Ridgetech, Inc. Ordinary Shares",
+"oldSymbol": "CJJD",
+"newSymbol": "RDGT"
+},
+{
+"date": "2025-03-03",
+"companyName": "T1 Energy Inc. Common Stock",
+"oldSymbol": "FREY",
+"newSymbol": "TE"
+},
+{
+"date": "2025-03-03",
+"companyName": "Bank Of Montreal",
+"oldSymbol": "FNGU",
+"newSymbol": "FNGA"
+},
+{
+"date": "2025-02-28",
+"companyName": "Claritev Corporation Class A Common Stock",
+"oldSymbol": "MPLN",
+"newSymbol": "CTEV"
+},
+{
+"date": "2025-02-28",
+"companyName": "Resolute Holdings Management Common Stock ",
+"oldSymbol": "RHLDV",
+"newSymbol": "RHLD"
+},
+{
+"date": "2025-02-24",
+"companyName": "Sandisk Corporation Common Stock",
+"oldSymbol": "SNDKV",
+"newSymbol": "SNDK"
+},
+{
+"date": "2025-02-24",
+"companyName": "QVC Group, Inc. Series A Common Stock",
+"oldSymbol": "QRTEA",
+"newSymbol": "QVCGA"
+},
+{
+"date": "2025-02-24",
+"companyName": "QVC Group, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+"oldSymbol": "QRTEP",
+"newSymbol": "QVCGP"
+},
+{
+"date": "2025-02-24",
+"companyName": "QVC Group Inc. Series B Common Stock",
+"oldSymbol": "QRTEB",
+"newSymbol": "QVCGB"
+},
+{
+"date": "2025-02-24",
+"companyName": "HomeTrust Bancshares, Inc. Common Stock",
+"oldSymbol": "HTBI",
+"newSymbol": "HTB"
+},
+{
+"date": "2025-02-24",
+"companyName": "Invesco Rochester High Yield Municipal ETF",
+"oldSymbol": "IMSI",
+"newSymbol": "IROC"
+},
+{
+"date": "2025-02-24",
+"companyName": "Invesco Short Duration Total Return Bond ETF",
+"oldSymbol": "ISDB",
+"newSymbol": "GTOS"
+},
+{
+"date": "2025-02-21",
+"companyName": "NEOS Nasdaq-100 Hedged Equity Income ETF",
+"oldSymbol": "NUSI",
+"newSymbol": "QQQH"
+},
+{
+"date": "2025-02-20",
+"companyName": "Aspire Biopharma Holdings, Inc. Warrant",
+"oldSymbol": "PWUPW",
+"newSymbol": "ASBPW"
+},
+{
+"date": "2025-02-20",
+"companyName": "Aspire Biopharma Holdings, Inc. Common Stock",
+"oldSymbol": "PWUP",
+"newSymbol": "ASBP"
+},
+{
+"date": "2025-02-20",
+"companyName": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
+"oldSymbol": "BIGZ",
+"newSymbol": "BTX"
+},
+{
+"date": "2025-02-19",
+"companyName": "Fold Holdings, Inc. Class A Common Stock",
+"oldSymbol": "FLDD",
+"newSymbol": "FLD"
+},
+{
+"date": "2025-02-18",
+"companyName": "OSR Holdings, Inc. Common Stock",
+"oldSymbol": "BLAC",
+"newSymbol": "OSRH"
+},
+{
+"date": "2025-02-18",
+"companyName": "Somnigroup International Inc. Common Stock",
+"oldSymbol": "TPX",
+"newSymbol": "SGI"
+},
+{
+"date": "2025-02-18",
+"companyName": "OSR Holdings, Inc. Warrant",
+"oldSymbol": "BLACW",
+"newSymbol": "OSRHW"
+},
+{
+"date": "2025-02-18",
+"companyName": "Cycurion, Inc. Common Stock",
+"oldSymbol": "WAVS",
+"newSymbol": "CYCU"
+},
+{
+"date": "2025-02-18",
+"companyName": "Cycurion, Inc. Warrant",
+"oldSymbol": "WAVSW",
+"newSymbol": "CYCUW"
+},
+{
+"date": "2025-02-14",
+"companyName": "Themes US Cash Flow Champions ETF",
+"oldSymbol": "USCF",
+"newSymbol": "LGCF"
+},
+{
+"date": "2025-02-14",
+"companyName": "Datavault AI Inc. Common Stock",
+"oldSymbol": "WISA",
+"newSymbol": "DVLT"
+},
+{
+"date": "2025-02-14",
+"companyName": "NextNRG, Inc. Common Stock",
+"oldSymbol": "EZFL",
+"newSymbol": "NXXT"
+},
+{
+"date": "2025-02-12",
+"companyName": "eXoZymes Inc. Common Stock",
+"oldSymbol": "IZTC",
+"newSymbol": "EXOZ"
+},
+{
+"date": "2025-02-10",
+"companyName": "iShares Short Duration High Yield Muni Active ETF",
+"oldSymbol": "HYMU",
+"newSymbol": "SHYM"
+},
+{
+"date": "2025-02-10",
+"companyName": "Bally's Corporation Common Stock",
+"oldSymbol": "BALY.T",
+"newSymbol": "BALY"
+},
+{
+"date": "2025-02-07",
+"companyName": "Millrose Properties, Inc. Class A Common Stock",
+"oldSymbol": "MRP.V",
+"newSymbol": "MRP"
+},
+{
+"date": "2025-02-03",
+"companyName": "XPLR Infrastructure, LP Common Units representing limited partner interests",
+"oldSymbol": "NEP",
+"newSymbol": "XIFR"
+},
+{
+"date": "2025-02-03",
+"companyName": "TCW Transform Systems ETF",
+"oldSymbol": "NETZ",
+"newSymbol": "PWRD"
+},
+{
+"date": "2025-01-31",
+"companyName": "Alpha Architect Global Factor Equity ETF",
+"oldSymbol": "VMOT",
+"newSymbol": "AAVM"
+},
+{
+"date": "2025-01-31",
+"companyName": "REV EXPL CORP",
+"oldSymbol": "REVF",
+"newSymbol": "GILX"
+},
+{
+"date": "2025-01-30",
+"companyName": "Twin Hospitality Group Inc. Class A Common Stock",
+"oldSymbol": "TWNPV",
+"newSymbol": "TWNP"
+},
+{
+"date": "2025-01-28",
+"companyName": "Aeva Technologies, Inc. Warrants",
+"oldSymbol": "AEVA.W",
+"newSymbol": "AEVAW"
+},
+{
+"date": "2025-01-28",
+"companyName": "Femto Technologies Inc.",
+"oldSymbol": "BCAN",
+"newSymbol": "FMTO"
+},
+{
+"date": "2025-01-27",
+"companyName": "ACCESS Newswire Inc. Common Stock",
+"oldSymbol": "ISDR",
+"newSymbol": "ACCS"
+},
+{
+"date": "2025-01-27",
+"companyName": "Ascentage Pharma Group International American Depository Shares",
+"oldSymbol": "AAPGV",
+"newSymbol": "AAPG"
+},
+{
+"date": "2025-01-27",
+"companyName": "Lithium Argentina AG Common Shares",
+"oldSymbol": "LAAC",
+"newSymbol": "LAR"
+},
+{
+"date": "2025-01-27",
+"companyName": "Beeline Holdings, Inc. Common Stock",
+"oldSymbol": "EAST",
+"newSymbol": "BLNE"
+},
+{
+"date": "2025-01-24",
+"companyName": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",
+"oldSymbol": "DXFF",
+"newSymbol": "DXF"
+},
+{
+"date": "2025-01-21",
+"companyName": "Block, Inc. Class A Common Stock,",
+"oldSymbol": "SQ",
+"newSymbol": "XYZ"
+},
+{
+"date": "2025-01-15",
+"companyName": "Core Natural Resources, Inc. Common Stock",
+"oldSymbol": "CEIX",
+"newSymbol": "CNR"
+},
+{
+"date": "2025-01-14",
+"companyName": "Blaize Holdings, Inc. Common Stock",
+"oldSymbol": "BRKH",
+"newSymbol": "BZAI"
+},
+{
+"date": "2025-01-14",
+"companyName": "Blaize Holdings, Inc. Warrants",
+"oldSymbol": "BRKHW",
+"newSymbol": "BZAIW"
+},
+{
+"date": "2025-01-13",
+"companyName": "Rein Therapeutics, Inc. Common Stock",
+"oldSymbol": "ALRN",
+"newSymbol": "RNTX"
+},
+{
+"date": "2025-01-07",
+"companyName": "Turtle Beach Corporation Common Stock",
+"oldSymbol": "HEAR",
+"newSymbol": "TBCH"
+},
+{
+"date": "2025-01-06",
+"companyName": "CARLTON PRECIOUS INC",
+"oldSymbol": "CPIF",
+"newSymbol": "NBRF"
+},
+{
+"date": "2025-01-06",
+"companyName": "THE REAL GOOD FOOD A NEW",
+"oldSymbol": "RGFC",
+"newSymbol": "RGF"
+},
+{
+"date": "2025-01-06",
+"companyName": "Intelligent Protection Management Corp. Common Stock ",
+"oldSymbol": "PALT",
+"newSymbol": "IPM"
+},
+{
+"date": "2025-01-03",
+"companyName": "JBT Marel Corporation Common Stock",
+"oldSymbol": "JBT",
+"newSymbol": "JBTM"
+},
+{
+"date": "2025-01-02",
+"companyName": "BeOne Medicines Ltd. American Depositary Shares",
+"oldSymbol": "BGNE",
+"newSymbol": "ONC"
+},
+{
+"date": "2025-01-02",
+"companyName": "Simplify Volt TSLA Revolution ETF",
+"oldSymbol": "VCAR",
+"newSymbol": "TESL"
+},
+{
+"date": "2025-01-02",
+"companyName": "National Healthcare Properties, Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+"oldSymbol": "HTIBP",
+"newSymbol": "NHPBP"
+},
+{
+"date": "2025-01-02",
+"companyName": "National Healthcare Properties, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+"oldSymbol": "HTIA",
+"newSymbol": "NHPAP"
+},
+{
+"date": "2025-01-02",
+"companyName": "Acadian Asset Management Inc. Common Stock",
+"oldSymbol": "BSIG",
+"newSymbol": "AAMI"
+},
+{
+"date": "2025-01-02",
+"companyName": "Pursuit Attractions and Hospitality, Inc. Common Stock",
+"oldSymbol": "VVI",
+"newSymbol": "PRSU"
+},
+{
+"date": "2025-01-01",
+"companyName": "LINEAR MINERALS CORP",
+"oldSymbol": "LINM",
+"newSymbol": "FEMF"
+},
+{
+"date": "2024-12-26",
+"companyName": "WEST PT GOLD CORP",
+"oldSymbol": "WPGC",
+"newSymbol": "AUSV"
+},
+{
+"date": "2024-12-26",
+"companyName": "VERI MEDTECH HOLDINGS INC",
+"oldSymbol": "VRHI",
+"newSymbol": "LGMH"
+},
+{
+"date": "2024-12-26",
+"companyName": "NEW GREEN HEMP INC.",
+"oldSymbol": "NGHI",
+"newSymbol": "GLFH"
+},
+{
+"date": "2024-12-24",
+"companyName": "Neuphoria Therapeutics Inc. Common Stock",
+"oldSymbol": "BNOX",
+"newSymbol": "NEUP"
+},
+{
+"date": "2024-12-23",
+"companyName": "Ouster, Inc. Warrants",
+"oldSymbol": "OUST.A",
+"newSymbol": "OUSTW"
+},
+{
+"date": "2024-12-23",
+"companyName": "Ouster, Inc. Warrants",
+"oldSymbol": "OUST.W",
+"newSymbol": "OUSTZ"
+},
+{
+"date": "2024-12-20",
+"companyName": "JX Luxventure Group Inc. Common Stock",
+"oldSymbol": "JXJT",
+"newSymbol": "JXG"
+},
+{
+"date": "2024-12-19",
+"companyName": "NPK International Inc. Common Stock",
+"oldSymbol": "NR",
+"newSymbol": "NPKI"
+},
+{
+"date": "2024-12-18",
+"companyName": "Global Interactive Technologies, Inc. Common Stock",
+"oldSymbol": "HRYU",
+"newSymbol": "GITS"
+},
+{
+"date": "2024-12-18",
+"companyName": "Performant Healthcare, Inc. Common Stock",
+"oldSymbol": "PFMT",
+"newSymbol": "PHLT"
+},
+{
+"date": "2024-12-18",
+"companyName": "FTAC Emerald Acquisition Corp.",
+"oldSymbol": "EMLD",
+"newSymbol": "FLDD"
+},
+{
+"date": "2024-12-18",
+"companyName": "ATIF Holdings Limited Ordinary Shares",
+"oldSymbol": "ATIF",
+"newSymbol": "ZBAI"
+},
+{
+"date": "2024-12-18",
+"companyName": "FTAC Emerald Acquisition Corp.",
+"oldSymbol": "FLD",
+"newSymbol": "FLDD"
+},
+{
+"date": "2024-12-17",
+"companyName": "Pacer Solactive Whitney Future of Warfare ETF",
+"oldSymbol": "FOFW",
+"newSymbol": "FOWF"
+},
+{
+"date": "2024-12-17",
+"companyName": "Neuralbase AI Ltd.",
+"oldSymbol": "VIRA",
+"newSymbol": "NBBI"
+},
+{
+"date": "2024-12-16",
+"companyName": "Palvella Therapeutics, Inc. Common Stock",
+"oldSymbol": "PIRS",
+"newSymbol": "PVLA"
+},
+{
+"date": "2024-12-16",
+"companyName": "LQR House Inc. Common Stock",
+"oldSymbol": "LQR",
+"newSymbol": "YHC"
+},
+{
+"date": "2024-12-16",
+"companyName": "Alpha Modus Holdings, Inc. Class A Common Stock",
+"oldSymbol": "INAQ",
+"newSymbol": "AMOD"
+},
+{
+"date": "2024-12-16",
+"companyName": "NATAMA INVESTMENT GROUP",
+"oldSymbol": "GPGC",
+"newSymbol": "AURM"
+},
+{
+"date": "2024-12-16",
+"companyName": "Alpha Modus Holdings, Inc. Warrant",
+"oldSymbol": "INAQW",
+"newSymbol": "AMODW"
+},
+{
+"date": "2024-12-13",
+"companyName": "Abacus FCF Leaders ETF",
+"oldSymbol": "TTAC",
+"newSymbol": "ABFL"
+},
+{
+"date": "2024-12-13",
+"companyName": "Abacus FCF Innovation Leaders ETF",
+"oldSymbol": "DFNV",
+"newSymbol": "ABOT"
+},
+{
+"date": "2024-12-13",
+"companyName": "Abacus FCF Real Assets Leaders ETF",
+"oldSymbol": "DFRA",
+"newSymbol": "ABLD"
+},
+{
+"date": "2024-12-13",
+"companyName": "Abacus FCF International Leaders ETF",
+"oldSymbol": "TTAI",
+"newSymbol": "ABLG"
+},
+{
+"date": "2024-12-13",
+"companyName": "Abacus Tactical High Yield ETF",
+"oldSymbol": "DFHY",
+"newSymbol": "ABHY"
+},
+{
+"date": "2024-12-12",
+"companyName": "Lucky Strike Entertainment Corporation Class A Common Stock",
+"oldSymbol": "BOWL",
+"newSymbol": "LUCK"
+},
+{
+"date": "2024-12-10",
+"companyName": "American Century Large Cap Equity ETF",
+"oldSymbol": "ESGA",
+"newSymbol": "ACLC"
+},
+{
+"date": "2024-12-10",
+"companyName": "American Century Large Cap Growth ETF",
+"oldSymbol": "ESGY",
+"newSymbol": "ACGR"
+},
+{
+"date": "2024-12-09",
+"companyName": "MSP Recovery, Inc. Warrant",
+"oldSymbol": "LIFWZ",
+"newSymbol": "MSPRZ"
+},
+{
+"date": "2024-12-09",
+"companyName": "MSP Recovery, Inc. Warrant",
+"oldSymbol": "LIFWW",
+"newSymbol": "MSPRW"
+},
+{
+"date": "2024-12-09",
+"companyName": "MSP Recovery, Inc. Class A Common Stock",
+"oldSymbol": "LIFW",
+"newSymbol": "MSPR"
+},
+{
+"date": "2024-12-04",
+"companyName": "First Trust SMID Growth Strength ETF",
+"oldSymbol": "RNSC",
+"newSymbol": "FSGS"
+},
+{
+"date": "2024-12-04",
+"companyName": "NYLI MacKay ESG Core Plus Bond ETF",
+"oldSymbol": "ESGB",
+"newSymbol": "CPLB"
+},
+{
+"date": "2024-12-03",
+"companyName": "Rithm Property Trust Inc. Common stock",
+"oldSymbol": "AJX",
+"newSymbol": "RPT"
+},
+{
+"date": "2024-12-03",
+"companyName": "MDJM LTD Ordinary Share",
+"oldSymbol": "MDJH",
+"newSymbol": "UOKA"
+},
+{
+"date": "2024-11-29",
+"companyName": "MetaVia Inc. Common Stock",
+"oldSymbol": "NRBO",
+"newSymbol": "MTVA"
+},
+{
+"date": "2024-11-26",
+"companyName": "Enlightify Inc. Common Stock",
+"oldSymbol": "CGA",
+"newSymbol": "ENFY"
+},
+{
+"date": "2024-11-25",
+"companyName": "Merchants Bancorp Depositary Shares, Each Representing a 1/40thInterest in a Share of 7.25% Fixed Rate Series E Non-CumulativePerpetual Preferred Stock, without par value",
+"oldSymbol": "MBIE",
+"newSymbol": "MBIN"
+},
+{
+"date": "2024-11-22",
+"companyName": "Volatility Premium Plus ETF",
+"oldSymbol": "ZIVB",
+"newSymbol": "ZVOL"
+},
+{
+"date": "2024-11-19",
+"companyName": "SUNation Energy, Inc. Common Stock",
+"oldSymbol": "PEGY",
+"newSymbol": "SUNE"
+},
+{
+"date": "2024-11-14",
+"companyName": "GUNNISON COPPER CORP",
+"oldSymbol": "GCUM",
+"newSymbol": "EXMG"
+},
+{
+"date": "2024-11-13",
+"companyName": "Sunrise Communications AG American Depositary Shares representing Class A shares",
+"oldSymbol": "SNREV",
+"newSymbol": "SNRE"
+},
+{
+"date": "2024-11-13",
+"companyName": "Abpro Holdings, Inc Common Stock",
+"oldSymbol": "ACAB",
+"newSymbol": "ABP"
+},
+{
+"date": "2024-11-13",
+"companyName": "Abpro Holdings, Inc. Warrant",
+"oldSymbol": "ACABW",
+"newSymbol": "ABPWW"
+},
+{
+"date": "2024-11-12",
+"companyName": "PAMT CORP Common Stock",
+"oldSymbol": "PTSI",
+"newSymbol": "PAMT"
+},
+{
+"date": "2024-11-07",
+"companyName": "DevvStream Corp. Common Stock",
+"oldSymbol": "FIAC",
+"newSymbol": "DEVS"
+},
+{
+"date": "2024-11-06",
+"companyName": "HAYASA METALS INC",
+"oldSymbol": "HAYA",
+"newSymbol": "FRER"
+},
+{
+"date": "2024-11-05",
+"companyName": "Xtrackers MSCI Emerging Markets Climate Selection ETF",
+"oldSymbol": "EMSG",
+"newSymbol": "EMCS"
+},
+{
+"date": "2024-11-05",
+"companyName": "Magnera Corporation Common Stock",
+"oldSymbol": "GLT",
+"newSymbol": "MAGN"
+},
+{
+"date": "2024-11-05",
+"companyName": "STIMCELL ENERGETICS INC",
+"oldSymbol": "STME",
+"newSymbol": "CMXC"
+},
+{
+"date": "2024-11-04",
+"companyName": "CLEANTECH VANADIUM MNG CP",
+"oldSymbol": "CTVF",
+"newSymbol": "FLYN"
+},
+{
+"date": "2024-11-01",
+"companyName": "POLOMAR HEALTH SVCS INC",
+"oldSymbol": "PMHS",
+"newSymbol": "TRFE"
+},
+{
+"date": "2024-11-01",
+"companyName": "Everus Construction Group, Inc. Common Stock",
+"oldSymbol": "ECG.V",
+"newSymbol": "ECG"
+},
+{
+"date": "2024-11-01",
+"companyName": "Neuberger Berman Energy Transition & Infrastructure ETF",
+"oldSymbol": "NBCT",
+"newSymbol": "NBET"
+},
+{
+"date": "2024-10-31",
+"companyName": "CIMG Inc. Common Stock",
+"oldSymbol": "NUZE",
+"newSymbol": "IMG"
+},
+{
+"date": "2024-10-30",
+"companyName": "UNIVERSAL NEW ENGY HLDGS",
+"oldSymbol": "UNEH",
+"newSymbol": "FBSE"
+},
+{
+"date": "2024-10-29",
+"companyName": "LODE GOLD RESOURCES INC",
+"oldSymbol": "LODF",
+"newSymbol": "SBMI"
+},
+{
+"date": "2024-10-28",
+"companyName": "Flagstar Financial, Inc. Common Stock",
+"oldSymbol": "NYCB",
+"newSymbol": "FLG"
+},
+{
+"date": "2024-10-28",
+"companyName": "Grace Therapeutics, Inc. Common Stock",
+"oldSymbol": "ACST",
+"newSymbol": "GRCE"
+},
+{
+"date": "2024-10-24",
+"companyName": "Opus Genetics, Inc. Common Stock",
+"oldSymbol": "OCUP",
+"newSymbol": "IRD"
+},
+{
+"date": "2024-10-23",
+"companyName": "AIFU Inc. American Depositary Shares",
+"oldSymbol": "FANH",
+"newSymbol": "AIFU"
+},
+{
+"date": "2024-10-23",
+"companyName": "AMERITRUST FNCL TECHS INC",
+"oldSymbol": "AMTF",
+"newSymbol": "PWWB"
+},
+{
+"date": "2024-10-22",
+"companyName": "NAYA Biosciences, Inc. Common Stock",
+"oldSymbol": "INVO",
+"newSymbol": "NAYA"
+},
+{
+"date": "2024-10-21",
+"companyName": "Amplify Bloomberg AI Value Chain ETF",
+"oldSymbol": "IVES",
+"newSymbol": "AIVC"
+},
+{
+"date": "2024-10-21",
+"companyName": "Top KingWin Ltd Class A Ordinary Shares",
+"oldSymbol": "TCJH",
+"newSymbol": "WAI"
+},
+{
+"date": "2024-10-18",
+"companyName": "TuHURA Biosciences, Inc. Common Stock",
+"oldSymbol": "KTRA",
+"newSymbol": "HURA"
+},
+{
+"date": "2024-10-18",
+"companyName": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029",
+"oldSymbol": "EGLP",
+"newSymbol": "EIIA"
+},
+{
+"date": "2024-10-18",
+"companyName": "FORTE GROUP HLDGS INC",
+"oldSymbol": "FGHF",
+"newSymbol": "BVNN"
+},
+{
+"date": "2024-10-16",
+"companyName": "Triller Group Inc. Warrant",
+"oldSymbol": "AGBAW",
+"newSymbol": "ILLRW"
+},
+{
+"date": "2024-10-16",
+"companyName": "Triller Group Inc. Common Stock",
+"oldSymbol": "AGBA",
+"newSymbol": "ILLR"
+},
+{
+"date": "2024-10-15",
+"companyName": "Penguin Solutions, Inc. Ordinary Shares",
+"oldSymbol": "SGH",
+"newSymbol": "PENG"
+},
+{
+"date": "2024-10-10",
+"companyName": "iShares U.S. Thematic Rotation Active ETF",
+"oldSymbol": "BTHM",
+"newSymbol": "THRO"
+},
+{
+"date": "2024-10-10",
+"companyName": "BlackRock ETF Trust II iShares Short-Term California Muni Active ETF",
+"oldSymbol": "CALY",
+"newSymbol": "CALI"
+},
+{
+"date": "2024-10-09",
+"companyName": "Dogwood Therapeutics, Inc. Common Stock",
+"oldSymbol": "VIRI",
+"newSymbol": "DWTX"
+},
+{
+"date": "2024-10-09",
+"companyName": "Jewett-Cameron Trading Company Common Shares",
+"oldSymbol": "JCTCF",
+"newSymbol": "JCTC"
+},
+{
+"date": "2024-10-07",
+"companyName": "OnKure Therapeutics, Inc. Class A Common Stock",
+"oldSymbol": "RPHM",
+"newSymbol": "OKUR"
+},
+{
+"date": "2024-10-03",
+"companyName": "OFS Credit Company, Inc. 7.875% Series F Term Preferred Stock",
+"oldSymbol": "OFSC",
+"newSymbol": "OCCI"
+},
+{
+"date": "2024-10-03",
+"companyName": "Climb Bio, Inc. Common Stock",
+"oldSymbol": "ELYM",
+"newSymbol": "CLYM"
+},
+{
+"date": "2024-10-02",
+"companyName": "Expand Energy Corporation Class B Warrants",
+"oldSymbol": "CHKEZ",
+"newSymbol": "EXEEZ"
+},
+{
+"date": "2024-10-02",
+"companyName": "Logility Supply Chain Solutions, Inc. Common Stock",
+"oldSymbol": "AMSAE",
+"newSymbol": "LGTY"
+},
+{
+"date": "2024-10-02",
+"companyName": "Chicago Atlantic BDC, Inc. Common Stock",
+"oldSymbol": "SSIC",
+"newSymbol": "LIEN"
+},
+{
+"date": "2024-10-02",
+"companyName": "Expand Energy Corporation Class A Warrants",
+"oldSymbol": "CHKEW",
+"newSymbol": "EXEEW"
+},
+{
+"date": "2024-10-02",
+"companyName": "Expand Energy Corporation Class C Warrants",
+"oldSymbol": "CHKEL",
+"newSymbol": "EXEEL"
+},
+{
+"date": "2024-10-02",
+"companyName": "Logility Supply Chain Solutions, Inc. Common Stock",
+"oldSymbol": "AMSWA",
+"newSymbol": "LGTY"
+},
+{
+"date": "2024-10-02",
+"companyName": "Expand Energy Corporation Class C Warrants",
+"oldSymbol": "CHKE",
+"newSymbol": "EXEE"
+},
+{
+"date": "2024-10-02",
+"companyName": "Expand Energy Corporation Common Stock",
+"oldSymbol": "CHK",
+"newSymbol": "EXE"
+},
+{
+"date": "2024-10-01",
+"companyName": "Nixxy, Inc. Common Stock",
+"oldSymbol": "RCRT",
+"newSymbol": "NIXX"
+},
+{
+"date": "2024-10-01",
+"companyName": "Curbline Properties Corp. Common Stock",
+"oldSymbol": "CURB.V",
+"newSymbol": "CURB"
+},
+{
+"date": "2024-10-01",
+"companyName": "Nixxy, Inc. Warrant",
+"oldSymbol": "RCRTW",
+"newSymbol": "NIXXW"
+},
+{
+"date": "2024-09-30",
+"companyName": "High-Trend International Group Class A Ordinary Shares",
+"oldSymbol": "CACO",
+"newSymbol": "HTCO"
+},
+{
+"date": "2024-09-30",
+"companyName": "Tortoise Global Water ESG Fund",
+"oldSymbol": "EBLU",
+"newSymbol": "TBLU"
+},
+{
+"date": "2024-09-30",
+"companyName": "Old Market Capital Corporation Common Stock",
+"oldSymbol": "NICK",
+"newSymbol": "OMCC"
+},
+{
+"date": "2024-09-30",
+"companyName": "Amentum Holdings, Inc. Common Stock",
+"oldSymbol": "AMTM.V",
+"newSymbol": "AMTM"
+},
+{
+"date": "2024-09-26",
+"companyName": "Defiance S&P 500 Enhanced Options & 0DTE Income ETF",
+"oldSymbol": "JEPY",
+"newSymbol": "WDTE"
+},
+{
+"date": "2024-09-26",
+"companyName": "Amplify Samsung SOFR ETF",
+"oldSymbol": "SOF",
+"newSymbol": "SOFR"
+},
+{
+"date": "2024-09-25",
+"companyName": "MIKE LINDELL MEDIA CORP",
+"oldSymbol": "INCT",
+"newSymbol": "FSBN"
+},
+{
+"date": "2024-09-23",
+"companyName": "Scienture Holdings, Inc. Common Stock",
+"oldSymbol": "MEDS",
+"newSymbol": "SCNX"
+},
+{
+"date": "2024-09-18",
+"companyName": "SBC Medical Group Holdings Incorporated Common Stock",
+"oldSymbol": "PTWO",
+"newSymbol": "SBC"
+},
+{
+"date": "2024-09-18",
+"companyName": "SBC Medical Group Holdings Incorporated Warrants",
+"oldSymbol": "PTWOW",
+"newSymbol": "SBCWW"
+},
+{
+"date": "2024-09-18",
+"companyName": "EON Resources Inc. Class A Common Stock",
+"oldSymbol": "HNRA",
+"newSymbol": "EONR"
+},
+{
+"date": "2024-09-17",
+"companyName": "Veea Inc. Common Stock",
+"oldSymbol": "PLMI",
+"newSymbol": "VEEA"
+},
+{
+"date": "2024-09-17",
+"companyName": "Veea Inc. Warrant",
+"oldSymbol": "PLMIW",
+"newSymbol": "VEEAW"
+},
+{
+"date": "2024-09-17",
+"companyName": "Klotho Neurosciences, Inc. Warrant",
+"oldSymbol": "WENAW",
+"newSymbol": "KLTOW"
+},
+{
+"date": "2024-09-17",
+"companyName": "Klotho Neurosciences, Inc. Common Stock",
+"oldSymbol": "WENA",
+"newSymbol": "KLTO"
+},
+{
+"date": "2024-09-17",
+"companyName": "Klotho Neurosciences, Inc. Warrant",
+"oldSymbol": "RWODW",
+"newSymbol": "KLTOW"
+},
+{
+"date": "2024-09-17",
+"companyName": "Klotho Neurosciences, Inc. Common Stock",
+"oldSymbol": "RWOD",
+"newSymbol": "KLTO"
+},
+{
+"date": "2024-09-12",
+"companyName": "Solaris Energy Infrastructure, Inc. Class A Common Stock",
+"oldSymbol": "SOI",
+"newSymbol": "SEI"
+},
+{
+"date": "2024-09-11",
+"companyName": "SAIHEAT Limited Class A Ordinary Shares",
+"oldSymbol": "SAI",
+"newSymbol": "SAIH"
+},
+{
+"date": "2024-09-11",
+"companyName": "SAIHEAT Limited Warrant",
+"oldSymbol": "SAITW",
+"newSymbol": "SAIHW"
+},
+{
+"date": "2024-09-10",
+"companyName": "Hyperscale Data, Inc. Common Stock",
+"oldSymbol": "AULT",
+"newSymbol": "GPUS"
+},
+{
+"date": "2024-09-09",
+"companyName": "Innovex International, Inc. Common Stock",
+"oldSymbol": "DRQ",
+"newSymbol": "INVX"
+},
+{
+"date": "2024-09-09",
+"companyName": "Algorhythm Holdings, Inc. Common Stock",
+"oldSymbol": "MICS",
+"newSymbol": "RIME"
+},
+{
+"date": "2024-09-06",
+"companyName": "Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares",
+"oldSymbol": "BNRE",
+"newSymbol": "BNT"
+},
+{
+"date": "2024-09-04",
+"companyName": "Giftify, Inc. Common Stock",
+"oldSymbol": "RSTN",
+"newSymbol": "GIFT"
+},
+{
+"date": "2024-09-03",
+"companyName": "Oruka Therapeutics, Inc. Common Stock",
+"oldSymbol": "ABIO",
+"newSymbol": "ORKA"
+},
+{
+"date": "2024-09-03",
+"companyName": "Currenc Group Inc. Ordinary Shares",
+"oldSymbol": "IFIN",
+"newSymbol": "CURR"
+},
+{
+"date": "2024-08-29",
+"companyName": "ERShares Private-Public Crossover ETF",
+"oldSymbol": "ENTR",
+"newSymbol": "XOVR"
+},
+{
+"date": "2024-08-26",
+"companyName": "Capital Clean Energy Carriers Corp. Common Share",
+"oldSymbol": "CPLP",
+"newSymbol": "CCEC"
+},
+{
+"date": "2024-08-22",
+"companyName": "Gap, Inc. (The) Common Stock",
+"oldSymbol": "GPS",
+"newSymbol": "GAP"
+},
+{
+"date": "2024-08-21",
+"companyName": "Nebius Group N.V. Class A Ordinary Shares",
+"oldSymbol": "YNDX",
+"newSymbol": "NBIS"
+},
+{
+"date": "2024-08-15",
+"companyName": "THE NFT MARKETPLACE INC",
+"oldSymbol": "NFTM",
+"newSymbol": "BABL"
+},
+{
+"date": "2024-08-15",
+"companyName": "Quantum Biopharma Ltd. Class B Subordinate Voting Shares",
+"oldSymbol": "HUGE",
+"newSymbol": "QNTM"
+},
+{
+"date": "2024-08-14",
+"companyName": "Bolt Projects Holdings, Inc. Common Stock",
+"oldSymbol": "GAMC",
+"newSymbol": "BSLK"
+},
+{
+"date": "2024-08-14",
+"companyName": "Bolt Projects Holdings, Inc. Warrant",
+"oldSymbol": "GAMCW",
+"newSymbol": "BSLKW"
+},
+{
+"date": "2024-08-13",
+"companyName": "Firefly Neuroscience, Inc. Common Stock",
+"oldSymbol": "WAVD",
+"newSymbol": "AIFF"
+},
+{
+"date": "2024-08-13",
+"companyName": "Citius Oncology, Inc. Common Stock",
+"oldSymbol": "TENK",
+"newSymbol": "CTOR"
+},
+{
+"date": "2024-08-12",
+"companyName": "BGM Group Ltd. Class A Ordinary Shares",
+"oldSymbol": "QLI",
+"newSymbol": "BGM"
+},
+{
+"date": "2024-08-12",
+"companyName": "iShares Future AI & Tech ETF",
+"oldSymbol": "IRBO",
+"newSymbol": "ARTY"
+},
+{
+"date": "2024-08-09",
+"companyName": "COSCIENS Biopharma Inc. Common Stock",
+"oldSymbol": "AEZS",
+"newSymbol": "CSCI"
+},
+{
+"date": "2024-08-05",
+"companyName": "TXNM Energy, Inc. Common Stock",
+"oldSymbol": "PNM",
+"newSymbol": "TXNM"
+},
+{
+"date": "2024-08-02",
+"companyName": "FTAC Emerald Acquisition Corp. Class A Common Stock",
+"oldSymbol": "EMLD",
+"newSymbol": "FLD"
+},
+{
+"date": "2024-08-02",
+"companyName": "FTAC Emerald Acquisition Corp. Warrant",
+"oldSymbol": "EMLDW",
+"newSymbol": "FLDDW"
+},
+{
+"date": "2024-08-02",
+"companyName": "Scorpius Holdings, Inc. Common Stock",
+"oldSymbol": "NHWK",
+"newSymbol": "SCPX"
+},
+{
+"date": "2024-08-02",
+"companyName": "FTAC Emerald Acquisition Corp. Unit",
+"oldSymbol": "EMLDU",
+"newSymbol": "FLDDU"
+},
+{
+"date": "2024-08-01",
+"companyName": "Summit Midstream Corporation Common Stock",
+"oldSymbol": "SMLP",
+"newSymbol": "SMC"
+},
+{
+"date": "2024-08-01",
+"companyName": "Seaport Entertainment Group Inc. Common Stock",
+"oldSymbol": "SEG.V",
+"newSymbol": "SEG"
+},
+{
+"date": "2024-07-31",
+"companyName": "VIRIDIEN S/ADR",
+"oldSymbol": "VIRD",
+"newSymbol": "CGGY"
+},
+{
+"date": "2024-07-30",
+"companyName": "HERAMBA ELECTRIC PLC WTS",
+"oldSymbol": "PITW",
+"newSymbol": "PITA"
+},
+{
+"date": "2024-07-30",
+"companyName": "HERAMBA ELECTRIC PLC",
+"oldSymbol": "PITE",
+"newSymbol": "PITA"
+},
+{
+"date": "2024-07-25",
+"companyName": "FOOD CULTURE INC",
+"oldSymbol": "FCUL",
+"newSymbol": "GSPT"
+},
+{
+"date": "2024-07-24",
+"companyName": "TNF Pharmaceuticals, Inc. Common Stock",
+"oldSymbol": "MYMD",
+"newSymbol": "TNFA"
+},
+{
+"date": "2024-07-22",
+"companyName": "Defiance Connective Technologies ETF",
+"oldSymbol": "FIVG",
+"newSymbol": "SIXG"
+},
+{
+"date": "2024-07-19",
+"companyName": "Santech Holdings Limited American Depositary Shares",
+"oldSymbol": "HYW",
+"newSymbol": "STEC"
+},
+{
+"date": "2024-07-15",
+"companyName": "CMB.TECH NV Ordinary Shares",
+"oldSymbol": "EURN",
+"newSymbol": "CMBT"
+},
+{
+"date": "2024-07-15",
+"companyName": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+"oldSymbol": "LADYLU",
+"newSymbol": "EMB"
+},
+{
+"date": "2024-07-15",
+"companyName": "ALT5 Sigma Corporation Common Stock",
+"oldSymbol": "JAN",
+"newSymbol": "ALTS"
+},
+{
+"date": "2024-07-15",
+"companyName": "ConnectM Technology Solutions, Inc. Common Stock",
+"oldSymbol": "MCAC",
+"newSymbol": "CNTM"
+},
+{
+"date": "2024-07-10",
+"companyName": "Sunrise Realty Trust, Inc. Common Stock",
+"oldSymbol": "SUNSV",
+"newSymbol": "SUNS"
+},
+{
+"date": "2024-07-10",
+"companyName": "NEXGOLD MINING CORP",
+"oldSymbol": "NXGC",
+"newSymbol": "TSRM"
+},
+{
+"date": "2024-07-09",
+"companyName": "Stardust Power Inc. Common Stock",
+"oldSymbol": "GPAC",
+"newSymbol": "SDST"
+},
+{
+"date": "2024-07-09",
+"companyName": "Stardust Power Inc. Warrant",
+"oldSymbol": "GPACW",
+"newSymbol": "SDSTW"
+},
+{
+"date": "2024-07-08",
+"companyName": "WisdomTree U.S. High Yield Corporate Bond Fund",
+"oldSymbol": "WFHY",
+"newSymbol": "QHY"
+},
+{
+"date": "2024-07-08",
+"companyName": "WisdomTree U.S. Corporate Bond Fund",
+"oldSymbol": "WFIG",
+"newSymbol": "QIG"
+},
+{
+"date": "2024-07-08",
+"companyName": "WisdomTree U.S. Short Term Corporate Bond Fund",
+"oldSymbol": "SFIG",
+"newSymbol": "QSIG"
+},
+{
+"date": "2024-07-08",
+"companyName": "BRANDPILOT AI INC",
+"oldSymbol": "BPAI",
+"newSymbol": "UPIP"
+},
+{
+"date": "2024-07-05",
+"companyName": "ACT ENERGY TECHS LTD",
+"oldSymbol": "ACXA",
+"newSymbol": "CETE"
+},
+{
+"date": "2024-07-04",
+"companyName": "ProShares UltraShort Energy",
+"oldSymbol": "VOLAB",
+"newSymbol": "DUG"
+},
+{
+"date": "2024-07-02",
+"companyName": "LAFLEUR MINERALS INC",
+"oldSymbol": "LFLR",
+"newSymbol": "WPNN"
+},
+{
+"date": "2024-07-01",
+"companyName": "Tsakos Energy Navigation Ltd Common Shares",
+"oldSymbol": "TNP",
+"newSymbol": "TEN"
+},
+{
+"date": "2024-07-01",
+"companyName": "PowerFleet, Inc. Common Stock",
+"oldSymbol": "PWFL",
+"newSymbol": "AIOT"
+},
+{
+"date": "2024-07-01",
+"companyName": "Above Food Ingredients Inc. Warrants",
+"oldSymbol": "BITE.W",
+"newSymbol": "ABVEW"
+},
+{
+"date": "2024-07-01",
+"companyName": "Above Food Ingredients Inc. Common Stock",
+"oldSymbol": "BITE",
+"newSymbol": "ABVE"
+},
+{
+"date": "2024-06-25",
+"companyName": "VSee Health, Inc. Warrant",
+"oldSymbol": "DHACW",
+"newSymbol": "VSEEW"
+},
+{
+"date": "2024-06-25",
+"companyName": "GRAIL, Inc. Common Stock ",
+"oldSymbol": "GRALV",
+"newSymbol": "GRAL"
+},
+{
+"date": "2024-06-25",
+"companyName": "VSee Health, Inc. Common Stock",
+"oldSymbol": "DHAC",
+"newSymbol": "VSEE"
+},
+{
+"date": "2024-06-24",
+"companyName": "Thunder Power Holdings, Inc. Common Stock",
+"oldSymbol": "FLFV",
+"newSymbol": "AIEV"
+},
+{
+"date": "2024-06-24",
+"companyName": "ANEW MEDICAL, INC. Common Stock",
+"oldSymbol": "RWOD",
+"newSymbol": "WENA"
+},
+{
+"date": "2024-06-24",
+"companyName": "ANEW MEDICAL, INC. Warrant ",
+"oldSymbol": "RWODW",
+"newSymbol": "WENAW"
+},
+{
+"date": "2024-06-21",
+"companyName": "Tectonic Therapeutic, Inc. Common Stock",
+"oldSymbol": "AVRO",
+"newSymbol": "TECX"
+},
+{
+"date": "2024-06-19",
+"companyName": "Fisker Inc.",
+"oldSymbol": "FSRN",
+"newSymbol": "FSRNQ"
+},
+{
+"date": "2024-06-13",
+"companyName": "URZ3 ENERGY CORP",
+"oldSymbol": "URZE",
+"newSymbol": "NVDE"
+},
+{
+"date": "2024-06-10",
+"companyName": "Onity Group Inc. Common Stock",
+"oldSymbol": "OCN",
+"newSymbol": "ONIT"
+},
+{
+"date": "2024-06-10",
+"companyName": "First Trust SMID Capital Strength ETF",
+"oldSymbol": "RNMC",
+"newSymbol": "FSCS"
+},
+{
+"date": "2024-06-06",
+"companyName": "QXO, Inc. Common Stock",
+"oldSymbol": "SSNT",
+"newSymbol": "QXO"
+},
+{
+"date": "2024-06-05",
+"companyName": "aTyr Pharma, Inc. Common Stock",
+"oldSymbol": "LIFE",
+"newSymbol": "ATYR"
+},
+{
+"date": "2024-06-03",
+"companyName": "iShares MSCI USA Quality GARP ETF",
+"oldSymbol": "STLG",
+"newSymbol": "GARP"
+},
+{
+"date": "2024-06-03",
+"companyName": "Columbia International Equity Income ETF",
+"oldSymbol": "ESGN",
+"newSymbol": "INEQ"
+},
+{
+"date": "2024-06-03",
+"companyName": "Columbia U.S. Equity Income ETF",
+"oldSymbol": "ESGS",
+"newSymbol": "EQIN"
+},
+{
+"date": "2024-05-31",
+"companyName": "Inhibrx Biosciences, Inc. Common Stock",
+"oldSymbol": "INXBV",
+"newSymbol": "INBX"
+},
+{
+"date": "2024-05-31",
+"companyName": "Inhibrx Biosciences, Inc. Common Stock",
+"oldSymbol": "INXB",
+"newSymbol": "INBX"
+},
+{
+"date": "2024-05-31",
+"companyName": "Franklin Income Equity Focus ETF",
+"oldSymbol": "FLLV",
+"newSymbol": "INCE"
+},
+{
+"date": "2024-05-30",
+"companyName": "Inhibrx Biosciences, Inc. Common Stock",
+"oldSymbol": "INXBV",
+"newSymbol": "INXB"
+},
+{
+"date": "2024-05-30",
+"companyName": "XChange TEC.INC American Depositary Shares",
+"oldSymbol": "FLJ",
+"newSymbol": "XHG"
+},
+{
+"date": "2024-05-28",
+"companyName": "MAX S&P 500 4X Leveraged ETNs due October 30, 2043",
+"oldSymbol": "XXXX",
+"newSymbol": "SPYU"
+},
+{
+"date": "2024-05-28",
+"companyName": "LakeShore Biopharma Co., Ltd Ordinary Shares",
+"oldSymbol": "YS",
+"newSymbol": "LSB"
+},
+{
+"date": "2024-05-28",
+"companyName": "LakeShore Biopharma Co., Ltd Warrants",
+"oldSymbol": "YSBPW",
+"newSymbol": "LSBPW"
+},
+{
+"date": "2024-05-23",
+"companyName": "First Majestic",
+"oldSymbol": "FR.TO",
+"newSymbol": "AG.TO"
+},
+{
+"date": "2024-05-20",
+"companyName": "The Baldwin Insurance Group, Inc. Class A Common Stock",
+"oldSymbol": "BRP",
+"newSymbol": "BWIN"
+},
+{
+"date": "2024-05-20",
+"companyName": "CNH Industrial N.V. Common Shares",
+"oldSymbol": "CNHI",
+"newSymbol": "CNH"
+},
+{
+"date": "2024-05-17",
+"companyName": "Entero Therapeutics, Inc. Common Stock",
+"oldSymbol": "FWBI",
+"newSymbol": "ENTO"
+},
+{
+"date": "2024-05-15",
+"companyName": "Veren Inc. Common shares",
+"oldSymbol": "CPG",
+"newSymbol": "VRN"
+},
+{
+"date": "2024-05-13",
+"companyName": "ContextLogic Inc. Class A Common Stock",
+"oldSymbol": "WISH",
+"newSymbol": "LOGC"
+},
+{
+"date": "2024-05-13",
+"companyName": "Janus Henderson Corporate Bond ETF",
+"oldSymbol": "SCRD",
+"newSymbol": "JLQD"
+},
+{
+"date": "2024-05-10",
+"companyName": "Oklo Inc. Class A common stock",
+"oldSymbol": "ALCC",
+"newSymbol": "OKLO"
+},
+{
+"date": "2024-04-24",
+"companyName": "Fisker Inc.",
+"oldSymbol": "FSR",
+"newSymbol": "FSRN"
+},
+{
+"date": "2024-04-23",
+"companyName": "PINEWOOD TECHS GROUP PLC",
+"oldSymbol": "PINW",
+"newSymbol": "PDGN"
+},
+{
+"date": "2024-04-19",
+"companyName": "Xylo Technologies Ltd. American Depositary Shares",
+"oldSymbol": "XLYO",
+"newSymbol": "XYLO"
+},
+{
+"date": "2024-04-19",
+"companyName": "Xylo Technologies Ltd. American Depositary Shares",
+"oldSymbol": "MDGS",
+"newSymbol": "XYLO"
+},
+{
+"date": "2024-04-18",
+"companyName": "Xylo Technologies Ltd. American Depositary Shares",
+"oldSymbol": "MDGS",
+"newSymbol": "XLYO"
+},
+{
+"date": "2024-04-17",
+"companyName": "iLearningEngines, Inc. Warrant",
+"oldSymbol": "ARRWW",
+"newSymbol": "AILEW"
+},
+{
+"date": "2024-04-17",
+"companyName": "iLearningEngines, Inc. Common Stock",
+"oldSymbol": "ARRW",
+"newSymbol": "AILE"
+},
+{
+"date": "2024-04-15",
+"companyName": "Connexa Sports Technologies Inc. Common Stock",
+"oldSymbol": "CNXA",
+"newSymbol": "YYAI"
+},
+{
+"date": "2024-04-10",
+"companyName": "FIRST ATLANTIC NICKEL CRP",
+"oldSymbol": "FANC",
+"newSymbol": "ACPR"
+},
+{
+"date": "2024-04-09",
+"companyName": "PINNACLE SILVER&GOLD CORP",
+"oldSymbol": "PSGC",
+"newSymbol": "NRGO"
+},
+{
+"date": "2024-04-08",
+"companyName": "Palladyne AI Corp Warrants",
+"oldSymbol": "STRCW",
+"newSymbol": "PDYNW"
+},
+{
+"date": "2024-04-08",
+"companyName": "Palladyne AI Corp. Common Stock",
+"oldSymbol": "STRC",
+"newSymbol": "PDYN"
+},
+{
+"date": "2024-04-04",
+"companyName": "GIANT MINING CORP",
+"oldSymbol": "BFGF",
+"newSymbol": "JUBA"
+},
+{
+"date": "2024-04-03",
+"companyName": "DigiAsia Corp. Warrant",
+"oldSymbol": "APACW",
+"newSymbol": "FAASW"
+},
+{
+"date": "2024-04-03",
+"companyName": "Traws Pharma, Inc. Common Stock",
+"oldSymbol": "ONTX",
+"newSymbol": "TRAW"
+},
+{
+"date": "2024-04-03",
+"companyName": "DigiAsia Corp. Ordinary Shares",
+"oldSymbol": "APAC",
+"newSymbol": "FAAS"
+},
+{
+"date": "2024-04-02",
+"companyName": "GE Vernova Inc. Common Stock",
+"oldSymbol": "GEV.V",
+"newSymbol": "GEV"
+},
+{
+"date": "2024-04-02",
+"companyName": "Next Technology Holding Inc. Ordinary Shares",
+"oldSymbol": "WETG",
+"newSymbol": "NXTT"
+},
+{
+"date": "2024-04-01",
+"companyName": "Global X Data Center & Digital Infrastructure ETF",
+"oldSymbol": "VPN",
+"newSymbol": "DTCR"
+},
+{
+"date": "2024-04-01",
+"companyName": "Solventum Corporation Common Stock",
+"oldSymbol": "SOLV.V",
+"newSymbol": "SOLV"
+},
+{
+"date": "2024-04-01",
+"companyName": "Zapata Computing Holdings Inc. Common Stock",
+"oldSymbol": "WNNR",
+"newSymbol": "ZPTA"
+},
+{
+"date": "2024-04-01",
+"companyName": "Community West Bancshares Common Stock",
+"oldSymbol": "CVCY",
+"newSymbol": "CWBC"
+},
+{
+"date": "2024-04-01",
+"companyName": "Zapata Computing Holdings Inc. Warrant",
+"oldSymbol": "WNNR.W",
+"newSymbol": "ZPTAW"
+},
+{
+"date": "2024-03-27",
+"companyName": "Serina Therapeutics, Inc. Common Stock",
+"oldSymbol": "AGE",
+"newSymbol": "SER"
+},
+{
+"date": "2024-03-27",
+"companyName": "GCT Semiconductor Holding, Inc. Common Stock",
+"oldSymbol": "CNDB",
+"newSymbol": "GCTS"
+},
+{
+"date": "2024-03-26",
+"companyName": "Q32 Bio Inc. Common Stock",
+"oldSymbol": "FIXX",
+"newSymbol": "QTTB"
+},
+{
+"date": "2024-03-26",
+"companyName": "Trump Media & Technology Group Corp. Warrants",
+"oldSymbol": "DWACW",
+"newSymbol": "DJTWW"
+},
+{
+"date": "2024-03-26",
+"companyName": "Trump Media & Technology Group Corp. Common Stock",
+"oldSymbol": "DWAC",
+"newSymbol": "DJT"
+},
+{
+"date": "2024-03-25",
+"companyName": "Invesco Raymond James SB-1 Equity ETF",
+"oldSymbol": "RYJ",
+"newSymbol": "UPGD"
+},
+{
+"date": "2024-03-25",
+"companyName": "Corpay, Inc. Common Stock",
+"oldSymbol": "FLT",
+"newSymbol": "CPAY"
+},
+{
+"date": "2024-03-22",
+"companyName": "LENZ Therapeutics, Inc. Common Stock",
+"oldSymbol": "GRPH",
+"newSymbol": "LENZ"
+},
+{
+"date": "2024-03-21",
+"companyName": "ANORTECH INC",
+"oldSymbol": "ANOR",
+"newSymbol": "HUDR"
+},
+{
+"date": "2024-03-19",
+"companyName": "N2OFF, Inc. Common Stock",
+"oldSymbol": "SVFD",
+"newSymbol": "NITO"
+},
+{
+"date": "2024-03-18",
+"companyName": "Highest Performances Holdings Inc. American Depository Shares",
+"oldSymbol": "PUYI",
+"newSymbol": "HPH"
+},
+{
+"date": "2024-03-15",
+"companyName": "Montana Technologies Corporation Class A Common Stock",
+"oldSymbol": "XPDB",
+"newSymbol": "AIRJ"
+},
+{
+"date": "2024-03-15",
+"companyName": "Brand Engagement Network Inc. Common Stock",
+"oldSymbol": "DHCA",
+"newSymbol": "BNAI"
+},
+{
+"date": "2024-03-15",
+"companyName": "Brand Engagement Network Inc. Warrant",
+"oldSymbol": "DHCAW",
+"newSymbol": "BNAIW"
+},
+{
+"date": "2024-03-15",
+"companyName": "Graphjet Technology Class A Ordinary Shares",
+"oldSymbol": "ENCP",
+"newSymbol": "GTI"
+},
+{
+"date": "2024-03-15",
+"companyName": "Montana Technologies Corporation Warrant",
+"oldSymbol": "XPDBW",
+"newSymbol": "AIRJW"
+},
+{
+"date": "2024-03-14",
+"companyName": "Zeo Energy Corporation Class A Common Stock",
+"oldSymbol": "ESAC",
+"newSymbol": "ZEO"
+},
+{
+"date": "2024-03-14",
+"companyName": "Zeo Energy Corporation Warrants",
+"oldSymbol": "ESACW",
+"newSymbol": "ZEOWW"
+},
+{
+"date": "2024-03-13",
+"companyName": "NextTrip, Inc. Common Stock",
+"oldSymbol": "SASI",
+"newSymbol": "NTRP"
+},
+{
+"date": "2024-03-13",
+"companyName": "XTI Aerospace, Inc. Common Stock",
+"oldSymbol": "INPX",
+"newSymbol": "XTIA"
+},
+{
+"date": "2024-03-05",
+"companyName": "QT Imaging Holdings, Inc. Common Stock",
+"oldSymbol": "GIA",
+"newSymbol": "QTI"
+},
+{
+"date": "2024-03-04",
+"companyName": "First Trust Bloomberg Shareholder Yield ETF",
+"oldSymbol": "RNLC",
+"newSymbol": "SHRY"
+},
+{
+"date": "2024-03-04",
+"companyName": "TruBridge, Inc. Common Stock",
+"oldSymbol": "CPSI",
+"newSymbol": "TBRG"
+},
+{
+"date": "2024-03-04",
+"companyName": "USCF Gold Strategy Plus Income Fund",
+"oldSymbol": "GLDX",
+"newSymbol": "USG"
+},
+{
+"date": "2024-03-04",
+"companyName": "The Beachbody Company, Inc. Class A Common Stock",
+"oldSymbol": "BODY",
+"newSymbol": "BODI"
+},
+{
+"date": "2024-03-04",
+"companyName": "Healthpeak Properties, Inc. Common Stock",
+"oldSymbol": "PEAK",
+"newSymbol": "DOC"
+},
+{
+"date": "2024-03-04",
+"companyName": "GT RESOURCES INC",
+"oldSymbol": "CGTR",
+"newSymbol": "NKOR"
+},
+{
+"date": "2024-02-27",
+"companyName": "Metallus Inc. Common Shares",
+"oldSymbol": "TMST",
+"newSymbol": "MTUS"
+},
+{
+"date": "2024-02-26",
+"companyName": "Astrana Health Inc. Common Stock",
+"oldSymbol": "AMEH",
+"newSymbol": "ASTH"
+},
+{
+"date": "2024-02-26",
+"companyName": "Fidelity Growth Opportunities ETF",
+"oldSymbol": "FGRO",
+"newSymbol": "FFLG"
+},
+{
+"date": "2024-02-26",
+"companyName": "Fidelity Small-Mid Cap Opportunities ETF",
+"oldSymbol": "FSMO",
+"newSymbol": "FFSM"
+},
+{
+"date": "2024-02-26",
+"companyName": "Fidelity New Millennium ETF",
+"oldSymbol": "FMIL",
+"newSymbol": "FFLC"
+},
+{
+"date": "2024-02-15",
+"companyName": "Tevogen Bio Holdings Inc. Common Stock",
+"oldSymbol": "LGST",
+"newSymbol": "TVGN"
+},
+{
+"date": "2024-02-15",
+"companyName": "CERo Therapeutics Holdings, Inc. Common Stock",
+"oldSymbol": "PBAX",
+"newSymbol": "CERO"
+},
+{
+"date": "2024-02-15",
+"companyName": "Sable Offshore Corp. Common Stock",
+"oldSymbol": "FLME",
+"newSymbol": "SOC"
+},
+{
+"date": "2024-02-15",
+"companyName": "Tevogen Bio Holdings Inc. Warrant",
+"oldSymbol": "LGSTW",
+"newSymbol": "TVGNW"
+},
+{
+"date": "2024-02-15",
+"companyName": "CERo Therapeutics Holdings, Inc. Warrants",
+"oldSymbol": "PBAXW",
+"newSymbol": "CEROW"
+},
+{
+"date": "2024-02-13",
+"companyName": "United Parks & Resorts Inc. Common Stock",
+"oldSymbol": "SEAS",
+"newSymbol": "PRKS"
+},
+{
+"date": "2024-02-12",
+"companyName": "Plum Acquisition Corp. III Warrant",
+"oldSymbol": "APTMW",
+"newSymbol": "PLMJW"
+},
+{
+"date": "2024-02-12",
+"companyName": "RIDDER TITAN GENESIS CORP",
+"oldSymbol": "RTGC",
+"newSymbol": "UMFG"
+},
+{
+"date": "2024-02-12",
+"companyName": "Plum Acquisition Corp. III Unit",
+"oldSymbol": "APTMU",
+"newSymbol": "PLMJU"
+},
+{
+"date": "2024-02-12",
+"companyName": "Plum Acquisition Corp. III Class A Ordinary Shares",
+"oldSymbol": "APTM",
+"newSymbol": "PLMJ"
+},
+{
+"date": "2024-02-09",
+"companyName": "DIH Holding US, Inc. Warrants",
+"oldSymbol": "ATAKW",
+"newSymbol": "DHAIW"
+},
+{
+"date": "2024-02-09",
+"companyName": "DIH Holdings US, Inc. Class A Common Stock",
+"oldSymbol": "ATAK",
+"newSymbol": "DHAI"
+},
+{
+"date": "2024-02-09",
+"companyName": "Gryphon Digital Mining, Inc Common Stock",
+"oldSymbol": "KERN",
+"newSymbol": "GRYP"
+},
+{
+"date": "2024-02-09",
+"companyName": "STLLR GOLD INC",
+"oldSymbol": "STLR",
+"newSymbol": "MEAU"
+},
+{
+"date": "2024-02-08",
+"companyName": "Borealis Foods Inc. Class A Common Shares",
+"oldSymbol": "OXUS",
+"newSymbol": "BRLS"
+},
+{
+"date": "2024-02-08",
+"companyName": "Borealis Foods Inc. Warrant",
+"oldSymbol": "OXUSW",
+"newSymbol": "BRLSW"
+},
+{
+"date": "2024-02-05",
+"companyName": "Churchill Capital Corp VII Units",
+"oldSymbol": "CVII.U",
+"newSymbol": "CVIIU"
+},
+{
+"date": "2024-02-05",
+"companyName": "Solidion Technology, Inc. Common Stock",
+"oldSymbol": "NUBI",
+"newSymbol": "STI"
+},
+{
+"date": "2024-02-05",
+"companyName": "Churchill Capital Corp VII Warrants",
+"oldSymbol": "CVII.W",
+"newSymbol": "CVIIW"
+},
+{
+"date": "2024-02-05",
+"companyName": "GLOBAL AI INC",
+"oldSymbol": "GLAI",
+"newSymbol": "WSCO"
+},
+{
+"date": "2024-02-02",
+"companyName": "Giga-Tronics Inc.",
+"oldSymbol": "ASAB",
+"newSymbol": "GIGA"
+},
+{
+"date": "2024-02-01",
+"companyName": "Arq, Inc. Common Stock",
+"oldSymbol": "ADES",
+"newSymbol": "ARQ"
+},
+{
+"date": "2024-02-01",
+"companyName": "Dayforce, Inc. Common Stock",
+"oldSymbol": "CDAY",
+"newSymbol": "DAY"
+},
+{
+"date": "2024-02-01",
+"companyName": "Strategy Shares Gold-Hedged Bond ETF",
+"oldSymbol": "GLDB",
+"newSymbol": "GOLY"
+},
+{
+"date": "2024-02-01",
+"companyName": "GREENLIT VENTURES INC",
+"oldSymbol": "GLVT",
+"newSymbol": "MSYN"
+},
+{
+"date": "2024-02-01",
+"companyName": "DoubleLine Commercial Real Estate ETF",
+"oldSymbol": "DCMB",
+"newSymbol": "DCRE"
+},
+{
+"date": "2024-02-01",
+"companyName": "TruGolf Holdings, Inc. Class A Common Stock",
+"oldSymbol": "DMAQ",
+"newSymbol": "TRUG"
+},
+{
+"date": "2024-01-30",
+"companyName": "ReWalk Robotics Ltd. Ordinary Shares",
+"oldSymbol": "RWLK",
+"newSymbol": "LFWD"
+},
+{
+"date": "2024-01-30",
+"companyName": "X3 Holdings Co., Ltd. Ordinary Shares",
+"oldSymbol": "PBTS",
+"newSymbol": "XTKG"
+},
+{
+"date": "2024-01-29",
+"companyName": "FITZROY MINERALS INC",
+"oldSymbol": "FTZF",
+"newSymbol": "NOCS"
+},
+{
+"date": "2024-01-29",
+"companyName": "NeueHealth, Inc.",
+"oldSymbol": "BHG",
+"newSymbol": "NEUE"
+},
+{
+"date": "2024-01-29",
+"companyName": "Intelligent Real Estate ETF",
+"oldSymbol": "PRVT",
+"newSymbol": "REAI"
+},
+{
+"date": "2024-01-25",
+"companyName": "Sound Group Inc. American Depositary Shares",
+"oldSymbol": "LIZI",
+"newSymbol": "SOGP"
+},
+{
+"date": "2024-01-19",
+"companyName": "Gaxos.ai Inc. Common Stock",
+"oldSymbol": "NFTG",
+"newSymbol": "GXAI"
+},
+{
+"date": "2024-01-17",
+"companyName": "Lazydays Holdings, Inc. Common Stock",
+"oldSymbol": "LAZY",
+"newSymbol": "GORV"
+},
+{
+"date": "2024-01-16",
+"companyName": "New Horizon Aircraft Ltd. Warrant",
+"oldSymbol": "PTHRW",
+"newSymbol": "HOVRW"
+},
+{
+"date": "2024-01-16",
+"companyName": "New Horizon Aircraft Ltd. Class A Ordinary Share",
+"oldSymbol": "PTHR",
+"newSymbol": "HOVR"
+},
+{
+"date": "2024-01-16",
+"companyName": "BLACKWELL 3D CONSTR CP",
+"oldSymbol": "BDCC",
+"newSymbol": "PARG"
+},
+{
+"date": "2024-01-10",
+"companyName": "Nexxen International Ltd. American Depository Shares",
+"oldSymbol": "TRMR",
+"newSymbol": "NEXN"
+},
+{
+"date": "2024-01-10",
+"companyName": "TCTM Kids IT Education Inc. American Depositary Shares",
+"oldSymbol": "TEDU",
+"newSymbol": "TCTM"
+},
+{
+"date": "2024-01-10",
+"companyName": "Talphera, Inc. Common Stock",
+"oldSymbol": "ACRX",
+"newSymbol": "TLPH"
+},
+{
+"date": "2024-01-09",
+"companyName": "HWH International Inc. Common Stock",
+"oldSymbol": "ACAX",
+"newSymbol": "HWH"
+},
+{
+"date": "2024-01-09",
+"companyName": "PERCHERON THERAPEUTCS LTD",
+"oldSymbol": "PERC",
+"newSymbol": "ATHJ"
+},
+{
+"date": "2024-01-08",
+"companyName": "MATTR CORP",
+"oldSymbol": "MTTR",
+"newSymbol": "SAWL"
+},
+{
+"date": "2024-01-03",
+"companyName": "IDEAL GROUP OF COMPANIES",
+"oldSymbol": "IDGR",
+"newSymbol": "JZZI"
+},
+{
+"date": "2024-01-02",
+"companyName": "Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest",
+"oldSymbol": "GIM",
+"newSymbol": "SABA"
+},
+{
+"date": "2024-01-02",
+"companyName": "Pinstripes Holdings, Inc. Class A Common Stock",
+"oldSymbol": "BYN",
+"newSymbol": "PNST"
+},
+{
+"date": "2023-12-29",
+"companyName": "Zoomcar Holdings, Inc. Warrants",
+"oldSymbol": "IOACW",
+"newSymbol": "ZCARW"
+},
+{
+"date": "2023-12-29",
+"companyName": "Zoomcar Holdings, Inc. Common Stock",
+"oldSymbol": "IOAC",
+"newSymbol": "ZCAR"
+},
+{
+"date": "2023-12-26",
+"companyName": "Nukkleus Inc. Warrants",
+"oldSymbol": "BRLIW",
+"newSymbol": "NUKKW"
+},
+{
+"date": "2023-12-26",
+"companyName": "Nukkleus Inc. Common Stock",
+"oldSymbol": "BRLI",
+"newSymbol": "NUKK"
+},
+{
+"date": "2023-12-26",
+"companyName": "Alternus Clean Energy, Inc. Class A Common Stock",
+"oldSymbol": "CLIN",
+"newSymbol": "ALCE"
+},
+{
+"date": "2023-12-22",
+"companyName": "LeddarTech Holdings Inc. Warrants",
+"oldSymbol": "PRSRW",
+"newSymbol": "LDTCW"
+},
+{
+"date": "2023-12-22",
+"companyName": "Onconetix, Inc. Common Stock",
+"oldSymbol": "BWV",
+"newSymbol": "ONCO"
+},
+{
+"date": "2023-12-22",
+"companyName": "Airship AI Holdings, Inc. Warrants",
+"oldSymbol": "BYTSW",
+"newSymbol": "AISPW"
+},
+{
+"date": "2023-12-22",
+"companyName": "Mobix Labs, Inc. Class A Common Stock",
+"oldSymbol": "CLAY",
+"newSymbol": "MOBX"
+},
+{
+"date": "2023-12-22",
+"companyName": "Airship AI Holdings, Inc. Class A Common Stock",
+"oldSymbol": "BYTS",
+"newSymbol": "AISP"
+},
+{
+"date": "2023-12-22",
+"companyName": "Mobix Labs, Inc Warrants",
+"oldSymbol": "CLAYW",
+"newSymbol": "MOBXW"
+},
+{
+"date": "2023-12-22",
+"companyName": "Global Gas Corporation Class A Common Stock",
+"oldSymbol": "DUNE",
+"newSymbol": "HGAS"
+},
+{
+"date": "2023-12-22",
+"companyName": "Global Gas Corporation Warrant",
+"oldSymbol": "DUNEW",
+"newSymbol": "HGASW"
+},
+{
+"date": "2023-12-22",
+"companyName": "LeddarTech Holdings Inc. Common Shares",
+"oldSymbol": "PRSR",
+"newSymbol": "LDTC"
+},
+{
+"date": "2023-12-21",
+"companyName": "LAKE VICTORIA GOLD LTD",
+"oldSymbol": "LVGL",
+"newSymbol": "TBGP"
+},
+{
+"date": "2023-12-20",
+"companyName": "MultiSensor AI Holdings, Inc. Warrant",
+"oldSymbol": "SMAPW",
+"newSymbol": "MSAIW"
+},
+{
+"date": "2023-12-20",
+"companyName": "MultiSensor AI Holdings, Inc. Common Stock",
+"oldSymbol": "SMAP",
+"newSymbol": "MSAI"
+},
+{
+"date": "2023-12-20",
+"companyName": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
+"oldSymbol": "CDLR.V",
+"newSymbol": "CDLR"
+},
+{
+"date": "2023-12-19",
+"companyName": "Neurogene Inc. Common Stock ",
+"oldSymbol": "NLTX",
+"newSymbol": "NGNE"
+},
+{
+"date": "2023-12-19",
+"companyName": "Haki Safety AB",
+"oldSymbol": "MIDW-B.ST",
+"newSymbol": "HAKI-B.ST"
+},
+{
+"date": "2023-12-18",
+"companyName": "iShares North American Tech-Multimedia Networking ETF",
+"oldSymbol": "IGN",
+"newSymbol": "IDGT"
+},
+{
+"date": "2023-12-15",
+"companyName": "Banzai International, Inc. Warrant",
+"oldSymbol": "VIIAW",
+"newSymbol": "BNZIW"
+},
+{
+"date": "2023-12-15",
+"companyName": "Banzai International, Inc. Class A Common Stock",
+"oldSymbol": "VII",
+"newSymbol": "BNZI"
+},
+{
+"date": "2023-12-14",
+"companyName": "Spire Global, Inc. Class A Common Stock",
+"oldSymbol": "SIKRI",
+"newSymbol": "SPIR"
+},
+{
+"date": "2023-12-13",
+"companyName": "Mynd.ai, Inc. American Depositary Shares",
+"oldSymbol": "GEHI",
+"newSymbol": "MYND"
+},
+{
+"date": "2023-12-13",
+"companyName": "ECD Automotive Design, Inc. Warrant ",
+"oldSymbol": "EFHTW",
+"newSymbol": "ECDAW"
+},
+{
+"date": "2023-12-13",
+"companyName": "ECD Automotive Design, Inc. Common Stock",
+"oldSymbol": "EFHT",
+"newSymbol": "ECDA"
+},
+{
+"date": "2023-12-07",
+"companyName": "African Agriculture Holdings Inc. Common Stock",
+"oldSymbol": "VCXA",
+"newSymbol": "AAGR"
+},
+{
+"date": "2023-12-07",
+"companyName": "African Agriculture Holdings Inc. Warrant",
+"oldSymbol": "VCXAW",
+"newSymbol": "AAGRW"
+},
+{
+"date": "2023-12-04",
+"companyName": "Volato Group, Inc. Class A Common Stock",
+"oldSymbol": "PACI",
+"newSymbol": "SOAR"
+},
+{
+"date": "2023-12-01",
+"companyName": "Worthington Steel, Inc. Common Shares",
+"oldSymbol": "WS.V",
+"newSymbol": "WS"
+},
+{
+"date": "2023-11-30",
+"companyName": "XBP Europe Holdings, Inc. Warrant",
+"oldSymbol": "CFFEW",
+"newSymbol": "XBPEW"
+},
+{
+"date": "2023-11-30",
+"companyName": "XBP Europe Holdings, Inc. Common Stock",
+"oldSymbol": "CFFE",
+"newSymbol": "XBP"
+},
+{
+"date": "2023-11-28",
+"companyName": "Spyre Therapeutics, Inc. Common Stock",
+"oldSymbol": "AGLE",
+"newSymbol": "SYRE"
+},
+{
+"date": "2023-11-28",
+"companyName": "Virtus Newfleet High Yield Bond ETF",
+"oldSymbol": "BLHY",
+"newSymbol": "VSHY"
+},
+{
+"date": "2023-11-28",
+"companyName": "ZEO SCIENTIFIX INC",
+"oldSymbol": "ZEOX",
+"newSymbol": "OCEL"
+},
+{
+"date": "2023-11-21",
+"companyName": "PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest",
+"oldSymbol": "NRGX",
+"newSymbol": "PDX"
+},
+{
+"date": "2023-11-18",
+"companyName": "BADGER INFRASTRUCTURE SOL",
+"oldSymbol": "BADF",
+"newSymbol": "S966"
+},
+{
+"date": "2023-11-18",
+"companyName": "NONGFU SHOP DIGITAL NEW",
+"oldSymbol": "YBCN",
+"newSymbol": "S337"
+},
+{
+"date": "2023-11-18",
+"companyName": "ITOCHU CORP UNSP/ADR",
+"oldSymbol": "ITOC",
+"newSymbol": "S387"
+},
+{
+"date": "2023-11-18",
+"companyName": "BIRCHTECH CORP",
+"oldSymbol": "MEEC",
+"newSymbol": "S641"
+},
+{
+"date": "2023-11-18",
+"companyName": "PREDICTIVE TECH GROUP INC",
+"oldSymbol": "PRED",
+"newSymbol": "S559"
+},
+{
+"date": "2023-11-18",
+"companyName": "SYNBIO INTERNATIONAL INC",
+"oldSymbol": "NHYF",
+"newSymbol": "S220"
+},
+{
+"date": "2023-11-18",
+"companyName": "HONDA MOTOR CO LTD",
+"oldSymbol": "HNDA",
+"newSymbol": "S566"
+},
+{
+"date": "2023-11-18",
+"companyName": "AIBOTICS INC",
+"oldSymbol": "TPIA",
+"newSymbol": "S829"
+},
+{
+"date": "2023-11-18",
+"companyName": "GREETEAT CORPORATION",
+"oldSymbol": "REPO",
+"newSymbol": "S468"
+},
+{
+"date": "2023-11-18",
+"companyName": "ISONICS CORP",
+"oldSymbol": "ISOND",
+"newSymbol": "S389"
+},
+{
+"date": "2023-11-18",
+"companyName": "SPANISH MOUNTAIN GOLD LTD",
+"oldSymbol": "SPAZ",
+"newSymbol": "S732"
+},
+{
+"date": "2023-11-18",
+"companyName": "WASTE ENERGY CORP.",
+"oldSymbol": "MWRK",
+"newSymbol": "S758"
+},
+{
+"date": "2023-11-18",
+"companyName": "RM2 INTERNATIONAL INC",
+"oldSymbol": "ARCW",
+"newSymbol": "S684"
+},
+{
+"date": "2023-11-18",
+"companyName": "NATIONWIDE RV AND RESORTS",
+"oldSymbol": "BWTX",
+"newSymbol": "S115"
+},
+{
+"date": "2023-11-18",
+"companyName": "CYBERFUELS HOLDING CO",
+"oldSymbol": "ECSL",
+"newSymbol": "S799"
+},
+{
+"date": "2023-11-18",
+"companyName": "NEOMETALS LTD S/ADR",
+"oldSymbol": "RDRU",
+"newSymbol": "S566"
+},
+{
+"date": "2023-11-18",
+"companyName": "SUPERSTAR PLATFORMS INC",
+"oldSymbol": "DWIS",
+"newSymbol": "S211"
+},
+{
+"date": "2023-11-18",
+"companyName": "GREEN LEAF INNOVATNS INC",
+"oldSymbol": "GRLF",
+"newSymbol": "S643"
+},
+{
+"date": "2023-11-18",
+"companyName": "URANIUM AMER RESOURCES",
+"oldSymbol": "TNGL",
+"newSymbol": "S856"
+},
+{
+"date": "2023-11-18",
+"companyName": "PINELAWN CEMETERY",
+"oldSymbol": "PLWN",
+"newSymbol": "S422"
+},
+{
+"date": "2023-11-18",
+"companyName": "BIOREGENX INC",
+"oldSymbol": "FDIT",
+"newSymbol": "S615"
+},
+{
+"date": "2023-11-18",
+"companyName": "ASIARIM CORP",
+"oldSymbol": "ARMC",
+"newSymbol": "S459"
+},
+{
+"date": "2023-11-18",
+"companyName": "TALON METAL CORP",
+"oldSymbol": "TLOF",
+"newSymbol": "S641"
+},
+{
+"date": "2023-11-18",
+"companyName": "GAENSEL ENERGY GROUP INC",
+"oldSymbol": "GEGR",
+"newSymbol": "S332"
+},
+{
+"date": "2023-11-18",
+"companyName": "PET ECOLOGY BRANDS INC",
+"oldSymbol": "PECD",
+"newSymbol": "S422"
+},
+{
+"date": "2023-11-18",
+"companyName": "TX RAIL PRODUCTS INC",
+"oldSymbol": "TXHG",
+"newSymbol": "S154"
+},
+{
+"date": "2023-11-18",
+"companyName": "ENCOUNTER TECHS INC",
+"oldSymbol": "ENTI",
+"newSymbol": "S620"
+},
+{
+"date": "2023-11-18",
+"companyName": "ROCHESTER CMNTY BASEBALL",
+"oldSymbol": "RCCB",
+"newSymbol": "S599"
+},
+{
+"date": "2023-11-18",
+"companyName": "SIMCLAR INC",
+"oldSymbol": "SIMC",
+"newSymbol": "S122"
+},
+{
+"date": "2023-11-18",
+"companyName": "ROWE COS",
+"oldSymbol": "ROW",
+"newSymbol": "S125"
+},
+{
+"date": "2023-11-18",
+"companyName": "CHINA COAL ENGY CO ADR",
+"oldSymbol": "CCOZ",
+"newSymbol": "S517"
+},
+{
+"date": "2023-11-18",
+"companyName": "MANILA ELEC CO ORD",
+"oldSymbol": "MERV",
+"newSymbol": "S911"
+},
+{
+"date": "2023-11-18",
+"companyName": "USDATA CORP",
+"oldSymbol": "USDC",
+"newSymbol": "S140"
+},
+{
+"date": "2023-11-18",
+"companyName": "LAKE RIDGE BANCORP INC",
+"oldSymbol": "SBBI",
+"newSymbol": "S416"
+},
+{
+"date": "2023-11-18",
+"companyName": "MDM GROUP INC",
+"oldSymbol": "MDDM",
+"newSymbol": "S821"
+},
+{
+"date": "2023-11-18",
+"companyName": "SAFESPACE GLOBAL CORP",
+"oldSymbol": "HITC",
+"newSymbol": "S872"
+},
+{
+"date": "2023-11-18",
+"companyName": "PARLIAMENT HOUSE ENTRPRS",
+"oldSymbol": "HPST",
+"newSymbol": "S349"
+},
+{
+"date": "2023-11-18",
+"companyName": "XTREME ONE ENTERTAINMENT",
+"oldSymbol": "CGRW",
+"newSymbol": "S660"
+},
+{
+"date": "2023-11-18",
+"companyName": "CHEMTRADE LOGSTCS INCM FD",
+"oldSymbol": "CGIF",
+"newSymbol": "S920"
+},
+{
+"date": "2023-11-18",
+"companyName": "BONVENU BANCORP INC",
+"oldSymbol": "CNBL",
+"newSymbol": "S159"
+},
+{
+"date": "2023-11-18",
+"companyName": "BOSTON PIZZA RTY INCM FD",
+"oldSymbol": "BPZZ",
+"newSymbol": "S940"
+},
+{
+"date": "2023-11-18",
+"companyName": "VIVENDI SE",
+"oldSymbol": "VIVE",
+"newSymbol": "S575"
+},
+{
+"date": "2023-11-18",
+"companyName": "DROR ORTHO-DESIGN INC",
+"oldSymbol": "NVNT",
+"newSymbol": "S234"
+},
+{
+"date": "2023-11-18",
+"companyName": "EXAIL TECHNOLOGIES",
+"oldSymbol": "GGRG",
+"newSymbol": "S782"
+},
+{
+"date": "2023-11-18",
+"companyName": "HIDILI INDS I/D UNSP/ADR",
+"oldSymbol": "HIID",
+"newSymbol": "S599"
+},
+{
+"date": "2023-11-18",
+"companyName": "FINTRADE SHERPA INC",
+"oldSymbol": "LSMG",
+"newSymbol": "S527"
+},
+{
+"date": "2023-11-17",
+"companyName": "Abits Group Inc Ordinary Shares",
+"oldSymbol": "MOXC",
+"newSymbol": "ABTS"
+},
+{
+"date": "2023-11-16",
+"companyName": "Mural Oncology plc Ordinary Shares ",
+"oldSymbol": "MURAV",
+"newSymbol": "MURA"
+},
+{
+"date": "2023-11-14",
+"companyName": "Cartesian Therapeutics, Inc. Common Stock",
+"oldSymbol": "SELB",
+"newSymbol": "RNAC"
+},
+{
+"date": "2023-11-09",
+"companyName": "Cheer Holding, Inc. Ordinary Share",
+"oldSymbol": "GSMG",
+"newSymbol": "CHR"
+},
+{
+"date": "2023-11-09",
+"companyName": "Roundhill Magnificent Seven ETF",
+"oldSymbol": "BIGT",
+"newSymbol": "MAGS"
+},
+{
+"date": "2023-11-08",
+"companyName": "OneMedNet Corp Class A Common Stock",
+"oldSymbol": "DKDCA",
+"newSymbol": "ONMD"
+},
+{
+"date": "2023-11-08",
+"companyName": "OneMedNet Corp Warrant",
+"oldSymbol": "DKDCW",
+"newSymbol": "ONMDW"
+},
+{
+"date": "2023-11-08",
+"companyName": "Syntec Optics Holdings, Inc. Class A Common Stock",
+"oldSymbol": "OLIT",
+"newSymbol": "OPTX"
+}
+]
