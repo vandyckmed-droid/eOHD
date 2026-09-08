@@ -5,3 +5,4 @@ qa_report.md
 state.json
 errors.log
 __pycache__/
+pull.log

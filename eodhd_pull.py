@@ -4,6 +4,7 @@
 Commands:
   probe             detect whether the API key has bulk access; writes state.json
   pull [--limit N]  download prices, splits, dividends (skips files already present)
+  --mode bulk|symbol  (any command) override the mode chosen by probe
   universe          write universe/{YYYY-MM}.csv for each month-end from 2007
   qa                write qa_report.md (+ qa/check*.csv)
 
@@ -12,7 +13,9 @@ or deleted. Errors are appended to errors.log and the run continues.
 """
 import csv
 import datetime as dt
+import gzip
 import json
+import threading
 import os
 import sys
 import time
@@ -20,6 +23,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from collections import deque
+from concurrent.futures import ThreadPoolExecutor
 
 BASE = "https://eodhd.com/api"
 KEY = os.environ.get("EODHD_KEY")
@@ -34,6 +38,9 @@ MIN_ADV = 25e6
 MIN_HISTORY = 252
 ADV_WINDOW = 20
 REPORT_ROWS = 100
+WORKERS = 4
+# main listing venues; excludes PINK/OTC* so the universe is not dominated by penny stocks
+MAIN_EXCHANGES = {"NYSE", "NASDAQ", "AMEX", "NYSE MKT", "NYSE ARCA", "BATS"}
 
 
 class QuotaExceeded(Exception):
@@ -48,18 +55,46 @@ def log_err(msg):
 
 
 def load_json(path, default=None):
+    """Read JSON; files ending in .gz are gzip-compressed."""
     if not os.path.exists(path):
         return default
-    with open(path) as f:
+    opener = gzip.open if path.endswith(".gz") else open
+    with opener(path, "rt") as f:
         return json.load(f)
 
 
 def save_json(path, obj):
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     tmp = path + ".tmp"
-    with open(tmp, "w") as f:
-        json.dump(obj, f)
+    opener = gzip.open if path.endswith(".gz") else open
+    with opener(tmp, "wt") as f:
+        json.dump(obj, f, separators=(",", ":"))
     os.replace(tmp, path)
+
+
+def run_parallel(jobs, what):
+    """Run zero-arg callables on WORKERS threads; stop everything on QuotaExceeded."""
+    stop = threading.Event()
+    failure = []
+    done = [0]
+    lock = threading.Lock()
+
+    def wrap(job):
+        if stop.is_set():
+            return
+        try:
+            job()
+        except QuotaExceeded as e:
+            failure.append(e)
+            stop.set()
+        with lock:
+            done[0] += 1
+            progress(done[0], len(jobs), what)
+
+    with ThreadPoolExecutor(WORKERS) as ex:
+        list(ex.map(wrap, jobs))
+    if failure:
+        raise failure[0]
 
 
 def num(x):
@@ -118,12 +153,12 @@ def fetch_to(path, target, params=None):
 def get_mode():
     mode = (load_json(STATE) or {}).get("mode")
     if mode not in ("bulk", "symbol"):
-        sys.exit("run `probe` first")
+        sys.exit("run `probe` first, or pass --mode bulk|symbol")
     return mode
 
 
 def load_symbols():
-    """Common Stock symbols (active + delisted), cached in data/symbols.json."""
+    """Common Stock symbols on main exchanges (active + delisted), cached in data/symbols.json."""
     p = f"{D}/symbols.json"
     syms = load_json(p)
     if syms is None:
@@ -133,8 +168,10 @@ def load_symbols():
             if rows is None:
                 sys.exit("symbol list fetch failed, see errors.log")
             for r in rows:
-                if r.get("Type") == "Common Stock" and "/" not in r["Code"]:
+                if r.get("Type") == "Common Stock" and r.get("Exchange") in MAIN_EXCHANGES \
+                        and "/" not in r["Code"]:
                     seen.setdefault(r["Code"], {"code": r["Code"], "name": r.get("Name"),
+                                                "exchange": r.get("Exchange"),
                                                 "delisted": bool(delisted)})
         syms = sorted(seen.values(), key=lambda s: s["code"])
         save_json(p, syms)
@@ -170,7 +207,7 @@ def iter_rows(mode, codes):
                     yield c, r
     else:
         for c in sorted(codes):
-            for r in load_json(f"{D}/eod/{c}.json") or []:
+            for r in load_json(f"{D}/eod/{c}.json.gz") or []:
                 yield c, r
 
 
@@ -202,19 +239,14 @@ def cmd_pull(limit=None):
     if limit:
         cal, syms = cal[:limit], syms[:limit]
     if mode == "bulk":
-        for i, d in enumerate(cal, 1):
-            fetch_to("/eod-bulk-last-day/US", f"{D}/daily/{d}.json", {"date": d})
-            progress(i, len(cal), "daily")
+        run_parallel([lambda d=d: fetch_to("/eod-bulk-last-day/US", f"{D}/daily/{d}.json.gz", {"date": d})
+                      for d in cal], "daily")
     else:
-        for i, s in enumerate(syms, 1):
-            c = s["code"]
-            fetch_to(f"/eod/{c}.US", f"{D}/eod/{c}.json", {"from": FROM})
-            progress(i, len(syms), "eod")
-    for i, s in enumerate(syms, 1):
-        c = s["code"]
-        fetch_to(f"/splits/{c}.US", f"{D}/corp/{c}.splits.json", {"from": FROM})
-        fetch_to(f"/div/{c}.US", f"{D}/corp/{c}.div.json", {"from": FROM})
-        progress(i, len(syms), "corp")
+        run_parallel([lambda c=s["code"]: fetch_to(f"/eod/{c}.US", f"{D}/eod/{c}.json.gz", {"from": FROM})
+                      for s in syms], "eod")
+    run_parallel([lambda c=s["code"]: (fetch_to(f"/splits/{c}.US", f"{D}/corp/{c}.splits.json.gz", {"from": FROM}),
+                                       fetch_to(f"/div/{c}.US", f"{D}/corp/{c}.div.json.gz", {"from": FROM}))
+                  for s in syms], "corp")
     print("pull complete")
 
 
@@ -296,7 +328,7 @@ def cmd_qa():
     idx = {d: i for i, d in enumerate(cal)}
     splits = {}
     for c in codes:
-        splits[c] = {r["date"] for r in load_json(f"{D}/corp/{c}.splits.json", []) if "date" in r}
+        splits[c] = {r["date"] for r in load_json(f"{D}/corp/{c}.splits.json.gz", []) if "date" in r}
 
     def near_split(c, d):
         day = dt.date.fromisoformat(d)
@@ -396,6 +428,8 @@ def main(argv):
         sys.exit("EODHD_KEY not set")
     cmd = argv[1] if len(argv) > 1 else ""
     limit = int(argv[argv.index("--limit") + 1]) if "--limit" in argv else None
+    if "--mode" in argv:
+        save_json(STATE, {"mode": argv[argv.index("--mode") + 1]})
     cmds = {"probe": cmd_probe, "pull": lambda: cmd_pull(limit),
             "universe": cmd_universe, "qa": cmd_qa}
     if cmd not in cmds:
