@@ -40,3 +40,5 @@ For the last trading day of each month from 2007-01: Common Stock, close >= $5, 
 ## Index membership (from FMP, saved 2026-09-08)
 
 `indexes/` holds current members and the add/remove history for the S&P 500, Nasdaq 100, and Dow. Used to build point-in-time universes without survivorship bias. FMP is no longer required once these are saved.
+
+`indexes/sp400_monthly.csv` and `indexes/sp600_monthly.csv` are month-end membership snapshots taken from the edit history of the Wikipedia list pages (`wiki_index_snapshots.py`). S&P 400 runs from 2011-01, S&P 600 from 2018-09. Volunteer-maintained, so changes can lag by days; a few months are slightly short of 400 / 600 names.
