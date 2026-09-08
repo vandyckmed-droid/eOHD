@@ -27,7 +27,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE = "https://eodhd.com/api"
 KEY = os.environ.get("EODHD_KEY")
-FROM = "2005-01-01"
+FROM = "1995-01-01"
 UNIVERSE_START = "2007-01"
 SLEEP = 0.1
 D = "data"
