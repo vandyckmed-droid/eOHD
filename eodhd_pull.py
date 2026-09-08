@@ -38,7 +38,7 @@ MIN_ADV = 25e6
 MIN_HISTORY = 252
 ADV_WINDOW = 20
 REPORT_ROWS = 100
-WORKERS = 4
+WORKERS = 8
 # main listing venues; excludes PINK/OTC* so the universe is not dominated by penny stocks
 MAIN_EXCHANGES = {"NYSE", "NASDAQ", "AMEX", "NYSE MKT", "NYSE ARCA", "BATS"}
 
