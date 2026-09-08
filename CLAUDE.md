@@ -17,3 +17,5 @@ Backtesting repo for a personal investment portfolio.
 - Answer yes/no questions with "Yes" or "No" alone.
 - Before any risky action (deleting, overwriting, spending), stop and ask me first.
 - If something could cost me money or break the app, say so plainly.
+- Nothing may run longer than 3 minutes without checking in with me first. Never plan or start multi-hour work.
+- One step at a time. Ask before each step that downloads, changes files, or schedules anything.
